@@ -1,0 +1,3083 @@
+{
+    "file_name": "e72f007c-c81b-4f6b-9b2c-685732741689_final skillxpress ppt.pdf",
+    "page_count": 8,
+    "pages": [
+        {
+            "page_number": 1,
+            "text": "SKILL\nXPRESS\nBridging skills, guidance, and opportunities for\nstudents\nAI-Powered Career\nGuidance &\nOpportunity Platform\nStart Presentation\n+500\nCareer Paths\n+90%\ncareer success rate\n+10\nFEATURES\nSkillXpress\nHome\nAbout\nSetting\nProfile\nBlog\nGallery\nContact\nAccount\n",
+            "headings": [
+                {
+                    "text": "+500",
+                    "bounding_box": {
+                        "x0": 1191.79,
+                        "y0": 133.25,
+                        "x1": 1336.12,
+                        "y1": 201.66
+                    },
+                    "width": 144.33,
+                    "height": 68.41
+                },
+                {
+                    "text": "Career Paths",
+                    "bounding_box": {
+                        "x0": 1191.79,
+                        "y0": 205.31,
+                        "x1": 1340.83,
+                        "y1": 232.75
+                    },
+                    "width": 149.04,
+                    "height": 27.44
+                },
+                {
+                    "text": "+90%",
+                    "bounding_box": {
+                        "x0": 1191.79,
+                        "y0": 270.01,
+                        "x1": 1355.19,
+                        "y1": 338.42
+                    },
+                    "width": 163.4,
+                    "height": 68.41
+                },
+                {
+                    "text": "career success rate",
+                    "bounding_box": {
+                        "x0": 1191.79,
+                        "y0": 342.07,
+                        "x1": 1417.39,
+                        "y1": 369.5
+                    },
+                    "width": 225.59,
+                    "height": 27.44
+                },
+                {
+                    "text": "+10",
+                    "bounding_box": {
+                        "x0": 1191.79,
+                        "y0": 406.76,
+                        "x1": 1289.47,
+                        "y1": 475.17
+                    },
+                    "width": 97.68,
+                    "height": 68.41
+                },
+                {
+                    "text": "FEATURES",
+                    "bounding_box": {
+                        "x0": 1191.79,
+                        "y0": 478.82,
+                        "x1": 1312.6,
+                        "y1": 506.26
+                    },
+                    "width": 120.81,
+                    "height": 27.44
+                }
+            ],
+            "topics": [
+                [
+                    "career",
+                    3
+                ],
+                [
+                    "guidance",
+                    2
+                ],
+                [
+                    "skill",
+                    1
+                ],
+                [
+                    "xpress",
+                    1
+                ],
+                [
+                    "bridging",
+                    1
+                ],
+                [
+                    "skills",
+                    1
+                ],
+                [
+                    "opportunities",
+                    1
+                ],
+                [
+                    "students",
+                    1
+                ],
+                [
+                    "powered",
+                    1
+                ],
+                [
+                    "opportunity",
+                    1
+                ]
+            ],
+            "tables": [],
+            "elements": [
+                {
+                    "type": "drawing",
+                    "drawing_number": 1,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 0.0,
+                        "y0": 0.0,
+                        "x1": 1440.0,
+                        "y1": 810.0
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 2,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 0.0,
+                        "y0": 0.0,
+                        "x1": 1440.0,
+                        "y1": 810.0
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 3,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 0.0,
+                        "y0": 0.0,
+                        "x1": 613.83,
+                        "y1": 81.0
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 2,
+                    "bounding_box": {
+                        "x0": 1294.82,
+                        "y0": 0.0,
+                        "x1": 1404.32,
+                        "y1": 107.25
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 1,
+                    "bounding_box": {
+                        "x0": 439.32,
+                        "y0": 40.5,
+                        "x1": 1240.32,
+                        "y1": 823.5
+                    }
+                },
+                {
+                    "type": "heading",
+                    "text": "+500",
+                    "bounding_box": {
+                        "x0": 1191.79,
+                        "y0": 133.25,
+                        "x1": 1336.12,
+                        "y1": 201.66
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 8,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 1132.81,
+                        "y0": 151.57,
+                        "x1": 1134.31,
+                        "y1": 506.66
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 4,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 1133.56,
+                        "y0": 151.57,
+                        "x1": 1133.56,
+                        "y1": 506.66
+                    }
+                },
+                {
+                    "type": "heading",
+                    "text": "Career Paths",
+                    "bounding_box": {
+                        "x0": 1191.79,
+                        "y0": 205.31,
+                        "x1": 1340.83,
+                        "y1": 232.75
+                    }
+                },
+                {
+                    "type": "heading",
+                    "text": "+90%",
+                    "bounding_box": {
+                        "x0": 1191.79,
+                        "y0": 270.01,
+                        "x1": 1355.19,
+                        "y1": 338.42
+                    }
+                },
+                {
+                    "type": "heading",
+                    "text": "career success rate",
+                    "bounding_box": {
+                        "x0": 1191.79,
+                        "y0": 342.07,
+                        "x1": 1417.39,
+                        "y1": 369.5
+                    }
+                },
+                {
+                    "type": "heading",
+                    "text": "+10",
+                    "bounding_box": {
+                        "x0": 1191.79,
+                        "y0": 406.76,
+                        "x1": 1289.47,
+                        "y1": 475.17
+                    }
+                },
+                {
+                    "type": "heading",
+                    "text": "FEATURES",
+                    "bounding_box": {
+                        "x0": 1191.79,
+                        "y0": 478.82,
+                        "x1": 1312.6,
+                        "y1": 506.26
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 9,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 1218.46,
+                        "y0": 620.01,
+                        "x1": 1313.69,
+                        "y1": 687.16
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 5,
+                    "item_count": 13,
+                    "bounding_box": {
+                        "x0": 1262.56,
+                        "y0": 620.01,
+                        "x1": 1313.66,
+                        "y1": 687.16
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 6,
+                    "item_count": 13,
+                    "bounding_box": {
+                        "x0": 1241.02,
+                        "y0": 630.78,
+                        "x1": 1275.74,
+                        "y1": 676.4
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 7,
+                    "item_count": 32,
+                    "bounding_box": {
+                        "x0": 1218.47,
+                        "y0": 645.95,
+                        "x1": 1233.75,
+                        "y1": 661.23
+                    }
+                }
+            ]
+        },
+        {
+            "page_number": 2,
+            "text": "SkillXpress\nHome\nAbout\nSetting\nProfile\nBlog\nGallery\nContact\nAccount\n➢ No single centralized career platform\n➢ Unaware of personal career risk level\n➢ Missed internships and job opportunities\n➢ No structured roadmap to dream jobs\n➢ Limited access to alumni and mentors\n➢ Lack of clear career guidance\n➢ Lack of real-world project exposure and\ncollaboration opportunities\nPROBLEM \nSTATEMENT\n",
+            "headings": [],
+            "topics": [
+                [
+                    "career",
+                    3
+                ],
+                [
+                    "opportunities",
+                    2
+                ],
+                [
+                    "lack",
+                    2
+                ],
+                [
+                    "skillxpress",
+                    1
+                ],
+                [
+                    "home",
+                    1
+                ],
+                [
+                    "about",
+                    1
+                ],
+                [
+                    "setting",
+                    1
+                ],
+                [
+                    "profile",
+                    1
+                ],
+                [
+                    "blog",
+                    1
+                ],
+                [
+                    "gallery",
+                    1
+                ]
+            ],
+            "tables": [
+                {
+                    "table_number": 1,
+                    "data": [
+                        [
+                            "",
+                            "PROBLEM\nSTATEMENT"
+                        ]
+                    ],
+                    "bounding_box": {
+                        "x0": 0.44,
+                        "y0": 129.08,
+                        "x1": 609.22,
+                        "y1": 315.63
+                    }
+                }
+            ],
+            "elements": [
+                {
+                    "type": "drawing",
+                    "drawing_number": 1,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 0.0,
+                        "y0": 0.0,
+                        "x1": 1440.0,
+                        "y1": 810.0
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 2,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 0.0,
+                        "y0": 0.0,
+                        "x1": 1440.0,
+                        "y1": 810.0
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 3,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 0.0,
+                        "y0": 0.0,
+                        "x1": 613.83,
+                        "y1": 81.0
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 2,
+                    "bounding_box": {
+                        "x0": 1324.37,
+                        "y0": 2.74,
+                        "x1": 1433.87,
+                        "y1": 109.99
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 4,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 1169.78,
+                        "y0": 15.65,
+                        "x1": 1219.46,
+                        "y1": 65.34
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 11,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 1169.78,
+                        "y0": 15.65,
+                        "x1": 1219.47,
+                        "y1": 65.35
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 8,
+                    "item_count": 6,
+                    "bounding_box": {
+                        "x0": 1182.76,
+                        "y0": 31.5,
+                        "x1": 1206.49,
+                        "y1": 43.19
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 7,
+                    "item_count": 5,
+                    "bounding_box": {
+                        "x0": 1181.68,
+                        "y0": 32.49,
+                        "x1": 1190.52,
+                        "y1": 48.5
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 5,
+                    "item_count": 5,
+                    "bounding_box": {
+                        "x0": 1198.72,
+                        "y0": 32.49,
+                        "x1": 1207.56,
+                        "y1": 48.5
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 6,
+                    "item_count": 7,
+                    "bounding_box": {
+                        "x0": 1182.76,
+                        "y0": 41.1,
+                        "x1": 1206.49,
+                        "y1": 49.49
+                    }
+                },
+                {
+                    "type": "table",
+                    "table_number": 1,
+                    "data": [
+                        [
+                            "",
+                            "PROBLEM\nSTATEMENT"
+                        ]
+                    ],
+                    "bounding_box": {
+                        "x0": 0.44,
+                        "y0": 129.08,
+                        "x1": 609.22,
+                        "y1": 315.63
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 10,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 2.19,
+                        "y0": 129.08,
+                        "x1": 609.22,
+                        "y1": 315.63
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 1,
+                    "bounding_box": {
+                        "x0": 613.86,
+                        "y0": 156.3,
+                        "x1": 1440.36,
+                        "y1": 706.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 9,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 755.34,
+                        "y0": 280.33,
+                        "x1": 1120.94,
+                        "y1": 728.76
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "text": "➢ No single centralized career platform\n➢ Unaware of personal career risk level\n➢ Missed internships and job opportunities\n➢ No structured roadmap to dream jobs\n➢ Limited access to alumni and mentors\n➢ Lack of clear career guidance\n➢ Lack of real-world project exposure and\ncollaboration opportunities",
+                    "bounding_box": {
+                        "x0": 23.5,
+                        "y0": 355.49,
+                        "x1": 640.82,
+                        "y1": 665.77
+                    }
+                }
+            ]
+        },
+        {
+            "page_number": 3,
+            "text": "Proposed Solution\nSkillXpress\nHome\nAbout\nSetting\nProfile\nBlog\nGallery\nContact\nAccount\nSkill-based project discovery and peer\ncollaboration. \nUnified Opportunity Aggregator: \nDynamic Skill Profiling: \nInternships, hackathons & certifications. \nAI-driven guidance with alumni expertise.\nHybrid Mentorship Model:\nExecution & Project Engine: \nPrecision Career Mapping: \nCollaborative Talent Network: \nDream Role Readiness\nReal-time, data-driven skill insights. \nStep-by-step guidance toward dream roles.  \nHands-on learning through guided project building. \nPercentage-based evaluation of your readiness for\nyour desired role. \n",
+            "headings": [
+                {
+                    "text": "Proposed Solution",
+                    "bounding_box": {
+                        "x0": 10.98,
+                        "y0": 97.02,
+                        "x1": 600.85,
+                        "y1": 173.26
+                    },
+                    "width": 589.87,
+                    "height": 76.24
+                },
+                {
+                    "text": "Unified Opportunity Aggregator:",
+                    "bounding_box": {
+                        "x0": 62.63,
+                        "y0": 197.81,
+                        "x1": 415.19,
+                        "y1": 223.61
+                    },
+                    "width": 352.56,
+                    "height": 25.8
+                },
+                {
+                    "text": "Dynamic Skill Profiling:",
+                    "bounding_box": {
+                        "x0": 65.82,
+                        "y0": 277.18,
+                        "x1": 338.02,
+                        "y1": 304.15
+                    },
+                    "width": 272.19,
+                    "height": 26.97
+                },
+                {
+                    "text": "Internships, hackathons & certifications.",
+                    "bounding_box": {
+                        "x0": 77.78,
+                        "y0": 229.59,
+                        "x1": 485.69,
+                        "y1": 253.48
+                    },
+                    "width": 407.91,
+                    "height": 23.89
+                },
+                {
+                    "text": "AI-driven guidance with alumni expertise.",
+                    "bounding_box": {
+                        "x0": 71.88,
+                        "y0": 742.43,
+                        "x1": 459.09,
+                        "y1": 764.72
+                    },
+                    "width": 387.22,
+                    "height": 22.28
+                },
+                {
+                    "text": "Hybrid Mentorship Model:",
+                    "bounding_box": {
+                        "x0": 65.82,
+                        "y0": 701.66,
+                        "x1": 361.11,
+                        "y1": 728.64
+                    },
+                    "width": 295.29,
+                    "height": 26.97
+                },
+                {
+                    "text": "Execution & Project Engine:",
+                    "bounding_box": {
+                        "x0": 65.82,
+                        "y0": 447.45,
+                        "x1": 384.87,
+                        "y1": 474.42
+                    },
+                    "width": 319.05,
+                    "height": 26.97
+                },
+                {
+                    "text": "Precision Career Mapping:",
+                    "bounding_box": {
+                        "x0": 65.82,
+                        "y0": 365.15,
+                        "x1": 369.62,
+                        "y1": 392.12
+                    },
+                    "width": 303.8,
+                    "height": 26.97
+                },
+                {
+                    "text": "Collaborative Talent Network:",
+                    "bounding_box": {
+                        "x0": 65.82,
+                        "y0": 518.8,
+                        "x1": 413.79,
+                        "y1": 545.78
+                    },
+                    "width": 347.97,
+                    "height": 26.97
+                },
+                {
+                    "text": "Dream Role Readiness",
+                    "bounding_box": {
+                        "x0": 63.88,
+                        "y0": 611.94,
+                        "x1": 317.19,
+                        "y1": 638.91
+                    },
+                    "width": 253.31,
+                    "height": 26.97
+                },
+                {
+                    "text": "Real-time, data-driven skill insights.",
+                    "bounding_box": {
+                        "x0": 71.88,
+                        "y0": 321.79,
+                        "x1": 438.73,
+                        "y1": 345.68
+                    },
+                    "width": 366.85,
+                    "height": 23.89
+                },
+                {
+                    "text": "Step-by-step guidance toward dream roles.",
+                    "bounding_box": {
+                        "x0": 81.0,
+                        "y0": 406.76,
+                        "x1": 531.35,
+                        "y1": 430.65
+                    },
+                    "width": 450.35,
+                    "height": 23.89
+                },
+                {
+                    "text": "Hands-on learning through guided project building.",
+                    "bounding_box": {
+                        "x0": 77.23,
+                        "y0": 485.09,
+                        "x1": 592.75,
+                        "y1": 508.97
+                    },
+                    "width": 515.53,
+                    "height": 23.89
+                }
+            ],
+            "topics": [
+                [
+                    "skill",
+                    3
+                ],
+                [
+                    "project",
+                    3
+                ],
+                [
+                    "based",
+                    2
+                ],
+                [
+                    "driven",
+                    2
+                ],
+                [
+                    "guidance",
+                    2
+                ],
+                [
+                    "dream",
+                    2
+                ],
+                [
+                    "role",
+                    2
+                ],
+                [
+                    "readiness",
+                    2
+                ],
+                [
+                    "step",
+                    2
+                ],
+                [
+                    "your",
+                    2
+                ]
+            ],
+            "tables": [],
+            "elements": [
+                {
+                    "type": "drawing",
+                    "drawing_number": 1,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 0.0,
+                        "y0": 0.0,
+                        "x1": 1440.0,
+                        "y1": 810.0
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 2,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 0.0,
+                        "y0": 0.0,
+                        "x1": 1440.0,
+                        "y1": 810.0
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 3,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 0.0,
+                        "y0": 0.0,
+                        "x1": 613.83,
+                        "y1": 81.0
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 1,
+                    "bounding_box": {
+                        "x0": 1324.37,
+                        "y0": 2.74,
+                        "x1": 1433.87,
+                        "y1": 109.99
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 4,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 1169.78,
+                        "y0": 15.65,
+                        "x1": 1219.46,
+                        "y1": 65.34
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 16,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 1169.78,
+                        "y0": 15.65,
+                        "x1": 1219.47,
+                        "y1": 65.35
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 8,
+                    "item_count": 6,
+                    "bounding_box": {
+                        "x0": 1182.76,
+                        "y0": 31.5,
+                        "x1": 1206.49,
+                        "y1": 43.19
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 7,
+                    "item_count": 5,
+                    "bounding_box": {
+                        "x0": 1181.68,
+                        "y0": 32.49,
+                        "x1": 1190.52,
+                        "y1": 48.5
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 5,
+                    "item_count": 5,
+                    "bounding_box": {
+                        "x0": 1198.72,
+                        "y0": 32.49,
+                        "x1": 1207.56,
+                        "y1": 48.5
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 6,
+                    "item_count": 7,
+                    "bounding_box": {
+                        "x0": 1182.76,
+                        "y0": 41.1,
+                        "x1": 1206.49,
+                        "y1": 49.49
+                    }
+                },
+                {
+                    "type": "heading",
+                    "text": "Proposed Solution",
+                    "bounding_box": {
+                        "x0": 10.98,
+                        "y0": 97.02,
+                        "x1": 600.85,
+                        "y1": 173.26
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 2,
+                    "bounding_box": {
+                        "x0": 547.23,
+                        "y0": 122.3,
+                        "x1": 1473.48,
+                        "y1": 740.3
+                    }
+                },
+                {
+                    "type": "heading",
+                    "text": "Unified Opportunity Aggregator:",
+                    "bounding_box": {
+                        "x0": 62.63,
+                        "y0": 197.81,
+                        "x1": 415.19,
+                        "y1": 223.61
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 9,
+                    "item_count": 16,
+                    "bounding_box": {
+                        "x0": 44.74,
+                        "y0": 208.52,
+                        "x1": 51.49,
+                        "y1": 215.27
+                    }
+                },
+                {
+                    "type": "heading",
+                    "text": "Internships, hackathons & certifications.",
+                    "bounding_box": {
+                        "x0": 77.78,
+                        "y0": 229.59,
+                        "x1": 485.69,
+                        "y1": 253.48
+                    }
+                },
+                {
+                    "type": "heading",
+                    "text": "Dynamic Skill Profiling:",
+                    "bounding_box": {
+                        "x0": 65.82,
+                        "y0": 277.18,
+                        "x1": 338.02,
+                        "y1": 304.15
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 10,
+                    "item_count": 16,
+                    "bounding_box": {
+                        "x0": 46.98,
+                        "y0": 288.82,
+                        "x1": 53.73,
+                        "y1": 295.57
+                    }
+                },
+                {
+                    "type": "heading",
+                    "text": "Real-time, data-driven skill insights.",
+                    "bounding_box": {
+                        "x0": 71.88,
+                        "y0": 321.79,
+                        "x1": 438.73,
+                        "y1": 345.68
+                    }
+                },
+                {
+                    "type": "heading",
+                    "text": "Precision Career Mapping:",
+                    "bounding_box": {
+                        "x0": 65.82,
+                        "y0": 365.15,
+                        "x1": 369.62,
+                        "y1": 392.12
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 13,
+                    "item_count": 16,
+                    "bounding_box": {
+                        "x0": 46.98,
+                        "y0": 376.79,
+                        "x1": 53.73,
+                        "y1": 383.54
+                    }
+                },
+                {
+                    "type": "heading",
+                    "text": "Step-by-step guidance toward dream roles.",
+                    "bounding_box": {
+                        "x0": 81.0,
+                        "y0": 406.76,
+                        "x1": 531.35,
+                        "y1": 430.65
+                    }
+                },
+                {
+                    "type": "heading",
+                    "text": "Execution & Project Engine:",
+                    "bounding_box": {
+                        "x0": 65.82,
+                        "y0": 447.45,
+                        "x1": 384.87,
+                        "y1": 474.42
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 12,
+                    "item_count": 16,
+                    "bounding_box": {
+                        "x0": 46.98,
+                        "y0": 459.08,
+                        "x1": 53.73,
+                        "y1": 465.83
+                    }
+                },
+                {
+                    "type": "heading",
+                    "text": "Hands-on learning through guided project building.",
+                    "bounding_box": {
+                        "x0": 77.23,
+                        "y0": 485.09,
+                        "x1": 592.75,
+                        "y1": 508.97
+                    }
+                },
+                {
+                    "type": "heading",
+                    "text": "Collaborative Talent Network:",
+                    "bounding_box": {
+                        "x0": 65.82,
+                        "y0": 518.8,
+                        "x1": 413.79,
+                        "y1": 545.78
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 14,
+                    "item_count": 16,
+                    "bounding_box": {
+                        "x0": 46.98,
+                        "y0": 530.44,
+                        "x1": 53.73,
+                        "y1": 537.19
+                    }
+                },
+                {
+                    "type": "heading",
+                    "text": "Dream Role Readiness",
+                    "bounding_box": {
+                        "x0": 63.88,
+                        "y0": 611.94,
+                        "x1": 317.19,
+                        "y1": 638.91
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 15,
+                    "item_count": 16,
+                    "bounding_box": {
+                        "x0": 45.04,
+                        "y0": 623.57,
+                        "x1": 51.79,
+                        "y1": 630.32
+                    }
+                },
+                {
+                    "type": "heading",
+                    "text": "Hybrid Mentorship Model:",
+                    "bounding_box": {
+                        "x0": 65.82,
+                        "y0": 701.66,
+                        "x1": 361.11,
+                        "y1": 728.64
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 11,
+                    "item_count": 16,
+                    "bounding_box": {
+                        "x0": 46.98,
+                        "y0": 713.3,
+                        "x1": 53.73,
+                        "y1": 720.05
+                    }
+                },
+                {
+                    "type": "heading",
+                    "text": "AI-driven guidance with alumni expertise.",
+                    "bounding_box": {
+                        "x0": 71.88,
+                        "y0": 742.43,
+                        "x1": 459.09,
+                        "y1": 764.72
+                    }
+                }
+            ]
+        },
+        {
+            "page_number": 4,
+            "text": "FEASIBILITY AND\nVIABILITY\nSkillXpress\nHome\nAbout\nSetting\nProfile\nBlog\nGallery\nContact\nAccount\nOperational \nAutomated User Workflows\n Frictionless Digital Onboarding \nLow Maintenance Backend\n        Technical & Market Viability\nTechnical \nAI-Driven Analytics \nScalable Cloud Stack \nReal-time Skill Mapping\nEconomic\n Lean Infrastructure \nCost Tiered Subscription Model \nHigh Market ROI \n   Core USPs\n✔ AI-generated skill graph\nfrom real student activity\n✔ Career risk prediction \nengine\n✔ Dual mentorship: \nAI + Alumni\n✔ Skill-first hiring\ninstead of resume-only \nfiltering\n",
+            "headings": [
+                {
+                    "text": "FEASIBILITY AND",
+                    "bounding_box": {
+                        "x0": 947.48,
+                        "y0": 93.3,
+                        "x1": 1286.05,
+                        "y1": 140.22
+                    },
+                    "width": 338.57,
+                    "height": 46.92
+                },
+                {
+                    "text": "VIABILITY",
+                    "bounding_box": {
+                        "x0": 1018.93,
+                        "y0": 148.8,
+                        "x1": 1214.6,
+                        "y1": 195.72
+                    },
+                    "width": 195.66,
+                    "height": 46.92
+                },
+                {
+                    "text": "Technical & Market Viability",
+                    "bounding_box": {
+                        "x0": 867.88,
+                        "y0": 219.13,
+                        "x1": 1290.18,
+                        "y1": 256.98
+                    },
+                    "width": 422.3,
+                    "height": 37.85
+                },
+                {
+                    "text": "Core USPs",
+                    "bounding_box": {
+                        "x0": 583.49,
+                        "y0": 251.9,
+                        "x1": 821.37,
+                        "y1": 308.05
+                    },
+                    "width": 237.88,
+                    "height": 56.15
+                }
+            ],
+            "topics": [
+                [
+                    "skill",
+                    3
+                ],
+                [
+                    "viability",
+                    2
+                ],
+                [
+                    "technical",
+                    2
+                ],
+                [
+                    "market",
+                    2
+                ],
+                [
+                    "real",
+                    2
+                ],
+                [
+                    "feasibility",
+                    1
+                ],
+                [
+                    "skillxpress",
+                    1
+                ],
+                [
+                    "home",
+                    1
+                ],
+                [
+                    "about",
+                    1
+                ],
+                [
+                    "setting",
+                    1
+                ]
+            ],
+            "tables": [],
+            "elements": [
+                {
+                    "type": "drawing",
+                    "drawing_number": 1,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 0.0,
+                        "y0": 0.0,
+                        "x1": 1440.0,
+                        "y1": 810.0
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 2,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 0.0,
+                        "y0": 0.0,
+                        "x1": 1440.0,
+                        "y1": 810.0
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 3,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 0.0,
+                        "y0": 0.0,
+                        "x1": 613.83,
+                        "y1": 81.0
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 1,
+                    "bounding_box": {
+                        "x0": 1330.51,
+                        "y0": 0.44,
+                        "x1": 1440.01,
+                        "y1": 107.69
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 4,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 1169.78,
+                        "y0": 15.65,
+                        "x1": 1219.46,
+                        "y1": 65.34
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 11,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 1169.78,
+                        "y0": 15.65,
+                        "x1": 1219.47,
+                        "y1": 65.35
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 8,
+                    "item_count": 6,
+                    "bounding_box": {
+                        "x0": 1182.76,
+                        "y0": 31.5,
+                        "x1": 1206.49,
+                        "y1": 43.19
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 7,
+                    "item_count": 5,
+                    "bounding_box": {
+                        "x0": 1181.68,
+                        "y0": 32.49,
+                        "x1": 1190.52,
+                        "y1": 48.5
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 5,
+                    "item_count": 5,
+                    "bounding_box": {
+                        "x0": 1198.72,
+                        "y0": 32.49,
+                        "x1": 1207.56,
+                        "y1": 48.5
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 6,
+                    "item_count": 7,
+                    "bounding_box": {
+                        "x0": 1182.76,
+                        "y0": 41.1,
+                        "x1": 1206.49,
+                        "y1": 49.49
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 10,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 902.65,
+                        "y0": 81.0,
+                        "x1": 1331.0,
+                        "y1": 207.92
+                    }
+                },
+                {
+                    "type": "heading",
+                    "text": "FEASIBILITY AND",
+                    "bounding_box": {
+                        "x0": 947.48,
+                        "y0": 93.3,
+                        "x1": 1286.05,
+                        "y1": 140.22
+                    }
+                },
+                {
+                    "type": "heading",
+                    "text": "VIABILITY",
+                    "bounding_box": {
+                        "x0": 1018.93,
+                        "y0": 148.8,
+                        "x1": 1214.6,
+                        "y1": 195.72
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 2,
+                    "bounding_box": {
+                        "x0": -115.75,
+                        "y0": 172.17,
+                        "x1": 650.61,
+                        "y1": 683.08
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 9,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 560.58,
+                        "y0": 191.95,
+                        "x1": 882.03,
+                        "y1": 789.64
+                    }
+                },
+                {
+                    "type": "heading",
+                    "text": "Technical & Market Viability",
+                    "bounding_box": {
+                        "x0": 867.88,
+                        "y0": 219.13,
+                        "x1": 1290.18,
+                        "y1": 256.98
+                    }
+                },
+                {
+                    "type": "heading",
+                    "text": "Core USPs",
+                    "bounding_box": {
+                        "x0": 583.49,
+                        "y0": 251.9,
+                        "x1": 821.37,
+                        "y1": 308.05
+                    }
+                }
+            ]
+        },
+        {
+            "page_number": 5,
+            "text": "SkillXpress\nHome\nAbout\nSetting\nProfile\nBlog\nGallery\nContact\nAccount\nFrontend:\n• Responsive UI with Bootstrap & JS\n• Interactive dashboards (Skill Graph visualization)\nBackend:\nSystem Architecture\n• Node.js + Express (REST APIs)\n• AI-based skill analysis engine\nDatabase:\nIntegrations:\nCloud & Deployment:\n• MongoDB Atlas (Encrypted & scalable)\n         • Stores user profiles, projects & skill insights\n• GitHub API → repo & language analysis\n• Competitive coding APIs →performance tracking\n• Vercel (Frontend) + Render (Backend)\n• Scalable & production-ready architecture\nTECHNOLOGY STACK\n",
+            "headings": [
+                {
+                    "text": "Frontend:",
+                    "bounding_box": {
+                        "x0": 922.33,
+                        "y0": 236.32,
+                        "x1": 1035.72,
+                        "y1": 264.03
+                    },
+                    "width": 113.39,
+                    "height": 27.71
+                },
+                {
+                    "text": "Backend:",
+                    "bounding_box": {
+                        "x0": 922.33,
+                        "y0": 343.67,
+                        "x1": 1027.31,
+                        "y1": 370.74
+                    },
+                    "width": 104.98,
+                    "height": 27.07
+                },
+                {
+                    "text": "System Architecture",
+                    "bounding_box": {
+                        "x0": 848.13,
+                        "y0": 186.89,
+                        "x1": 1142.81,
+                        "y1": 220.9
+                    },
+                    "width": 294.68,
+                    "height": 34.01
+                },
+                {
+                    "text": "• Node.js + Express (REST APIs)",
+                    "bounding_box": {
+                        "x0": 920.69,
+                        "y0": 383.51,
+                        "x1": 1209.18,
+                        "y1": 410.33
+                    },
+                    "width": 288.5,
+                    "height": 26.82
+                },
+                {
+                    "text": "• AI-based skill analysis engine",
+                    "bounding_box": {
+                        "x0": 921.98,
+                        "y0": 410.51,
+                        "x1": 1207.9,
+                        "y1": 437.33
+                    },
+                    "width": 285.92,
+                    "height": 26.82
+                },
+                {
+                    "text": "Database:",
+                    "bounding_box": {
+                        "x0": 929.31,
+                        "y0": 443.65,
+                        "x1": 1044.47,
+                        "y1": 471.21
+                    },
+                    "width": 115.17,
+                    "height": 27.56
+                },
+                {
+                    "text": "Integrations:",
+                    "bounding_box": {
+                        "x0": 933.59,
+                        "y0": 543.61,
+                        "x1": 1081.0,
+                        "y1": 571.17
+                    },
+                    "width": 147.42,
+                    "height": 27.56
+                },
+                {
+                    "text": "Cloud & Deployment:",
+                    "bounding_box": {
+                        "x0": 934.59,
+                        "y0": 649.64,
+                        "x1": 1177.35,
+                        "y1": 677.21
+                    },
+                    "width": 242.76,
+                    "height": 27.56
+                },
+                {
+                    "text": "TECHNOLOGY STACK",
+                    "bounding_box": {
+                        "x0": 808.74,
+                        "y0": 106.49,
+                        "x1": 1273.59,
+                        "y1": 159.27
+                    },
+                    "width": 464.85,
+                    "height": 52.78
+                }
+            ],
+            "topics": [
+                [
+                    "skill",
+                    3
+                ],
+                [
+                    "frontend",
+                    2
+                ],
+                [
+                    "backend",
+                    2
+                ],
+                [
+                    "architecture",
+                    2
+                ],
+                [
+                    "apis",
+                    2
+                ],
+                [
+                    "analysis",
+                    2
+                ],
+                [
+                    "scalable",
+                    2
+                ],
+                [
+                    "skillxpress",
+                    1
+                ],
+                [
+                    "home",
+                    1
+                ],
+                [
+                    "about",
+                    1
+                ]
+            ],
+            "tables": [],
+            "elements": [
+                {
+                    "type": "drawing",
+                    "drawing_number": 1,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 0.0,
+                        "y0": 0.0,
+                        "x1": 1440.0,
+                        "y1": 810.0
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 2,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 0.0,
+                        "y0": 0.0,
+                        "x1": 1440.0,
+                        "y1": 810.0
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 3,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 0.0,
+                        "y0": 0.0,
+                        "x1": 613.83,
+                        "y1": 81.0
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 1,
+                    "bounding_box": {
+                        "x0": 1328.59,
+                        "y0": 2.74,
+                        "x1": 1438.09,
+                        "y1": 109.99
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 4,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 1169.78,
+                        "y0": 15.65,
+                        "x1": 1219.46,
+                        "y1": 65.34
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 23,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 1169.78,
+                        "y0": 15.65,
+                        "x1": 1219.47,
+                        "y1": 65.35
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 8,
+                    "item_count": 6,
+                    "bounding_box": {
+                        "x0": 1182.76,
+                        "y0": 31.5,
+                        "x1": 1206.49,
+                        "y1": 43.19
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 7,
+                    "item_count": 5,
+                    "bounding_box": {
+                        "x0": 1181.68,
+                        "y0": 32.49,
+                        "x1": 1190.52,
+                        "y1": 48.5
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 5,
+                    "item_count": 5,
+                    "bounding_box": {
+                        "x0": 1198.72,
+                        "y0": 32.49,
+                        "x1": 1207.56,
+                        "y1": 48.5
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 6,
+                    "item_count": 7,
+                    "bounding_box": {
+                        "x0": 1182.76,
+                        "y0": 41.1,
+                        "x1": 1206.49,
+                        "y1": 49.49
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 22,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 753.77,
+                        "y0": 89.84,
+                        "x1": 1328.63,
+                        "y1": 176.25
+                    }
+                },
+                {
+                    "type": "heading",
+                    "text": "TECHNOLOGY STACK",
+                    "bounding_box": {
+                        "x0": 808.74,
+                        "y0": 106.49,
+                        "x1": 1273.59,
+                        "y1": 159.27
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 13,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": -67.13,
+                        "y0": 118.44,
+                        "x1": 613.86,
+                        "y1": 847.31
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 4,
+                    "bounding_box": {
+                        "x0": 8.08,
+                        "y0": 183.3,
+                        "x1": 829.33,
+                        "y1": 730.8
+                    }
+                },
+                {
+                    "type": "heading",
+                    "text": "System Architecture",
+                    "bounding_box": {
+                        "x0": 848.13,
+                        "y0": 186.89,
+                        "x1": 1142.81,
+                        "y1": 220.9
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 14,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 101.66,
+                        "y0": 200.65,
+                        "x1": 801.19,
+                        "y1": 722.75
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 15,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 101.66,
+                        "y0": 200.65,
+                        "x1": 801.82,
+                        "y1": 722.74
+                    }
+                },
+                {
+                    "type": "heading",
+                    "text": "Frontend:",
+                    "bounding_box": {
+                        "x0": 922.33,
+                        "y0": 236.32,
+                        "x1": 1035.72,
+                        "y1": 264.03
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 24,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 886.99,
+                        "y0": 236.77,
+                        "x1": 914.55,
+                        "y1": 264.62
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 10,
+                    "item_count": 6,
+                    "bounding_box": {
+                        "x0": 886.99,
+                        "y0": 236.78,
+                        "x1": 901.89,
+                        "y1": 264.61
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 9,
+                    "item_count": 6,
+                    "bounding_box": {
+                        "x0": 893.7,
+                        "y0": 236.78,
+                        "x1": 914.54,
+                        "y1": 264.61
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "text": "• Responsive UI with Bootstrap & JS\n• Interactive dashboards (Skill Graph visualization)",
+                    "bounding_box": {
+                        "x0": 922.33,
+                        "y0": 274.08,
+                        "x1": 1407.72,
+                        "y1": 324.19
+                    }
+                },
+                {
+                    "type": "heading",
+                    "text": "Backend:",
+                    "bounding_box": {
+                        "x0": 922.33,
+                        "y0": 343.67,
+                        "x1": 1027.31,
+                        "y1": 370.74
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 25,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 886.99,
+                        "y0": 344.1,
+                        "x1": 914.55,
+                        "y1": 371.95
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 12,
+                    "item_count": 6,
+                    "bounding_box": {
+                        "x0": 886.99,
+                        "y0": 344.11,
+                        "x1": 901.89,
+                        "y1": 371.94
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 11,
+                    "item_count": 6,
+                    "bounding_box": {
+                        "x0": 893.7,
+                        "y0": 344.11,
+                        "x1": 914.54,
+                        "y1": 371.94
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 2,
+                    "bounding_box": {
+                        "x0": 443.04,
+                        "y0": 366.59,
+                        "x1": 691.29,
+                        "y1": 587.09
+                    }
+                },
+                {
+                    "type": "heading",
+                    "text": "• Node.js + Express (REST APIs)",
+                    "bounding_box": {
+                        "x0": 920.69,
+                        "y0": 383.51,
+                        "x1": 1209.18,
+                        "y1": 410.33
+                    }
+                },
+                {
+                    "type": "heading",
+                    "text": "• AI-based skill analysis engine",
+                    "bounding_box": {
+                        "x0": 921.98,
+                        "y0": 410.51,
+                        "x1": 1207.9,
+                        "y1": 437.33
+                    }
+                },
+                {
+                    "type": "heading",
+                    "text": "Database:",
+                    "bounding_box": {
+                        "x0": 929.31,
+                        "y0": 443.65,
+                        "x1": 1044.47,
+                        "y1": 471.21
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 26,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 884.16,
+                        "y0": 449.09,
+                        "x1": 911.72,
+                        "y1": 476.94
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 17,
+                    "item_count": 6,
+                    "bounding_box": {
+                        "x0": 884.16,
+                        "y0": 449.1,
+                        "x1": 899.07,
+                        "y1": 476.93
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 16,
+                    "item_count": 6,
+                    "bounding_box": {
+                        "x0": 890.87,
+                        "y0": 449.1,
+                        "x1": 911.71,
+                        "y1": 476.93
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 3,
+                    "bounding_box": {
+                        "x0": 187.57,
+                        "y0": 457.63,
+                        "x1": 458.32,
+                        "y1": 638.38
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "text": "• MongoDB Atlas (Encrypted & scalable)\n         • Stores user profiles, projects & skill insights",
+                    "bounding_box": {
+                        "x0": 884.16,
+                        "y0": 481.15,
+                        "x1": 1344.98,
+                        "y1": 534.7
+                    }
+                },
+                {
+                    "type": "heading",
+                    "text": "Integrations:",
+                    "bounding_box": {
+                        "x0": 933.59,
+                        "y0": 543.61,
+                        "x1": 1081.0,
+                        "y1": 571.17
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 27,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 884.16,
+                        "y0": 549.47,
+                        "x1": 911.72,
+                        "y1": 577.31
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 19,
+                    "item_count": 6,
+                    "bounding_box": {
+                        "x0": 884.16,
+                        "y0": 549.48,
+                        "x1": 899.07,
+                        "y1": 577.3
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 18,
+                    "item_count": 6,
+                    "bounding_box": {
+                        "x0": 890.87,
+                        "y0": 549.48,
+                        "x1": 911.71,
+                        "y1": 577.3
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "text": "• GitHub API → repo & language analysis\n• Competitive coding APIs →performance tracking",
+                    "bounding_box": {
+                        "x0": 924.58,
+                        "y0": 578.57,
+                        "x1": 1386.79,
+                        "y1": 632.12
+                    }
+                },
+                {
+                    "type": "heading",
+                    "text": "Cloud & Deployment:",
+                    "bounding_box": {
+                        "x0": 934.59,
+                        "y0": 649.64,
+                        "x1": 1177.35,
+                        "y1": 677.21
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 21,
+                    "item_count": 6,
+                    "bounding_box": {
+                        "x0": 886.99,
+                        "y0": 649.85,
+                        "x1": 904.34,
+                        "y1": 682.25
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 28,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 886.99,
+                        "y0": 649.85,
+                        "x1": 919.07,
+                        "y1": 682.25
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 20,
+                    "item_count": 6,
+                    "bounding_box": {
+                        "x0": 894.8,
+                        "y0": 649.85,
+                        "x1": 919.06,
+                        "y1": 682.25
+                    }
+                }
+            ]
+        },
+        {
+            "page_number": 6,
+            "text": "→ Revenue Streams\n      Cost Structure\nServer & database\ncost\nGemini API (₹0.5–₹2\nper\nuser)Marketing &\nmaintenance\n     Revenue Model\nSubscription-based\npricing\nAffordable plans\nfor students\nRecurring income\nvia renewals\n          Scalability\nLow cost per user\nHigh profit margin\nEasy to scale with\nusers\n       Value Delivery\nAl-powered skill\ninsights\nPersonalized learning\nroadmap\nReal-time\nopportunities\nBUSINESS MODEL\nProfile\nBlog\nGallery\nContact\nAccount\nSkillXpress\nAbout\nSetting\nHome\n",
+            "headings": [
+                {
+                    "text": "→ Revenue Streams",
+                    "bounding_box": {
+                        "x0": 32.36,
+                        "y0": 201.58,
+                        "x1": 316.77,
+                        "y1": 242.43
+                    },
+                    "width": 284.41,
+                    "height": 40.85
+                },
+                {
+                    "text": "Cost Structure",
+                    "bounding_box": {
+                        "x0": 337.75,
+                        "y0": 526.48,
+                        "x1": 526.03,
+                        "y1": 556.43
+                    },
+                    "width": 188.28,
+                    "height": 29.96
+                },
+                {
+                    "text": "Revenue Model",
+                    "bounding_box": {
+                        "x0": 48.92,
+                        "y0": 252.31,
+                        "x1": 241.07,
+                        "y1": 282.27
+                    },
+                    "width": 192.15,
+                    "height": 29.96
+                },
+                {
+                    "text": "Scalability",
+                    "bounding_box": {
+                        "x0": 29.2,
+                        "y0": 554.23,
+                        "x1": 197.69,
+                        "y1": 584.18
+                    },
+                    "width": 168.49,
+                    "height": 29.96
+                },
+                {
+                    "text": "Value Delivery",
+                    "bounding_box": {
+                        "x0": 328.28,
+                        "y0": 252.31,
+                        "x1": 521.79,
+                        "y1": 282.27
+                    },
+                    "width": 193.51,
+                    "height": 29.96
+                },
+                {
+                    "text": "BUSINESS MODEL",
+                    "bounding_box": {
+                        "x0": 144.86,
+                        "y0": 120.91,
+                        "x1": 500.95,
+                        "y1": 167.83
+                    },
+                    "width": 356.09,
+                    "height": 46.92
+                }
+            ],
+            "topics": [
+                [
+                    "cost",
+                    3
+                ],
+                [
+                    "revenue",
+                    2
+                ],
+                [
+                    "per",
+                    2
+                ],
+                [
+                    "user",
+                    2
+                ],
+                [
+                    "model",
+                    2
+                ],
+                [
+                    "streams",
+                    1
+                ],
+                [
+                    "structure",
+                    1
+                ],
+                [
+                    "server",
+                    1
+                ],
+                [
+                    "database",
+                    1
+                ],
+                [
+                    "gemini",
+                    1
+                ]
+            ],
+            "tables": [],
+            "elements": [
+                {
+                    "type": "drawing",
+                    "drawing_number": 1,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 0.0,
+                        "y0": 0.0,
+                        "x1": 1440.0,
+                        "y1": 810.0
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 2,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 0.0,
+                        "y0": 0.0,
+                        "x1": 1440.0,
+                        "y1": 810.0
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 25,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 0.0,
+                        "y0": 0.0,
+                        "x1": 613.83,
+                        "y1": 81.0
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 1,
+                    "bounding_box": {
+                        "x0": 1330.51,
+                        "y0": 0.0,
+                        "x1": 1440.01,
+                        "y1": 107.25
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 3,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 1169.78,
+                        "y0": 15.65,
+                        "x1": 1219.46,
+                        "y1": 65.34
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 27,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 1169.78,
+                        "y0": 15.65,
+                        "x1": 1219.47,
+                        "y1": 65.35
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 7,
+                    "item_count": 6,
+                    "bounding_box": {
+                        "x0": 1182.76,
+                        "y0": 31.5,
+                        "x1": 1206.49,
+                        "y1": 43.19
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 6,
+                    "item_count": 5,
+                    "bounding_box": {
+                        "x0": 1181.68,
+                        "y0": 32.49,
+                        "x1": 1190.52,
+                        "y1": 48.5
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 4,
+                    "item_count": 5,
+                    "bounding_box": {
+                        "x0": 1198.72,
+                        "y0": 32.49,
+                        "x1": 1207.56,
+                        "y1": 48.5
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 5,
+                    "item_count": 7,
+                    "bounding_box": {
+                        "x0": 1182.76,
+                        "y0": 41.1,
+                        "x1": 1206.49,
+                        "y1": 49.49
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 2,
+                    "bounding_box": {
+                        "x0": 800.08,
+                        "y0": 55.09,
+                        "x1": 1337.08,
+                        "y1": 860.59
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 26,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 68.08,
+                        "y0": 107.86,
+                        "x1": 577.72,
+                        "y1": 181.99
+                    }
+                },
+                {
+                    "type": "heading",
+                    "text": "BUSINESS MODEL",
+                    "bounding_box": {
+                        "x0": 144.86,
+                        "y0": 120.91,
+                        "x1": 500.95,
+                        "y1": 167.83
+                    }
+                },
+                {
+                    "type": "heading",
+                    "text": "→ Revenue Streams",
+                    "bounding_box": {
+                        "x0": 32.36,
+                        "y0": 201.58,
+                        "x1": 316.77,
+                        "y1": 242.43
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 13,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 45.92,
+                        "y0": 248.22,
+                        "x1": 268.95,
+                        "y1": 445.79
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 21,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 325.28,
+                        "y0": 248.22,
+                        "x1": 568.38,
+                        "y1": 445.79
+                    }
+                },
+                {
+                    "type": "heading",
+                    "text": "Revenue Model",
+                    "bounding_box": {
+                        "x0": 48.92,
+                        "y0": 252.31,
+                        "x1": 241.07,
+                        "y1": 282.27
+                    }
+                },
+                {
+                    "type": "heading",
+                    "text": "Value Delivery",
+                    "bounding_box": {
+                        "x0": 328.28,
+                        "y0": 252.31,
+                        "x1": 521.79,
+                        "y1": 282.27
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 14,
+                    "item_count": 16,
+                    "bounding_box": {
+                        "x0": 63.17,
+                        "y0": 293.07,
+                        "x1": 69.92,
+                        "y1": 299.82
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 22,
+                    "item_count": 16,
+                    "bounding_box": {
+                        "x0": 342.53,
+                        "y0": 293.07,
+                        "x1": 349.28,
+                        "y1": 299.82
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 15,
+                    "item_count": 16,
+                    "bounding_box": {
+                        "x0": 63.17,
+                        "y0": 345.57,
+                        "x1": 69.92,
+                        "y1": 352.32
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 23,
+                    "item_count": 16,
+                    "bounding_box": {
+                        "x0": 342.53,
+                        "y0": 345.57,
+                        "x1": 349.28,
+                        "y1": 352.32
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 16,
+                    "item_count": 16,
+                    "bounding_box": {
+                        "x0": 63.17,
+                        "y0": 398.07,
+                        "x1": 69.92,
+                        "y1": 404.82
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 24,
+                    "item_count": 16,
+                    "bounding_box": {
+                        "x0": 342.53,
+                        "y0": 398.07,
+                        "x1": 349.28,
+                        "y1": 404.82
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 17,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 26.2,
+                        "y0": 522.39,
+                        "x1": 269.52,
+                        "y1": 722.03
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 8,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 334.75,
+                        "y0": 522.39,
+                        "x1": 577.85,
+                        "y1": 719.95
+                    }
+                },
+                {
+                    "type": "heading",
+                    "text": "Cost Structure",
+                    "bounding_box": {
+                        "x0": 337.75,
+                        "y0": 526.48,
+                        "x1": 526.03,
+                        "y1": 556.43
+                    }
+                },
+                {
+                    "type": "heading",
+                    "text": "Scalability",
+                    "bounding_box": {
+                        "x0": 29.2,
+                        "y0": 554.23,
+                        "x1": 197.69,
+                        "y1": 584.18
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 9,
+                    "item_count": 16,
+                    "bounding_box": {
+                        "x0": 352.0,
+                        "y0": 567.24,
+                        "x1": 358.75,
+                        "y1": 573.99
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "text": "Low cost per user\nHigh profit margin\nEasy to scale with\nusers",
+                    "bounding_box": {
+                        "x0": 61.5,
+                        "y0": 584.43,
+                        "x1": 230.63,
+                        "y1": 689.05
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 18,
+                    "item_count": 16,
+                    "bounding_box": {
+                        "x0": 43.45,
+                        "y0": 594.99,
+                        "x1": 50.2,
+                        "y1": 601.74
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 10,
+                    "item_count": 16,
+                    "bounding_box": {
+                        "x0": 352.0,
+                        "y0": 619.74,
+                        "x1": 358.75,
+                        "y1": 626.49
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 19,
+                    "item_count": 16,
+                    "bounding_box": {
+                        "x0": 43.45,
+                        "y0": 621.24,
+                        "x1": 50.2,
+                        "y1": 627.99
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 20,
+                    "item_count": 16,
+                    "bounding_box": {
+                        "x0": 43.45,
+                        "y0": 647.49,
+                        "x1": 50.2,
+                        "y1": 654.24
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 11,
+                    "item_count": 16,
+                    "bounding_box": {
+                        "x0": 352.0,
+                        "y0": 672.24,
+                        "x1": 358.75,
+                        "y1": 678.99
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 12,
+                    "item_count": 16,
+                    "bounding_box": {
+                        "x0": 352.0,
+                        "y0": 698.49,
+                        "x1": 358.75,
+                        "y1": 705.24
+                    }
+                }
+            ]
+        },
+        {
+            "page_number": 7,
+            "text": "VALUE PROPOSITION\n SCALABILITY &\nSUSTAINABILITY\nSkillXpress\nHome\nAbout\nSetting\nProfile\nBlog\nGallery\nContact\nAccount\nWho Benefits & How\nValue Proposition\nStudents\nData-driven skill insights for clear career\ndirection\nPersonalized growth with AI-powered guidance\nAlumni\n Structured platform to mentor, guide, and\ncreate impact\nRecruiters\n Verified, skill-based hiring with real\nperformance data\nColleges\n Improved placement readiness with\nmeasurable outcomes\nScalable Growth\nFreemium model for rapid user\nacquisition\nLow-cost, cloud-based infrastructure\nensures scalability\nExpansion: Campus → City → Pan-\nIndia ecosystem\nContinuous skill tracking drives\nengagement & retention\n",
+            "headings": [
+                {
+                    "text": "Who Benefits & How",
+                    "bounding_box": {
+                        "x0": 16.41,
+                        "y0": 262.42,
+                        "x1": 292.38,
+                        "y1": 300.55
+                    },
+                    "width": 275.97,
+                    "height": 38.13
+                },
+                {
+                    "text": "Value Proposition",
+                    "bounding_box": {
+                        "x0": 33.31,
+                        "y0": 301.42,
+                        "x1": 275.48,
+                        "y1": 339.55
+                    },
+                    "width": 242.17,
+                    "height": 38.13
+                },
+                {
+                    "text": "Students",
+                    "bounding_box": {
+                        "x0": 13.82,
+                        "y0": 347.66,
+                        "x1": 142.41,
+                        "y1": 387.21
+                    },
+                    "width": 128.59,
+                    "height": 39.55
+                },
+                {
+                    "text": "Scalable Growth",
+                    "bounding_box": {
+                        "x0": 1000.91,
+                        "y0": 337.52,
+                        "x1": 1225.17,
+                        "y1": 375.65
+                    },
+                    "width": 224.26,
+                    "height": 38.13
+                }
+            ],
+            "topics": [
+                [
+                    "skill",
+                    3
+                ],
+                [
+                    "value",
+                    2
+                ],
+                [
+                    "proposition",
+                    2
+                ],
+                [
+                    "scalability",
+                    2
+                ],
+                [
+                    "data",
+                    2
+                ],
+                [
+                    "growth",
+                    2
+                ],
+                [
+                    "based",
+                    2
+                ],
+                [
+                    "sustainability",
+                    1
+                ],
+                [
+                    "skillxpress",
+                    1
+                ],
+                [
+                    "home",
+                    1
+                ]
+            ],
+            "tables": [],
+            "elements": [
+                {
+                    "type": "drawing",
+                    "drawing_number": 1,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 0.0,
+                        "y0": 0.0,
+                        "x1": 1440.0,
+                        "y1": 810.0
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 2,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 0.0,
+                        "y0": 0.0,
+                        "x1": 1440.0,
+                        "y1": 810.0
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 3,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 0.0,
+                        "y0": 0.0,
+                        "x1": 613.83,
+                        "y1": 81.0
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 1,
+                    "bounding_box": {
+                        "x0": 1324.37,
+                        "y0": 2.74,
+                        "x1": 1433.87,
+                        "y1": 109.99
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 4,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 1169.78,
+                        "y0": 15.65,
+                        "x1": 1219.46,
+                        "y1": 65.34
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 20,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 1169.78,
+                        "y0": 15.65,
+                        "x1": 1219.47,
+                        "y1": 65.35
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 8,
+                    "item_count": 6,
+                    "bounding_box": {
+                        "x0": 1182.76,
+                        "y0": 31.5,
+                        "x1": 1206.49,
+                        "y1": 43.19
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 7,
+                    "item_count": 5,
+                    "bounding_box": {
+                        "x0": 1181.68,
+                        "y0": 32.49,
+                        "x1": 1190.52,
+                        "y1": 48.5
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 5,
+                    "item_count": 5,
+                    "bounding_box": {
+                        "x0": 1198.72,
+                        "y0": 32.49,
+                        "x1": 1207.56,
+                        "y1": 48.5
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 6,
+                    "item_count": 7,
+                    "bounding_box": {
+                        "x0": 1182.76,
+                        "y0": 41.1,
+                        "x1": 1206.49,
+                        "y1": 49.49
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 2,
+                    "bounding_box": {
+                        "x0": 519.99,
+                        "y0": 106.91,
+                        "x1": 990.68,
+                        "y1": 812.94
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 9,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 23.61,
+                        "y0": 133.32,
+                        "x1": 461.64,
+                        "y1": 250.13
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 10,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 1000.91,
+                        "y0": 150.99,
+                        "x1": 1388.15,
+                        "y1": 300.74
+                    }
+                },
+                {
+                    "type": "heading",
+                    "text": "Who Benefits & How",
+                    "bounding_box": {
+                        "x0": 16.41,
+                        "y0": 262.42,
+                        "x1": 292.38,
+                        "y1": 300.55
+                    }
+                },
+                {
+                    "type": "heading",
+                    "text": "Value Proposition",
+                    "bounding_box": {
+                        "x0": 33.31,
+                        "y0": 301.42,
+                        "x1": 275.48,
+                        "y1": 339.55
+                    }
+                },
+                {
+                    "type": "heading",
+                    "text": "Scalable Growth",
+                    "bounding_box": {
+                        "x0": 1000.91,
+                        "y0": 337.52,
+                        "x1": 1225.17,
+                        "y1": 375.65
+                    }
+                },
+                {
+                    "type": "heading",
+                    "text": "Students",
+                    "bounding_box": {
+                        "x0": 13.82,
+                        "y0": 347.66,
+                        "x1": 142.41,
+                        "y1": 387.21
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "text": "Data-driven skill insights for clear career\ndirection\nPersonalized growth with AI-powered guidance\nAlumni",
+                    "bounding_box": {
+                        "x0": 13.82,
+                        "y0": 389.76,
+                        "x1": 526.49,
+                        "y1": 514.01
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 11,
+                    "item_count": 16,
+                    "bounding_box": {
+                        "x0": 30.93,
+                        "y0": 399.7,
+                        "x1": 37.16,
+                        "y1": 405.93
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "text": "Freemium model for rapid user\nacquisition\nLow-cost, cloud-based infrastructure\nensures scalability\nExpansion: Campus → City → Pan-\nIndia ecosystem\nContinuous skill tracking drives\nengagement & retention",
+                    "bounding_box": {
+                        "x0": 1047.15,
+                        "y0": 404.53,
+                        "x1": 1422.95,
+                        "y1": 628.48
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 16,
+                    "item_count": 16,
+                    "bounding_box": {
+                        "x0": 1028.97,
+                        "y0": 414.17,
+                        "x1": 1035.72,
+                        "y1": 420.92
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 12,
+                    "item_count": 16,
+                    "bounding_box": {
+                        "x0": 30.93,
+                        "y0": 457.27,
+                        "x1": 37.16,
+                        "y1": 463.49
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 17,
+                    "item_count": 16,
+                    "bounding_box": {
+                        "x0": 1028.97,
+                        "y0": 471.17,
+                        "x1": 1035.72,
+                        "y1": 477.92
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 13,
+                    "item_count": 16,
+                    "bounding_box": {
+                        "x0": 30.93,
+                        "y0": 526.5,
+                        "x1": 37.16,
+                        "y1": 532.73
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 18,
+                    "item_count": 16,
+                    "bounding_box": {
+                        "x0": 1028.97,
+                        "y0": 528.17,
+                        "x1": 1035.72,
+                        "y1": 534.92
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 19,
+                    "item_count": 16,
+                    "bounding_box": {
+                        "x0": 1028.97,
+                        "y0": 585.17,
+                        "x1": 1035.72,
+                        "y1": 591.92
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 14,
+                    "item_count": 16,
+                    "bounding_box": {
+                        "x0": 30.93,
+                        "y0": 624.52,
+                        "x1": 37.16,
+                        "y1": 630.75
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 15,
+                    "item_count": 16,
+                    "bounding_box": {
+                        "x0": 30.93,
+                        "y0": 722.54,
+                        "x1": 37.16,
+                        "y1": 728.76
+                    }
+                }
+            ]
+        },
+        {
+            "page_number": 8,
+            "text": "SkillXpress\nHome\nAbout\nSetting\nProfile\nBlog\nGallery\nContact\nAccount\nTHANK YOU!\nSee You Next Time\nThe End\n",
+            "headings": [
+                {
+                    "text": "THANK YOU!",
+                    "bounding_box": {
+                        "x0": 69.71,
+                        "y0": 287.4,
+                        "x1": 903.89,
+                        "y1": 455.18
+                    },
+                    "width": 834.18,
+                    "height": 167.78
+                }
+            ],
+            "topics": [
+                [
+                    "you",
+                    2
+                ],
+                [
+                    "skillxpress",
+                    1
+                ],
+                [
+                    "home",
+                    1
+                ],
+                [
+                    "about",
+                    1
+                ],
+                [
+                    "setting",
+                    1
+                ],
+                [
+                    "profile",
+                    1
+                ],
+                [
+                    "blog",
+                    1
+                ],
+                [
+                    "gallery",
+                    1
+                ],
+                [
+                    "contact",
+                    1
+                ],
+                [
+                    "account",
+                    1
+                ]
+            ],
+            "tables": [],
+            "elements": [
+                {
+                    "type": "drawing",
+                    "drawing_number": 1,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 0.0,
+                        "y0": 0.0,
+                        "x1": 1440.0,
+                        "y1": 810.0
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 2,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 0.0,
+                        "y0": 0.0,
+                        "x1": 1440.0,
+                        "y1": 810.0
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 3,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 0.0,
+                        "y0": 0.0,
+                        "x1": 613.83,
+                        "y1": 81.0
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 1,
+                    "bounding_box": {
+                        "x0": 1324.37,
+                        "y0": 2.74,
+                        "x1": 1433.87,
+                        "y1": 109.99
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 4,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 1169.78,
+                        "y0": 15.65,
+                        "x1": 1219.46,
+                        "y1": 65.34
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 12,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 1169.78,
+                        "y0": 15.65,
+                        "x1": 1219.47,
+                        "y1": 65.35
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 8,
+                    "item_count": 6,
+                    "bounding_box": {
+                        "x0": 1182.76,
+                        "y0": 31.5,
+                        "x1": 1206.49,
+                        "y1": 43.19
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 7,
+                    "item_count": 5,
+                    "bounding_box": {
+                        "x0": 1181.68,
+                        "y0": 32.49,
+                        "x1": 1190.52,
+                        "y1": 48.5
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 5,
+                    "item_count": 5,
+                    "bounding_box": {
+                        "x0": 1198.72,
+                        "y0": 32.49,
+                        "x1": 1207.56,
+                        "y1": 48.5
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 6,
+                    "item_count": 7,
+                    "bounding_box": {
+                        "x0": 1182.76,
+                        "y0": 41.1,
+                        "x1": 1206.49,
+                        "y1": 49.49
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 2,
+                    "bounding_box": {
+                        "x0": 720.83,
+                        "y0": 133.32,
+                        "x1": 1692.58,
+                        "y1": 781.7
+                    }
+                },
+                {
+                    "type": "heading",
+                    "text": "THANK YOU!",
+                    "bounding_box": {
+                        "x0": 69.71,
+                        "y0": 287.4,
+                        "x1": 903.89,
+                        "y1": 455.18
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 9,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 113.49,
+                        "y0": 538.82,
+                        "x1": 356.6,
+                        "y1": 596.77
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 10,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 377.59,
+                        "y0": 538.82,
+                        "x1": 541.7,
+                        "y1": 596.77
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 13,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 543.84,
+                        "y0": 566.29,
+                        "x1": 957.5,
+                        "y1": 569.29
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 11,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 543.84,
+                        "y0": 567.79,
+                        "x1": 957.5,
+                        "y1": 567.79
+                    }
+                }
+            ]
+        }
+    ]
+}
