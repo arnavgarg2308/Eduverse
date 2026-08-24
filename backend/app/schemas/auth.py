@@ -11,3 +11,15 @@ class UserRegister(BaseModel):
 class UserLogin(BaseModel):
     email: EmailStr
     password: str
+
+class UserProfileUpdate(BaseModel):
+
+    name: str | None = None
+
+    email: EmailStr | None = None
+
+class ChangePassword(BaseModel):
+
+    current_password: str
+
+    new_password: str

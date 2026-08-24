@@ -1,10 +1,16 @@
 from fastapi import APIRouter, HTTPException, Depends
 from fastapi.security import HTTPBearer, HTTPAuthorizationCredentials
+from bson import ObjectId
 
-from Eduverse.backend.app.schemas.auth import UserRegister, UserLogin
-from Eduverse.backend.app.database.mongodb import database
+from app.schemas.auth import (
+    UserRegister,
+    UserLogin,
+    UserProfileUpdate,
+    ChangePassword
+)
+from app.database.mongodb import database
 
-from Eduverse.backend.app.core.security import (
+from app.core.security import (
     hash_password,
     verify_password,
     create_access_token,
@@ -125,4 +131,151 @@ async def get_current_user(
         "name": user["name"],
         "email": user["email"],
         "role": user["role"]
+    }
+
+# Update Current User Profile
+@router.put("/me")
+async def update_current_user(
+    updated_data: UserProfileUpdate,
+    credentials: HTTPAuthorizationCredentials = Depends(security)
+):
+
+    token = credentials.credentials
+
+    payload = verify_access_token(token)
+
+    if not payload:
+        raise HTTPException(
+            status_code=401,
+            detail="Invalid or expired token"
+        )
+
+    update_data = updated_data.model_dump(
+        exclude_none=True
+    )
+
+    if not update_data:
+        raise HTTPException(
+            status_code=400,
+            detail="No data provided for update"
+        )
+
+    # If email is being changed, check duplicate email
+    if "email" in update_data:
+
+        existing_user = await database.users.find_one(
+            {
+                "email": update_data["email"],
+                "_id": {"$ne": ObjectId(payload["user_id"])}
+            }
+        )
+
+        if existing_user:
+            raise HTTPException(
+                status_code=400,
+                detail="Email already registered"
+            )
+
+    try:
+        result = await database.users.update_one(
+            {
+                "_id": ObjectId(payload["user_id"])
+            },
+            {
+                "$set": update_data
+            }
+        )
+
+    except:
+        raise HTTPException(
+            status_code=400,
+            detail="Invalid user ID"
+        )
+
+    if result.matched_count == 0:
+        raise HTTPException(
+            status_code=404,
+            detail="User not found"
+        )
+
+    updated_user = await database.users.find_one(
+        {
+            "_id": ObjectId(payload["user_id"])
+        }
+    )
+
+    return {
+        "message": "Profile updated successfully",
+        "user_id": str(updated_user["_id"]),
+        "name": updated_user["name"],
+        "email": updated_user["email"],
+        "role": updated_user["role"]
+    }
+
+# Change Password API
+@router.put("/change-password")
+async def change_password(
+    password_data: ChangePassword,
+    credentials: HTTPAuthorizationCredentials = Depends(security)
+):
+
+    token = credentials.credentials
+
+    payload = verify_access_token(token)
+
+    if not payload:
+        raise HTTPException(
+            status_code=401,
+            detail="Invalid or expired token"
+        )
+
+    try:
+        user = await database.users.find_one(
+            {
+                "_id": ObjectId(payload["user_id"])
+            }
+        )
+
+    except:
+        raise HTTPException(
+            status_code=400,
+            detail="Invalid user ID"
+        )
+
+    if not user:
+        raise HTTPException(
+            status_code=404,
+            detail="User not found"
+        )
+
+    # Check current password
+    password_correct = verify_password(
+        password_data.current_password,
+        user["password_hash"]
+    )
+
+    if not password_correct:
+        raise HTTPException(
+            status_code=400,
+            detail="Current password is incorrect"
+        )
+
+    # Hash new password
+    new_password_hash = hash_password(
+        password_data.new_password
+    )
+
+    await database.users.update_one(
+        {
+            "_id": user["_id"]
+        },
+        {
+            "$set": {
+                "password_hash": new_password_hash
+            }
+        }
+    )
+
+    return {
+        "message": "Password changed successfully"
     }

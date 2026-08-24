@@ -1,10 +1,20 @@
 from fastapi import FastAPI
 from contextlib import asynccontextmanager
 
-from Eduverse.backend.app.routes.auth import router as auth_router
-from Eduverse.backend.app.routes.course import router as course_router
+from app.routes.dashboard import router as dashboard_router
+from app.routes.documents import router as documents_router
+from app.routes.learning import router as learning_router
+from app.routes.quiz import router as quiz_router
+from app.routes.auth import router as auth_router
+from app.routes.course import router as course_router
+from app.routes.enrollment import router as enrollment_router
+from app.routes.profile import router as profile_router
+from app.routes.lesson import router as lesson_router
+from app.routes.course_progress import router as course_progress_router
+from app.routes import lesson_completion
+from app.routes import users
 
-from Eduverse.backend.app.database.mongodb import (
+from app.database.mongodb import (
     connect_to_mongo,
     close_mongo_connection
 )
@@ -26,10 +36,20 @@ app = FastAPI(
 )
 
 
-# Authentication routes
-# app.include_router(auth_router)
+# Routers
 app.include_router(auth_router)
 app.include_router(course_router)
+app.include_router(dashboard_router)
+app.include_router(documents_router)
+app.include_router(learning_router)
+app.include_router(quiz_router)
+app.include_router(enrollment_router)
+app.include_router(profile_router)
+app.include_router(lesson_router)
+app.include_router(course_progress_router)
+app.include_router(lesson_completion.router)
+app.include_router(users.router)
+
 
 @app.get("/")
 def home():
