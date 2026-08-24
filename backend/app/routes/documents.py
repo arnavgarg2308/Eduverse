@@ -1,9 +1,27 @@
-from fastapi import APIRouter, HTTPException, Depends
-from bson import ObjectId
+from fastapi import (
+    APIRouter,
+    HTTPException,
+    Depends,
+    UploadFile,
+    File
+)
 
-from app.database.mongodb import database
+from bson import ObjectId
+from datetime import datetime
+
+from app.database.mongodb import (
+    database,
+    gridfs_bucket
+)
+
 from app.core.security import get_current_user
-from app.schemas.document import DocumentCreate, DocumentUpdate
+
+from app.schemas.document import (
+    DocumentCreate,
+    DocumentUpdate
+)
+
+from app.services.pdf_service import extract_text_from_pdf
 
 
 router = APIRouter(
@@ -12,7 +30,85 @@ router = APIRouter(
 )
 
 
+# ==========================================
+# Upload PDF and Extract Text
+# ==========================================
+
+@router.post("/upload")
+async def upload_pdf(
+    file: UploadFile = File(...),
+    current_user: dict = Depends(get_current_user)
+):
+
+    # Check file type
+    if file.content_type != "application/pdf":
+        raise HTTPException(
+            status_code=400,
+            detail="Only PDF files are allowed"
+        )
+
+    # Read PDF file
+    file_data = await file.read()
+
+    # Check empty file
+    if not file_data:
+        raise HTTPException(
+            status_code=400,
+            detail="Uploaded file is empty"
+        )
+
+    # Extract text from PDF
+    try:
+        extracted_text = extract_text_from_pdf(
+            file_data
+        )
+
+    except Exception as e:
+        raise HTTPException(
+            status_code=500,
+            detail=str(e)
+        )
+
+    # Store original PDF in GridFS
+    file_id = await gridfs_bucket.upload_from_stream(
+        file.filename,
+        file_data,
+        metadata={
+            "user_id": current_user["user_id"],
+            "content_type": file.content_type,
+            "uploaded_at": datetime.utcnow()
+        }
+    )
+
+    # Save document metadata and extracted text
+    document_data = {
+        "user_id": current_user["user_id"],
+        "filename": file.filename,
+        "content_type": file.content_type,
+        "file_id": str(file_id),
+        "extracted_text": extracted_text,
+        "uploaded_at": datetime.utcnow(),
+        "status": "uploaded"
+    }
+
+    result = await database.documents.insert_one(
+        document_data
+    )
+
+    return {
+        "message": "PDF uploaded and processed successfully",
+        "document_id": str(result.inserted_id),
+        "file_id": str(file_id),
+        "filename": file.filename,
+        "text_length": len(extracted_text),
+        "status": "uploaded"
+    }
+
+
+# ==========================================
 # Create Document
+# ==========================================
+
 @router.post("/")
 async def create_document(
     document: DocumentCreate,
@@ -34,7 +130,10 @@ async def create_document(
     }
 
 
+# ==========================================
 # Get Current User Documents
+# ==========================================
+
 @router.get("/")
 async def get_all_documents(
     current_user: dict = Depends(get_current_user)
@@ -48,7 +147,10 @@ async def get_all_documents(
         }
     ):
 
-        document["document_id"] = str(document["_id"])
+        document["document_id"] = str(
+            document["_id"]
+        )
+
         del document["_id"]
 
         documents.append(document)
@@ -56,7 +158,10 @@ async def get_all_documents(
     return documents
 
 
+# ==========================================
 # Get Single Document
+# ==========================================
+
 @router.get("/{document_id}")
 async def get_document(
     document_id: str,
@@ -83,13 +188,19 @@ async def get_document(
             detail="Document not found"
         )
 
-    document["document_id"] = str(document["_id"])
+    document["document_id"] = str(
+        document["_id"]
+    )
+
     del document["_id"]
 
     return document
 
 
+# ==========================================
 # Update Document
+# ==========================================
+
 @router.put("/{document_id}")
 async def update_document(
     document_id: str,
@@ -135,7 +246,10 @@ async def update_document(
     }
 
 
+# ==========================================
 # Delete Document
+# ==========================================
+
 @router.delete("/{document_id}")
 async def delete_document(
     document_id: str,
@@ -143,7 +257,7 @@ async def delete_document(
 ):
 
     try:
-        result = await database.documents.delete_one(
+        document = await database.documents.find_one(
             {
                 "_id": ObjectId(document_id),
                 "user_id": current_user["user_id"]
@@ -156,11 +270,18 @@ async def delete_document(
             detail="Invalid document ID"
         )
 
-    if result.deleted_count == 0:
+    if not document:
         raise HTTPException(
             status_code=404,
             detail="Document not found"
         )
+
+    await database.documents.delete_one(
+        {
+            "_id": ObjectId(document_id),
+            "user_id": current_user["user_id"]
+        }
+    )
 
     return {
         "message": "Document deleted successfully"
