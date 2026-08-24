@@ -1,0 +1,181 @@
+{
+    "file_name": "sample.pdf",
+    "page_count": 2,
+    "pages": [
+        {
+            "page_number": 1,
+            "text": "Introduction to Artificial Intelligence\n1. What is Artificial Intelligence?\nArtificial Intelligence, commonly known as AI, is a branch of computer science that focuses on\nbuilding systems capable of performing tasks that normally require human intelligence.\n2. Machine Learning\nMachine Learning is a subset of Artificial Intelligence. It enables computers to learn patterns from\ndata and improve their performance without being explicitly programmed for every task.\nExercises\n1. Define Artificial Intelligence in your own words.\n2. What is the difference between Artificial Intelligence and Machine Learning?\n3. Give three real-world applications of AI.\n",
+            "headings": [
+                {
+                    "text": "Introduction to Artificial Intelligence",
+                    "bounding_box": {
+                        "x0": 143.61,
+                        "y0": 76.74,
+                        "x1": 451.66,
+                        "y1": 101.53
+                    },
+                    "width": 308.05,
+                    "height": 24.79
+                },
+                {
+                    "text": "1. What is Artificial Intelligence?",
+                    "bounding_box": {
+                        "x0": 78.0,
+                        "y0": 124.74,
+                        "x1": 354.08,
+                        "y1": 149.53
+                    },
+                    "width": 276.08,
+                    "height": 24.79
+                },
+                {
+                    "text": "2. Machine Learning",
+                    "bounding_box": {
+                        "x0": 78.0,
+                        "y0": 207.74,
+                        "x1": 251.05,
+                        "y1": 232.53
+                    },
+                    "width": 173.05,
+                    "height": 24.79
+                },
+                {
+                    "text": "Exercises",
+                    "bounding_box": {
+                        "x0": 78.0,
+                        "y0": 290.74,
+                        "x1": 162.06,
+                        "y1": 315.53
+                    },
+                    "width": 84.06,
+                    "height": 24.79
+                }
+            ],
+            "topics": [
+                [
+                    "intelligence",
+                    7
+                ],
+                [
+                    "artificial",
+                    6
+                ],
+                [
+                    "machine",
+                    3
+                ],
+                [
+                    "learning",
+                    3
+                ],
+                [
+                    "introduction",
+                    1
+                ],
+                [
+                    "commonly",
+                    1
+                ],
+                [
+                    "known",
+                    1
+                ],
+                [
+                    "branch",
+                    1
+                ],
+                [
+                    "computer",
+                    1
+                ],
+                [
+                    "science",
+                    1
+                ]
+            ],
+            "tables": []
+        },
+        {
+            "page_number": 2,
+            "text": "Deep Learning\n3. Introduction to Deep Learning\nDeep Learning is a specialized area of Machine Learning that uses artificial neural networks with\nmultiple layers to learn complex patterns from large datasets.\nExercises\n1. What is Deep Learning?\n",
+            "headings": [
+                {
+                    "text": "Deep Learning",
+                    "bounding_box": {
+                        "x0": 235.12,
+                        "y0": 76.74,
+                        "x1": 360.15,
+                        "y1": 101.53
+                    },
+                    "width": 125.03,
+                    "height": 24.79
+                },
+                {
+                    "text": "3. Introduction to Deep Learning",
+                    "bounding_box": {
+                        "x0": 78.0,
+                        "y0": 124.74,
+                        "x1": 355.04,
+                        "y1": 149.53
+                    },
+                    "width": 277.04,
+                    "height": 24.79
+                },
+                {
+                    "text": "Exercises",
+                    "bounding_box": {
+                        "x0": 78.0,
+                        "y0": 207.74,
+                        "x1": 162.06,
+                        "y1": 232.53
+                    },
+                    "width": 84.06,
+                    "height": 24.79
+                }
+            ],
+            "topics": [
+                [
+                    "learning",
+                    5
+                ],
+                [
+                    "deep",
+                    4
+                ],
+                [
+                    "introduction",
+                    1
+                ],
+                [
+                    "specialized",
+                    1
+                ],
+                [
+                    "area",
+                    1
+                ],
+                [
+                    "machine",
+                    1
+                ],
+                [
+                    "artificial",
+                    1
+                ],
+                [
+                    "neural",
+                    1
+                ],
+                [
+                    "networks",
+                    1
+                ],
+                [
+                    "multiple",
+                    1
+                ]
+            ],
+            "tables": []
+        }
+    ]
+}
