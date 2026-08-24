@@ -2,8 +2,13 @@ from fastapi import APIRouter, HTTPException, Depends
 from fastapi.security import HTTPBearer, HTTPAuthorizationCredentials
 from bson import ObjectId
 
-from Eduverse.backend.app.schemas.auth import UserRegister, UserLogin
-from Eduverse.backend.app.database.mongodb import database
+from app.schemas.auth import (
+    UserRegister,
+    UserLogin,
+    UserProfileUpdate,
+    ChangePassword
+)
+from app.database.mongodb import database
 
 from app.core.security import (
     hash_password,
