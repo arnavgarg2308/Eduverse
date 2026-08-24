@@ -2,7 +2,7 @@ import json
 import os
 import unittest
 
-from src.output.json_writer import JSONWriter
+from EduVerse.EDU_ADITYA.backend.src.output.json_writer import JSONWriter
 
 
 class TestJSONWriter(unittest.TestCase):

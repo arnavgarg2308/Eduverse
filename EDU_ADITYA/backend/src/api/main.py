@@ -8,7 +8,6 @@ from fastapi.responses import FileResponse
 
 from src.pipeline.document_analyzer import DocumentAnalyzer
 
-
 app = FastAPI(
     title="EduMorph Document Intelligence API",
     description="API for analyzing educational PDF documents",
@@ -26,7 +25,7 @@ app.add_middleware(
 
 
 UPLOAD_DIRECTORY = "uploads"
-OUTPUT_DIRECTORY = "outputs"
+OUTPUT_DIRECTORY = "src/output"
 
 
 os.makedirs(

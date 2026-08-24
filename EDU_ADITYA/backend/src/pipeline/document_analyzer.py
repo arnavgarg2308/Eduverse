@@ -1,21 +1,12 @@
 from src.pdf_reader.reader import PDFReader
-
 from src.layout.layout_analyzer import LayoutAnalyzer
-
 from src.heading_detection.heading_detector import HeadingDetector
-
 from src.topic_detection.topic_detector import TopicDetector
-
 from src.table_detection.table_detector import TableDetector
-
 from src.content_detection.content_detector import ContentDetector
-
 from src.visual_detection.visual_detector import VisualDetector
-
 from src.document_structure.structure_builder import DocumentStructureBuilder
-
 from src.output.json_writer import JSONWriter
-
 
 class DocumentAnalyzer:
 

@@ -1,4 +1,4 @@
-from src.ocr.pdf_ocr import PDFOCR
+from EduVerse.EDU_ADITYA.backend.src.ocr.pdf_ocr import PDFOCR
 
 
 def main():

@@ -1,25 +1,56 @@
 import { useState } from 'react'
+
 import DashboardLayout from '../../components/layout/DashboardLayout'
 import AIVideoUpload from '../../components/student/AIVideoUpload'
 
 function AIVideoPage() {
   const [file, setFile] = useState(null)
-  const [narration, setNarration] = useState(true)
-  const [subtitles, setSubtitles] = useState(true)
-  const [generating, setGenerating] = useState(false)
-  const [generated, setGenerated] = useState(false)
+const [narration, setNarration] = useState(true)
+const [subtitles, setSubtitles] = useState(true)
+const [generating, setGenerating] = useState(false)
+const [generated, setGenerated] = useState(false)
+const [analysisResult, setAnalysisResult] = useState(null)
+const [error, setError] = useState('')
+  const handleGenerate = async () => {
+  if (!file) return
 
-  const handleGenerate = () => {
-    if (!file) return
+  setGenerating(true)
+  setGenerated(false)
+  setAnalysisResult(null)
+  setError('')
 
-    setGenerating(true)
-    setGenerated(false)
+  try {
+    const formData = new FormData()
+    formData.append('file', file)
 
-    setTimeout(() => {
-      setGenerating(false)
-      setGenerated(true)
-    }, 1800)
+    const response = await fetch('http://127.0.0.1:8001/analyze', {
+      method: 'POST',
+      body: formData,
+    })
+
+    if (!response.ok) {
+      const errorData = await response.json()
+
+      throw new Error(
+        errorData.detail || 'Failed to analyze PDF'
+      )
+    }
+
+    const result = await response.json()
+
+    console.log('EduMorph Analysis Result:', result)
+
+    setAnalysisResult(result)
+    setGenerated(true)
+
+  } catch (err) {
+    console.error(err)
+    setError(err.message)
+
+  } finally {
+    setGenerating(false)
   }
+}
 
   return (
     <DashboardLayout>
@@ -222,40 +253,31 @@ function AIVideoPage() {
               </div>
 
               {/* GENERATED VIDEO */}
-              {generated && (
-                <div className="rounded-3xl border border-emerald-200 bg-emerald-50 p-6">
+             {generated && analysisResult && (
+  <div className="rounded-3xl border border-emerald-200 bg-emerald-50 p-6">
 
-                  <div className="flex items-center gap-3">
+    <div className="flex items-center gap-3">
+      <div className="flex h-10 w-10 items-center justify-center rounded-xl bg-emerald-500 text-white">
+        ✓
+      </div>
 
-                    <div className="flex h-10 w-10 items-center justify-center rounded-xl bg-emerald-500 text-white">
-                      ✓
-                    </div>
+      <div>
+        <h3 className="font-black text-emerald-800">
+          Analysis Complete
+        </h3>
 
-                    <div>
-                      <h3 className="font-black text-emerald-800">
-                        Video Ready
-                      </h3>
+        <p className="text-xs text-emerald-700">
+          Your PDF has been analyzed successfully.
+        </p>
+      </div>
+    </div>
 
-                      <p className="text-xs text-emerald-700">
-                        Your learning video has been generated.
-                      </p>
-                    </div>
+    <pre className="mt-5 max-h-96 overflow-auto rounded-2xl bg-slate-900 p-4 text-xs text-green-400">
+      {JSON.stringify(analysisResult, null, 2)}
+    </pre>
 
-                  </div>
-
-                  <div className="mt-5 flex aspect-video items-center justify-center rounded-2xl bg-slate-900 text-sm font-bold text-white">
-                    Generated AI Video Preview
-                  </div>
-
-                  <button
-                    type="button"
-                    className="mt-4 w-full rounded-xl bg-white px-4 py-3 text-sm font-bold text-emerald-700 ring-1 ring-emerald-200"
-                  >
-                    Watch Generated Video →
-                  </button>
-
-                </div>
-              )}
+  </div>
+)}
 
             </div>
 

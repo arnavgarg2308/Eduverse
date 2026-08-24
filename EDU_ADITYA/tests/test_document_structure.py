@@ -1,11 +1,11 @@
 import unittest
 
-from src.pdf_reader.reader import PDFReader
-from src.layout.layout_analyzer import LayoutAnalyzer
-from src.heading_detection.heading_detector import HeadingDetector
-from src.topic_detection.topic_detector import TopicDetector
-from src.table_detection.table_detector import TableDetector
-from src.document_structure.structure_builder import DocumentStructureBuilder
+from EduVerse.EDU_ADITYA.backend.src.pdf_reader.reader import PDFReader
+from EduVerse.EDU_ADITYA.backend.src.layout.layout_analyzer import LayoutAnalyzer
+from EduVerse.EDU_ADITYA.backend.src.heading_detection.heading_detector import HeadingDetector
+from EduVerse.EDU_ADITYA.backend.src.topic_detection.topic_detector import TopicDetector
+from EduVerse.EDU_ADITYA.backend.src.table_detection.table_detector import TableDetector
+from EduVerse.EDU_ADITYA.backend.src.document_structure.structure_builder import DocumentStructureBuilder
 
 
 class TestDocumentStructureBuilder(unittest.TestCase):

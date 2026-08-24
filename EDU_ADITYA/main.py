@@ -1,6 +1,6 @@
 import sys
 
-from src.pipeline.document_analyzer import DocumentAnalyzer
+from EduVerse.EDU_ADITYA.backend.src.pipeline.document_analyzer import DocumentAnalyzer
 
 
 def main():

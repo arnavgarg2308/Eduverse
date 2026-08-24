@@ -1,7 +1,7 @@
 import os
 import unittest
 
-from src.pipeline.document_analyzer import DocumentAnalyzer
+from EduVerse.EDU_ADITYA.backend.src.pipeline.document_analyzer import DocumentAnalyzer
 
 
 class TestDocumentAnalyzer(unittest.TestCase):

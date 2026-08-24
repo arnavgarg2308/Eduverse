@@ -1,7 +1,7 @@
 import os
 import pymupdf
 
-from src.ocr.ocr_engine import OCREngine
+from EduVerse.EDU_ADITYA.backend.src.ocr.ocr_engine import OCREngine
 
 
 class PDFOCR:

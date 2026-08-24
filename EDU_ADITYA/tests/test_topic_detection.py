@@ -1,7 +1,7 @@
 import unittest
 
-from src.pdf_reader.reader import PDFReader
-from src.topic_detection.topic_detector import TopicDetector
+from EduVerse.EDU_ADITYA.backend.src.pdf_reader.reader import PDFReader
+from EduVerse.EDU_ADITYA.backend.src.topic_detection.topic_detector import TopicDetector
 
 
 class TestTopicDetector(unittest.TestCase):

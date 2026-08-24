@@ -1,6 +1,6 @@
 import unittest
 
-from src.table_detection.table_detector import TableDetector
+from EduVerse.EDU_ADITYA.backend.src.table_detection.table_detector import TableDetector
 
 
 class TestTableDetector(unittest.TestCase):

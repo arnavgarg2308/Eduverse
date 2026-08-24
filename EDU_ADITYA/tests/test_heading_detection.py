@@ -1,7 +1,7 @@
 import unittest
 
-from src.layout.layout_analyzer import LayoutAnalyzer
-from src.heading_detection.heading_detector import HeadingDetector
+from EduVerse.EDU_ADITYA.backend.src.layout.layout_analyzer import LayoutAnalyzer
+from EduVerse.EDU_ADITYA.backend.src.heading_detection.heading_detector import HeadingDetector
 
 
 class TestHeadingDetector(unittest.TestCase):

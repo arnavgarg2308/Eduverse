@@ -1,6 +1,6 @@
 import unittest
 
-from src.layout.layout_analyzer import LayoutAnalyzer
+from EduVerse.EDU_ADITYA.backend.src.layout.layout_analyzer import LayoutAnalyzer
 
 
 class TestLayoutAnalyzer(unittest.TestCase):
