@@ -13,6 +13,7 @@ from app.routes.lesson import router as lesson_router
 from app.routes.course_progress import router as course_progress_router
 from app.routes import lesson_completion
 from app.routes import users
+from app.routes import videos
 
 from app.database.mongodb import (
     connect_to_mongo,
@@ -49,6 +50,7 @@ app.include_router(lesson_router)
 app.include_router(course_progress_router)
 app.include_router(lesson_completion.router)
 app.include_router(users.router)
+app.include_router(videos.router)
 
 
 @app.get("/")
