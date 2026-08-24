@@ -1,7 +1,0 @@
-__pycache__/
-*.pyc
-
-uploads/
-outputs/
-
-frontend/sample_analysis.json
