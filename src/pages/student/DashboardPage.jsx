@@ -1,5 +1,5 @@
 import { useNavigate } from 'react-router-dom'
-
+import { useEffect, useState } from 'react'
 import DashboardLayout from '../../components/layout/DashboardLayout'
 import Card from '../../components/common/Card'
 import Badge from '../../components/common/Badge'
@@ -12,20 +12,31 @@ import {
   recentActivity,
 } from '../../data/studentData'
 
+
+import api from '../../api/api'
 function DashboardPage() {
   const navigate = useNavigate()
 
   // Map dashboard lesson IDs to actual library course IDs.
-  const courseIdMap = {
-    'lesson-001': 'course-001',
-    'lesson-002': 'course-006',
-    'lesson-003': 'course-002',
-    'lesson-004': 'course-008',
-  }
+  const [courses, setCourses] = useState([])
+  const [coursesLoading, setCoursesLoading] = useState(true)
+  useEffect(() => {
+    const fetchCourses = async () => {
+      try {
+        const response = await api.get('/api/courses/')
 
-  const continueCourseId =
-    courseIdMap[continueLearning.id] || 'course-001'
+        console.log('Courses from backend:', response.data)
 
+        setCourses(response.data)
+      } catch (error) {
+        console.error('Failed to fetch courses:', error)
+      } finally {
+        setCoursesLoading(false)
+      }
+    }
+
+    fetchCourses()
+  }, [])
   const openContinueLearning = () => {
     navigate(`/student/learning/${continueCourseId}`)
   }

@@ -1,5 +1,6 @@
 import { useState } from 'react'
 import { Link, useNavigate } from 'react-router-dom'
+import api from '../../api/api'
 
 function LoginPage() {
   const navigate = useNavigate()
@@ -9,13 +10,38 @@ function LoginPage() {
   const [showPassword, setShowPassword] = useState(false)
   const [rememberMe, setRememberMe] = useState(false)
 
-  const handleSubmit = (event) => {
-    event.preventDefault()
+ const handleSubmit = async (event) => {
+  event.preventDefault()
 
-    // Temporary frontend login.
-    // Backend authentication can be connected here later.
-    navigate('/student/dashboard')
+  try {
+    const response = await api.post('/api/auth/login', {
+      email,
+      password,
+    })
+
+    const { access_token, role } = response.data
+
+    localStorage.setItem('access_token', access_token)
+    localStorage.setItem('role', role)
+
+    if (role === 'student') {
+      navigate('/student/dashboard')
+    } else if (role === 'teacher') {
+      navigate('/teacher/dashboard')
+    } else {
+      navigate('/')
+    }
+
+  } catch (error) {
+
+    console.error('Login failed:', error)
+
+    alert(
+      error.response?.data?.detail ||
+      'Invalid email or password'
+    )
   }
+}
 
   return (
     <div className="min-h-screen bg-slate-100">

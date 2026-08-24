@@ -1,5 +1,6 @@
 import { useState } from 'react'
 import { Link, useNavigate } from 'react-router-dom'
+import api from '../../api/api'
 
 function RegisterPage() {
   const navigate = useNavigate()
@@ -21,25 +22,43 @@ function RegisterPage() {
     password === confirmPassword ||
     confirmPassword === ''
 
-  const handleSubmit = (event) => {
-    event.preventDefault()
+  const handleSubmit = async (event) => {
+  event.preventDefault()
 
-    if (password !== confirmPassword) {
-      return
-    }
-
-    if (!agreeTerms) {
-      return
-    }
-
-    // Temporary frontend registration.
-    // Backend registration can be connected here later.
-    if (role === 'teacher') {
-      navigate('/teacher/dashboard')
-    } else {
-      navigate('/student/dashboard')
-    }
+  if (password !== confirmPassword) {
+    alert('Passwords do not match')
+    return
   }
+
+  if (!agreeTerms) {
+    alert('Please agree to the Terms of Service')
+    return
+  }
+
+  try {
+    const response = await api.post('/api/auth/register', {
+      name,
+      email,
+      password,
+      role,
+    })
+
+    console.log('Registration successful:', response.data)
+
+    alert('Account created successfully! Please login.')
+
+    navigate('/login')
+
+  } catch (error) {
+
+    console.error('Registration failed:', error)
+
+    alert(
+      error.response?.data?.detail ||
+      'Registration failed. Please try again.'
+    )
+  }
+}
 
   return (
     <div className="min-h-screen bg-slate-100">

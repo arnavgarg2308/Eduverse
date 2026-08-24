@@ -1,5 +1,5 @@
 from motor.motor_asyncio import AsyncIOMotorClient
-from Eduverse.backend.app.core.config import MONGODB_URL, DATABASE_NAME
+from app.core.config import MONGODB_URL, DATABASE_NAME
 
 
 client = AsyncIOMotorClient(MONGODB_URL)

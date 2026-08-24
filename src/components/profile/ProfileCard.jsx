@@ -43,17 +43,17 @@ function ProfileCard({ profile }) {
         <div className="mt-7 grid gap-3 border-t border-slate-100 pt-6 sm:grid-cols-3">
           <InfoItem
             label="Institution"
-            value={profile.institution}
+            value={profile.institution || 'Not added'}
           />
 
           <InfoItem
             label="Program"
-            value={profile.course}
+           value={profile.course || 'Not added'}
           />
 
           <InfoItem
             label="Year"
-            value={profile.year}
+           value={profile.year || 'Not added'}
           />
         </div>
       </div>

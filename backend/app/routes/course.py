@@ -1,8 +1,8 @@
 from fastapi import APIRouter, HTTPException
 from bson import ObjectId
 
-from Eduverse.backend.app.schemas.course import CourseCreate
-from Eduverse.backend.app.database.mongodb import database
+from app.schemas.course import CourseCreate
+from app.database.mongodb import database
 
 
 router = APIRouter(

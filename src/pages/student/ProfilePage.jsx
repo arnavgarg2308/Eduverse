@@ -1,4 +1,5 @@
-import { useState } from 'react'
+import api from '../../api/api'
+import { useEffect, useState } from 'react'
 
 import DashboardLayout from '../../components/layout/DashboardLayout'
 import ProfileCard from '../../components/profile/ProfileCard'
@@ -7,7 +8,6 @@ import AccessibilityPreferences from '../../components/profile/AccessibilityPref
 import NotificationPreferences from '../../components/profile/NotificationPreferences'
 
 import {
-  profileData,
   learningPreferences,
   supportedLearningLanguages,
   learningModes,
@@ -16,6 +16,26 @@ import {
 } from '../../data/profileData'
 
 function ProfilePage() {
+  const [profile, setProfile] = useState(null)
+const [loading, setLoading] = useState(true)
+
+useEffect(() => {
+  const fetchProfile = async () => {
+    try {
+      const response = await api.get('/api/auth/me')
+
+      console.log('Logged in user:', response.data)
+
+      setProfile(response.data)
+    } catch (error) {
+      console.error('Failed to fetch profile:', error)
+    } finally {
+      setLoading(false)
+    }
+  }
+
+  fetchProfile()
+}, [])
   const [preferences, setPreferences] = useState(
     learningPreferences,
   )
@@ -92,8 +112,18 @@ function ProfilePage() {
           PROFILE
       ====================================================== */}
       <section className="mt-8">
-        <ProfileCard profile={profileData} />
-      </section>
+  {loading ? (
+    <div className="rounded-3xl bg-white p-8 text-center">
+      Loading profile...
+    </div>
+  ) : profile ? (
+    <ProfileCard profile={profile} />
+  ) : (
+    <div className="rounded-3xl bg-white p-8 text-center text-red-500">
+      Unable to load profile.
+    </div>
+  )}
+</section>
 
       {/* =====================================================
           LEARNING PREFERENCES
