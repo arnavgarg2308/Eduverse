@@ -22,3 +22,8 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+ai_engine/training/output/
+__pycache__/
+*.pyc
+ai_engine/training/output/

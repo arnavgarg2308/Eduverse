@@ -1,0 +1,16 @@
+{
+  "title": "Patterns in Life: Diversity and Classification",
+  "education_level": "Grade 9",
+  "subject": "Biology",
+  "language": "English",
+  "sections": [
+    {
+      "topic": "Biodiversity",
+      "content": "Biodiversity refers to the enormous variety of living organisms on Earth. Different organisms perform different roles in ecosystems. Algae contribute oxygen, fungi and bacteria decompose organic matter, birds, bees and bats help pollinate plants, and plants capture sunlight to prepare food. Humans depend on biodiversity for food, medicines, shelter and livelihoods."
+    },
+    {
+      "topic": "Biological Classification",
+      "content": "Scientists classify organisms based on shared characteristics and evolutionary relationships. Classification helps organize information about living organisms, understand similarities and differences, identify organisms, study relationships among organisms, and support biodiversity conservation."
+    }
+  ]
+}
