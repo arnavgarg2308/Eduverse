@@ -1,29 +1,19 @@
 import { BrowserRouter, Navigate, Route, Routes } from 'react-router-dom'
 
-// ==============================
-// Public Pages
-// ==============================
-import LandingPage from '../pages/public/LandingPage'
-
-// ==============================
-// Authentication
-// ==============================
 import LoginPage from '../pages/auth/LoginPage'
 import RegisterPage from '../pages/auth/RegisterPage'
+import LandingPage from '../pages/public/LandingPage'
 
-// ==============================
 // Student Pages
-// ==============================
 import DashboardPage from '../pages/student/DashboardPage'
-import LibraryPage from '../pages/student/LibraryPage'
 import LearningPage from '../pages/student/LearningPage'
-import ProgressPage from '../pages/student/ProgressPage'
+import LibraryPage from '../pages/student/LibraryPage'
 import ProfilePage from '../pages/student/ProfilePage'
+import ProgressPage from '../pages/student/ProgressPage'
 import AccessibilityPage from '../pages/student/AccessibilityPage'
+import AIVideoPage from '../pages/student/AIVideoPage'
 
-// ==============================
-// Teacher Pages — EduVerse
-// ==============================
+// Teacher Pages
 import TeacherDashboardPage from '../pages/teacher/TeacherDashboardPage'
 import TeacherUploadPage from '../pages/teacher/TeacherUploadPage'
 import TeacherContentPage from '../pages/teacher/TeacherContentPage'
@@ -34,18 +24,12 @@ function AppRouter() {
   return (
     <BrowserRouter>
       <Routes>
-        {/* ==================================================
-            EDVERSE — PUBLIC
-        ================================================== */}
 
+        {/* Public */}
         <Route
           path="/"
           element={<LandingPage />}
         />
-
-        {/* ==================================================
-            AUTHENTICATION
-        ================================================== */}
 
         <Route
           path="/login"
@@ -57,9 +41,7 @@ function AppRouter() {
           element={<RegisterPage />}
         />
 
-        {/* ==================================================
-            EDVERSE — STUDENT
-        ================================================== */}
+        {/* ================= STUDENT ================= */}
 
         <Route
           path="/student"
@@ -77,13 +59,13 @@ function AppRouter() {
         />
 
         <Route
-          path="/student/library"
-          element={<LibraryPage />}
+          path="/student/learning"
+          element={<LearningPage />}
         />
 
         <Route
-          path="/student/learning/:courseId"
-          element={<LearningPage />}
+          path="/student/library"
+          element={<LibraryPage />}
         />
 
         <Route
@@ -97,13 +79,16 @@ function AppRouter() {
         />
 
         <Route
-  path="/student/accessibility"
-  element={<AccessibilityPage />}
-/>
+          path="/student/accessibility"
+          element={<AccessibilityPage />}
+        />
 
-        {/* ==================================================
-            EDVERSE — TEACHER
-        ================================================== */}
+        <Route
+          path="/student/ai-video"
+          element={<AIVideoPage />}
+        />
+
+        {/* ================= TEACHER ================= */}
 
         <Route
           path="/teacher"
@@ -140,10 +125,7 @@ function AppRouter() {
           element={<TeacherProfilePage />}
         />
 
-        {/* ==================================================
-            UNKNOWN ROUTE
-        ================================================== */}
-
+        {/* Fallback */}
         <Route
           path="*"
           element={
@@ -153,6 +135,7 @@ function AppRouter() {
             />
           }
         />
+
       </Routes>
     </BrowserRouter>
   )

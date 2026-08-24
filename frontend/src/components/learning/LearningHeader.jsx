@@ -1,28 +1,12 @@
-import { Link } from 'react-router-dom'
-
 function LearningHeader({ course }) {
   const progress = Number(course?.progress) || 0
 
   return (
     <div className="mb-6">
       {/* =====================================================
-          BACK TO LIBRARY
-      ====================================================== */}
-      <Link
-        to="/student/library"
-        className="inline-flex items-center gap-2 rounded-xl px-1 py-1 text-sm font-bold text-slate-500 transition hover:text-orange-600"
-      >
-        <span className="transition-transform duration-200 group-hover:-translate-x-1">
-          ←
-        </span>
-
-        Back to Library
-      </Link>
-
-      {/* =====================================================
           COURSE INFORMATION
       ====================================================== */}
-      <div className="mt-5 overflow-hidden rounded-3xl border border-orange-100 bg-gradient-to-br from-orange-50 via-white to-amber-50 shadow-sm">
+      <div className="overflow-hidden rounded-3xl border border-orange-100 bg-gradient-to-br from-orange-50 via-white to-amber-50 shadow-sm">
         <div className="flex flex-col gap-6 p-5 sm:p-6 lg:flex-row lg:items-center lg:justify-between lg:p-7">
           {/* Course Info */}
           <div className="flex min-w-0 items-start gap-4">
