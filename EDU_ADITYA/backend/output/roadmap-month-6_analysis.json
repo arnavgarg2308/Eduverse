@@ -1,0 +1,88 @@
+{
+    "file_name": "d5f0fe54-7f13-4518-a014-eec6ff6a0ca8_roadmap-month-6.pdf",
+    "page_count": 1,
+    "pages": [
+        {
+            "page_number": 1,
+            "text": "Monthly Roadmap\nMonth Goal: Focus on improving foundational web skills through smaller, achievable \ndaily tasks. Week 1: AWS and Git Fundamentals (daily plan): Study AWS S3, SNS, \nSFTP, VPC, VPC Endpoint, and Lambda. Day 1: Setup a VPC and create a VPC \nendpoint. Day 2: Create a SNS topic and publish a message. Day 3: Set up CloudFront \ndistribution. Day 4: Configure SSL for your VPC. Day 5: Test AWS S3 and SNS \nconnectivity. Day 6: Configure DNS record for your VPC endpoint. Day 7: Verify AWS \nsetup is working. Week 2: HTML and CSS Fundamentals (daily plan): Practice writing \nresponsive CSS with flexbox and grid layout. Day 1: Learn Flexbox and Grid for flexible \nlayouts. Day 2: Write a responsive card component. Day 3: Add hover effects to card \ncomponents. Day 4: Write a dropdown menu system. Day 5: Add a slider and animate it. \nDay 6: Combine all components into a single page. Day 7: Debug and refine the design. \nWeek 3: React Performance and Optimizations (daily plan): Study how to use React \nRouter and lazy loading. Day 1: Configure React Router for dynamic routes. Day 2: \nImplement lazy loading for images. Day 3: Learn useEffect for async component \nupdates. Day 4: Add custom state to toggle navigation. Day 5: Implement error handling \nin React. Day 6: Test both router and lazy loading. Day 7: Refactor the route structure. \nWeek 4: Express Web Frameworks and Database Operations (daily plan): Learn \nNode.js basics and install Mongoose for MongoDB. Day 1: Install mongoose package \nand run migrations. Day 2: Define models for User and Post. Day 3: Import data into the \ndatabase. Day 4: Create CRUD endpoints for users and posts. Day 5: Query the \ndatabase and display results. Day 6: Test API endpoints. Day 7: Document the \ndatabase schema. Mini Project: Build a user management website with CRUD \nendpoints, styled using CSS Flexbox and grid, and using lazy loading for images.\n",
+            "headings": [
+                {
+                    "text": "Monthly Roadmap",
+                    "bounding_box": {
+                        "x0": 232.97,
+                        "y0": 65.57,
+                        "x1": 379.03,
+                        "y1": 90.31
+                    },
+                    "width": 146.05,
+                    "height": 24.73
+                }
+            ],
+            "topics": [
+                [
+                    "day",
+                    28
+                ],
+                [
+                    "vpc",
+                    6
+                ],
+                [
+                    "daily",
+                    5
+                ],
+                [
+                    "week",
+                    4
+                ],
+                [
+                    "aws",
+                    4
+                ],
+                [
+                    "plan",
+                    4
+                ],
+                [
+                    "react",
+                    4
+                ],
+                [
+                    "lazy",
+                    4
+                ],
+                [
+                    "loading",
+                    4
+                ],
+                [
+                    "database",
+                    4
+                ]
+            ],
+            "tables": [],
+            "elements": [
+                {
+                    "type": "heading",
+                    "text": "Monthly Roadmap",
+                    "bounding_box": {
+                        "x0": 232.97,
+                        "y0": 65.57,
+                        "x1": 379.03,
+                        "y1": 90.31
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "text": "Month Goal: Focus on improving foundational web skills through smaller, achievable \ndaily tasks. Week 1: AWS and Git Fundamentals (daily plan): Study AWS S3, SNS, \nSFTP, VPC, VPC Endpoint, and Lambda. Day 1: Setup a VPC and create a VPC \nendpoint. Day 2: Create a SNS topic and publish a message. Day 3: Set up CloudFront \ndistribution. Day 4: Configure SSL for your VPC. Day 5: Test AWS S3 and SNS \nconnectivity. Day 6: Configure DNS record for your VPC endpoint. Day 7: Verify AWS \nsetup is working. Week 2: HTML and CSS Fundamentals (daily plan): Practice writing \nresponsive CSS with flexbox and grid layout. Day 1: Learn Flexbox and Grid for flexible \nlayouts. Day 2: Write a responsive card component. Day 3: Add hover effects to card \ncomponents. Day 4: Write a dropdown menu system. Day 5: Add a slider and animate it. \nDay 6: Combine all components into a single page. Day 7: Debug and refine the design. \nWeek 3: React Performance and Optimizations (daily plan): Study how to use React \nRouter and lazy loading. Day 1: Configure React Router for dynamic routes. Day 2: \nImplement lazy loading for images. Day 3: Learn useEffect for async component \nupdates. Day 4: Add custom state to toggle navigation. Day 5: Implement error handling \nin React. Day 6: Test both router and lazy loading. Day 7: Refactor the route structure. \nWeek 4: Express Web Frameworks and Database Operations (daily plan): Learn \nNode.js basics and install Mongoose for MongoDB. Day 1: Install mongoose package \nand run migrations. Day 2: Define models for User and Post. Day 3: Import data into the \ndatabase. Day 4: Create CRUD endpoints for users and posts. Day 5: Query the \ndatabase and display results. Day 6: Test API endpoints. Day 7: Document the \ndatabase schema. Mini Project: Build a user management website with CRUD \nendpoints, styled using CSS Flexbox and grid, and using lazy loading for images.",
+                    "bounding_box": {
+                        "x0": 72.0,
+                        "y0": 109.33,
+                        "x1": 539.34,
+                        "y1": 431.0
+                    }
+                }
+            ]
+        }
+    ]
+}

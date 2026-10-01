@@ -1,0 +1,3563 @@
+{
+    "file_name": "57b2dee3-b604-4680-b041-dfcc8e900c33_cesa112.pdf",
+    "page_count": 11,
+    "pages": [
+        {
+            "page_number": 1,
+            "text": "Chapter12.\t Chandrayaan\nLet us read\nLet us read\nThere was a girl named Rani who lived in a \nvillage. She was very curious and used to \nask many questions to her family, teachers \nand friends. \n“Why is the sky blue?”\n“Where does the Sun go at night?” \nOne evening, Rani heard her \nmother singing, “Chanda mama door ke ...” \nHearing this, Rani asked her mother, “Amma, how \nfar is the Moon?” Amma said, “Rani, the Moon is very \nfar in the sky”.\nRani \nkept \non thinking \nabout \nthe \nmoon \nand \nfell asleep.  \nThe next morning \nRani woke up hearing the \nloud voice of her elder brother, \nPratik. He was pointing to the TV and \nReprint 2026-27\n",
+            "headings": [
+                {
+                    "text": "Chapter12.\t Chandrayaan",
+                    "bounding_box": {
+                        "x0": 140.73,
+                        "y0": 91.1,
+                        "x1": 393.02,
+                        "y1": 122.49
+                    },
+                    "width": 252.29,
+                    "height": 31.39
+                },
+                {
+                    "text": "There was a girl named Rani who lived in a",
+                    "bounding_box": {
+                        "x0": 170.98,
+                        "y0": 202.73,
+                        "x1": 542.11,
+                        "y1": 223.69
+                    },
+                    "width": 371.14,
+                    "height": 20.96
+                },
+                {
+                    "text": "village. She was very curious and used to",
+                    "bounding_box": {
+                        "x0": 184.98,
+                        "y0": 226.73,
+                        "x1": 542.06,
+                        "y1": 247.69
+                    },
+                    "width": 357.09,
+                    "height": 20.96
+                },
+                {
+                    "text": "ask many questions to her family, teachers",
+                    "bounding_box": {
+                        "x0": 191.98,
+                        "y0": 250.73,
+                        "x1": 542.12,
+                        "y1": 271.69
+                    },
+                    "width": 350.14,
+                    "height": 20.96
+                },
+                {
+                    "text": "and friends.",
+                    "bounding_box": {
+                        "x0": 193.98,
+                        "y0": 274.73,
+                        "x1": 293.18,
+                        "y1": 295.69
+                    },
+                    "width": 99.2,
+                    "height": 20.96
+                },
+                {
+                    "text": "“Why is the sky blue?”",
+                    "bounding_box": {
+                        "x0": 220.98,
+                        "y0": 305.93,
+                        "x1": 396.34,
+                        "y1": 326.89
+                    },
+                    "width": 175.36,
+                    "height": 20.96
+                },
+                {
+                    "text": "“Where does the Sun go at night?”",
+                    "bounding_box": {
+                        "x0": 214.98,
+                        "y0": 337.13,
+                        "x1": 487.94,
+                        "y1": 358.09
+                    },
+                    "width": 272.96,
+                    "height": 20.96
+                }
+            ],
+            "topics": [
+                [
+                    "rani",
+                    6
+                ],
+                [
+                    "her",
+                    4
+                ],
+                [
+                    "moon",
+                    3
+                ],
+                [
+                    "let",
+                    2
+                ],
+                [
+                    "read",
+                    2
+                ],
+                [
+                    "very",
+                    2
+                ],
+                [
+                    "sky",
+                    2
+                ],
+                [
+                    "mother",
+                    2
+                ],
+                [
+                    "hearing",
+                    2
+                ],
+                [
+                    "amma",
+                    2
+                ]
+            ],
+            "tables": [
+                {
+                    "table_number": 1,
+                    "data": [
+                        [
+                            "",
+                            null
+                        ],
+                        [
+                            "12. Chandrayaan\nChapter",
+                            null
+                        ],
+                        [
+                            "",
+                            ""
+                        ]
+                    ],
+                    "bounding_box": {
+                        "x0": 104.78,
+                        "y0": 88.32,
+                        "x1": 536.68,
+                        "y1": 130.32
+                    }
+                }
+            ],
+            "elements": [
+                {
+                    "type": "image",
+                    "image_number": 6,
+                    "bounding_box": {
+                        "x0": -7.48,
+                        "y0": -39.53,
+                        "x1": 607.48,
+                        "y1": 830.34
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 12,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": -18.0,
+                        "y0": -18.0,
+                        "x1": 618.0,
+                        "y1": 808.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 13,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": -18.0,
+                        "y0": -18.0,
+                        "x1": 618.0,
+                        "y1": 808.8
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 5,
+                    "bounding_box": {
+                        "x0": -16.01,
+                        "y0": 51.06,
+                        "x1": 482.96,
+                        "y1": 132.16
+                    }
+                },
+                {
+                    "type": "table",
+                    "table_number": 1,
+                    "data": [
+                        [
+                            "",
+                            null
+                        ],
+                        [
+                            "12. Chandrayaan\nChapter",
+                            null
+                        ],
+                        [
+                            "",
+                            ""
+                        ]
+                    ],
+                    "bounding_box": {
+                        "x0": 104.78,
+                        "y0": 88.32,
+                        "x1": 536.68,
+                        "y1": 130.32
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 2,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 105.03,
+                        "y0": 88.32,
+                        "x1": 536.39,
+                        "y1": 130.32
+                    }
+                },
+                {
+                    "type": "heading",
+                    "text": "Chapter12.\t Chandrayaan",
+                    "bounding_box": {
+                        "x0": 140.73,
+                        "y0": 91.1,
+                        "x1": 393.02,
+                        "y1": 122.49
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 3,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 104.53,
+                        "y0": 95.99,
+                        "x1": 535.95,
+                        "y1": 122.65
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 1,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": 176.25,
+                        "y0": 122.22,
+                        "x1": 531.54,
+                        "y1": 142.1
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 4,
+                    "bounding_box": {
+                        "x0": 33.2,
+                        "y0": 135.16,
+                        "x1": 118.16,
+                        "y1": 220.12
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 11,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 33.2,
+                        "y0": 135.16,
+                        "x1": 118.16,
+                        "y1": 220.12
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 1,
+                    "bounding_box": {
+                        "x0": 402.37,
+                        "y0": 147.1,
+                        "x1": 435.82,
+                        "y1": 181.87
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 4,
+                    "item_count": 6,
+                    "bounding_box": {
+                        "x0": 429.76,
+                        "y0": 156.01,
+                        "x1": 537.02,
+                        "y1": 177.89
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 5,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 485.84,
+                        "y0": 156.01,
+                        "x1": 537.02,
+                        "y1": 177.89
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 6,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 449.01,
+                        "y0": 159.32,
+                        "x1": 537.02,
+                        "y1": 177.89
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 8,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": 521.68,
+                        "y0": 160.62,
+                        "x1": 533.11,
+                        "y1": 163.41
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 7,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 485.92,
+                        "y0": 161.7,
+                        "x1": 521.23,
+                        "y1": 174.46
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 10,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": 42.6,
+                        "y0": 190.2,
+                        "x1": 194.52,
+                        "y1": 388.2
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 14,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 56.58,
+                        "y0": 193.97,
+                        "x1": 527.72,
+                        "y1": 664.08
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 7,
+                    "bounding_box": {
+                        "x0": 57.24,
+                        "y0": 194.3,
+                        "x1": 526.89,
+                        "y1": 663.95
+                    }
+                },
+                {
+                    "type": "heading",
+                    "text": "There was a girl named Rani who lived in a",
+                    "bounding_box": {
+                        "x0": 170.98,
+                        "y0": 202.73,
+                        "x1": 542.11,
+                        "y1": 223.69
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 3,
+                    "bounding_box": {
+                        "x0": 61.4,
+                        "y0": 213.78,
+                        "x1": 182.2,
+                        "y1": 390.64
+                    }
+                },
+                {
+                    "type": "heading",
+                    "text": "village. She was very curious and used to",
+                    "bounding_box": {
+                        "x0": 184.98,
+                        "y0": 226.73,
+                        "x1": 542.06,
+                        "y1": 247.69
+                    }
+                },
+                {
+                    "type": "heading",
+                    "text": "ask many questions to her family, teachers",
+                    "bounding_box": {
+                        "x0": 191.98,
+                        "y0": 250.73,
+                        "x1": 542.12,
+                        "y1": 271.69
+                    }
+                },
+                {
+                    "type": "heading",
+                    "text": "and friends.",
+                    "bounding_box": {
+                        "x0": 193.98,
+                        "y0": 274.73,
+                        "x1": 293.18,
+                        "y1": 295.69
+                    }
+                },
+                {
+                    "type": "heading",
+                    "text": "“Why is the sky blue?”",
+                    "bounding_box": {
+                        "x0": 220.98,
+                        "y0": 305.93,
+                        "x1": 396.34,
+                        "y1": 326.89
+                    }
+                },
+                {
+                    "type": "heading",
+                    "text": "“Where does the Sun go at night?”",
+                    "bounding_box": {
+                        "x0": 214.98,
+                        "y0": 337.13,
+                        "x1": 487.94,
+                        "y1": 358.09
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "text": "One evening, Rani heard her \nmother singing, “Chanda mama door ke ...” \nHearing this, Rani asked her mother, “Amma, how \nfar is the Moon?” Amma said, “Rani, the Moon is very \nfar in the sky”.",
+                    "bounding_box": {
+                        "x0": 62.98,
+                        "y0": 368.33,
+                        "x1": 470.18,
+                        "y1": 485.29
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 2,
+                    "bounding_box": {
+                        "x0": 175.1,
+                        "y0": 455.88,
+                        "x1": 597.47,
+                        "y1": 699.02
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 9,
+                    "item_count": 14,
+                    "bounding_box": {
+                        "x0": 157.26,
+                        "y0": 473.4,
+                        "x1": 572.44,
+                        "y1": 711.7
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "text": "The next morning \nRani woke up hearing the \nloud voice of her elder brother, \nPratik. He was pointing to the TV and",
+                    "bounding_box": {
+                        "x0": 62.98,
+                        "y0": 622.73,
+                        "x1": 404.06,
+                        "y1": 715.69
+                    }
+                }
+            ]
+        },
+        {
+            "page_number": 2,
+            "text": "119\nSantoor │ Class 3\nshouting in excitement, “Look \nRani, India is on the \nMoon!”\nRani looked at \nthe TV. She could \nsee \nphotos \nof \nsome machines \non \nthe \nMoon. \nShe heard a few \npeople \ntalking \nabout the landing \non the Moon. She \nwas confused and asked Pratik, “How did \nChandrayaan reach the Moon?”\nPratik \nreplied \nthat \nhis \nfriend \nVivaan’s \nmother, Aunt Nandini, is \na scientist. “Shall we go \nand talk to her?” asked \nPratik. \nRani \nhappily \nagreed. Both Rani and \nPratik decided to visit \nVivaan’s house. \nHave you seen pictures of Chandrayaan landing on \nthe moon?\nReprint 2026-27\n",
+            "headings": [],
+            "topics": [
+                [
+                    "moon",
+                    5
+                ],
+                [
+                    "rani",
+                    4
+                ],
+                [
+                    "pratik",
+                    4
+                ],
+                [
+                    "she",
+                    3
+                ],
+                [
+                    "landing",
+                    2
+                ],
+                [
+                    "asked",
+                    2
+                ],
+                [
+                    "chandrayaan",
+                    2
+                ],
+                [
+                    "vivaan",
+                    2
+                ],
+                [
+                    "santoor",
+                    1
+                ],
+                [
+                    "class",
+                    1
+                ]
+            ],
+            "tables": [],
+            "elements": [
+                {
+                    "type": "image",
+                    "image_number": 6,
+                    "bounding_box": {
+                        "x0": -7.48,
+                        "y0": -39.53,
+                        "x1": 607.48,
+                        "y1": 830.34
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 7,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": -18.0,
+                        "y0": -18.0,
+                        "x1": 618.0,
+                        "y1": 808.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 8,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": -18.0,
+                        "y0": -18.0,
+                        "x1": 618.0,
+                        "y1": 808.8
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 2,
+                    "bounding_box": {
+                        "x0": 134.26,
+                        "y0": 70.27,
+                        "x1": 537.71,
+                        "y1": 378.96
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 5,
+                    "item_count": 27,
+                    "bounding_box": {
+                        "x0": 194.52,
+                        "y0": 71.4,
+                        "x1": 537.02,
+                        "y1": 406.2
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "text": "Rani looked at \nthe TV. She could \nsee \nphotos \nof \nsome machines \non \nthe \nMoon. \nShe heard a few \npeople \ntalking \nabout the landing \non the Moon. She \nwas confused and asked Pratik, “How did \nChandrayaan reach the Moon?”",
+                    "bounding_box": {
+                        "x0": 62.98,
+                        "y0": 146.19,
+                        "x1": 417.09,
+                        "y1": 407.15
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 9,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 56.58,
+                        "y0": 193.97,
+                        "x1": 527.72,
+                        "y1": 664.08
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 7,
+                    "bounding_box": {
+                        "x0": 57.24,
+                        "y0": 194.3,
+                        "x1": 526.89,
+                        "y1": 663.95
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 4,
+                    "bounding_box": {
+                        "x0": 474.84,
+                        "y0": 412.61,
+                        "x1": 536.61,
+                        "y1": 468.4
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 6,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 62.98,
+                        "y0": 419.96,
+                        "x1": 528.12,
+                        "y1": 468.4
+                    }
+                },
+                {
+                    "type": "question",
+                    "text": "Have you seen pictures of Chandrayaan landing on \nthe moon?",
+                    "bounding_box": {
+                        "x0": 93.98,
+                        "y0": 424.25,
+                        "x1": 467.24,
+                        "y1": 462.59
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 3,
+                    "bounding_box": {
+                        "x0": -16.05,
+                        "y0": 455.88,
+                        "x1": 3.47,
+                        "y1": 699.02
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 1,
+                    "bounding_box": {
+                        "x0": 60.63,
+                        "y0": 482.75,
+                        "x1": 328.37,
+                        "y1": 720.41
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "text": "Pratik \nreplied \nthat \nhis \nfriend \nVivaan’s \nmother, Aunt Nandini, is \na scientist. “Shall we go \nand talk to her?” asked \nPratik. \nRani \nhappily \nagreed. Both Rani and \nPratik decided to visit \nVivaan’s house.",
+                    "bounding_box": {
+                        "x0": 341.74,
+                        "y0": 489.39,
+                        "x1": 542.1,
+                        "y1": 702.35
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 5,
+                    "bounding_box": {
+                        "x0": 525.51,
+                        "y0": 669.86,
+                        "x1": 616.0,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 1,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 370.2,
+                        "y0": 749.69,
+                        "x1": 615.0,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 2,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": 381.45,
+                        "y0": 756.1,
+                        "x1": 848.61,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 3,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": 381.45,
+                        "y0": 764.05,
+                        "x1": 848.61,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 4,
+                    "item_count": 3,
+                    "bounding_box": {
+                        "x0": 392.87,
+                        "y0": 772.57,
+                        "x1": 837.19,
+                        "y1": 805.52
+                    }
+                }
+            ]
+        },
+        {
+            "page_number": 3,
+            "text": "120\nSantoor │ Class 3\nVivaan and his \nmother welcomed \nthem. Rani could \nsee many models \nand photographs \nof rockets in their \nhouse. \n  Nandini Aunty offered sharbat to the \nchildren and said, “Rani, what do you want \nto know?”\nRani replied, “People say India is on the \nMoon. Can you please tell us \nmore about this?”\nAunty said, “Yes, of \ncourse. Do you know \nwhich vehicle is used \nto go to the Moon?”\nPratik immediately \nsaid, “I know Aunty, it \nis a rocket. I had seen \ni t \non the TV”.\nRani pointed to the \nmodels and photos of \nrockets in the room.\nReprint 2026-27\n",
+            "headings": [
+                {
+                    "text": "to know?”",
+                    "bounding_box": {
+                        "x0": 204.98,
+                        "y0": 312.69,
+                        "x1": 282.1,
+                        "y1": 333.65
+                    },
+                    "width": 77.12,
+                    "height": 20.96
+                }
+            ],
+            "topics": [
+                [
+                    "rani",
+                    4
+                ],
+                [
+                    "aunty",
+                    3
+                ],
+                [
+                    "said",
+                    3
+                ],
+                [
+                    "you",
+                    3
+                ],
+                [
+                    "know",
+                    3
+                ],
+                [
+                    "models",
+                    2
+                ],
+                [
+                    "rockets",
+                    2
+                ],
+                [
+                    "moon",
+                    2
+                ],
+                [
+                    "santoor",
+                    1
+                ],
+                [
+                    "class",
+                    1
+                ]
+            ],
+            "tables": [],
+            "elements": [
+                {
+                    "type": "image",
+                    "image_number": 6,
+                    "bounding_box": {
+                        "x0": -7.48,
+                        "y0": -39.53,
+                        "x1": 607.48,
+                        "y1": 830.34
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 7,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": -18.0,
+                        "y0": -18.0,
+                        "x1": 618.0,
+                        "y1": 808.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 8,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": -18.0,
+                        "y0": -18.0,
+                        "x1": 618.0,
+                        "y1": 808.8
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "text": "Vivaan and his \nmother welcomed \nthem. Rani could \nsee many models \nand photographs \nof rockets in their \nhouse.",
+                    "bounding_box": {
+                        "x0": 62.98,
+                        "y0": 66.99,
+                        "x1": 206.87,
+                        "y1": 231.95
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 2,
+                    "bounding_box": {
+                        "x0": 211.5,
+                        "y0": 70.29,
+                        "x1": 538.04,
+                        "y1": 252.49
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 1,
+                    "bounding_box": {
+                        "x0": 609.64,
+                        "y0": 75.39,
+                        "x1": 616.06,
+                        "y1": 718.85
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 9,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 56.58,
+                        "y0": 193.97,
+                        "x1": 527.72,
+                        "y1": 664.08
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 7,
+                    "bounding_box": {
+                        "x0": 57.24,
+                        "y0": 194.3,
+                        "x1": 526.89,
+                        "y1": 663.95
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 5,
+                    "item_count": 5,
+                    "bounding_box": {
+                        "x0": 62.98,
+                        "y0": 249.48,
+                        "x1": 206.54,
+                        "y1": 429.48
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 4,
+                    "bounding_box": {
+                        "x0": 33.48,
+                        "y0": 259.48,
+                        "x1": 187.51,
+                        "y1": 434.13
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "text": "Nandini Aunty offered sharbat to the \nchildren and said, “Rani, what do you want",
+                    "bounding_box": {
+                        "x0": 196.98,
+                        "y0": 264.26,
+                        "x1": 542.08,
+                        "y1": 309.65
+                    }
+                },
+                {
+                    "type": "heading",
+                    "text": "to know?”",
+                    "bounding_box": {
+                        "x0": 204.98,
+                        "y0": 312.69,
+                        "x1": 282.1,
+                        "y1": 333.65
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "text": "Rani replied, “People say India is on the \nMoon. Can you please tell us \nmore about this?”",
+                    "bounding_box": {
+                        "x0": 191.98,
+                        "y0": 343.89,
+                        "x1": 542.1,
+                        "y1": 412.85
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 3,
+                    "bounding_box": {
+                        "x0": 238.82,
+                        "y0": 372.63,
+                        "x1": 552.79,
+                        "y1": 720.4
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 6,
+                    "item_count": 11,
+                    "bounding_box": {
+                        "x0": 238.44,
+                        "y0": 381.21,
+                        "x1": 520.95,
+                        "y1": 719.4
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "text": "Aunty said, “Yes, of \ncourse. Do you know \nwhich vehicle is used \nto go to the Moon?”",
+                    "bounding_box": {
+                        "x0": 62.98,
+                        "y0": 423.09,
+                        "x1": 336.1,
+                        "y1": 516.05
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "text": "Pratik immediately \nsaid, “I know Aunty, it \nis a rocket. I had seen \ni t \non the TV”.",
+                    "bounding_box": {
+                        "x0": 62.98,
+                        "y0": 526.29,
+                        "x1": 542.1,
+                        "y1": 619.25
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "text": "Rani pointed to the \nmodels and photos of \nrockets in the room.",
+                    "bounding_box": {
+                        "x0": 62.98,
+                        "y0": 629.49,
+                        "x1": 247.1,
+                        "y1": 698.45
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 5,
+                    "bounding_box": {
+                        "x0": -16.0,
+                        "y0": 669.86,
+                        "x1": 74.49,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 1,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": -15.0,
+                        "y0": 749.69,
+                        "x1": 229.8,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 2,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": -248.61,
+                        "y0": 756.1,
+                        "x1": 218.55,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 3,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": -248.61,
+                        "y0": 764.05,
+                        "x1": 218.55,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 4,
+                    "item_count": 3,
+                    "bounding_box": {
+                        "x0": -237.19,
+                        "y0": 772.57,
+                        "x1": 207.13,
+                        "y1": 805.52
+                    }
+                }
+            ]
+        },
+        {
+            "page_number": 4,
+            "text": "121\nSantoor │ Class 3\nNandini said, “Very good. Yes, a \nrocket is used to reach the Moon.”\nRani asked, “What does Chandrayaan \nmean?”\nNandini replied, “Chandra means Moon \nand Yaan means vehicle. On 14 July 2023, \nIndia launched the Chandrayaan which \nlanded on the Moon on 23 August 2023.”\nRani jumped with excitement and \nsaid, “Can I go to the Moon, too?”\nNandini smiled, \n“Maybe, one day.”\nReprint 2026-27\n",
+            "headings": [],
+            "topics": [
+                [
+                    "moon",
+                    4
+                ],
+                [
+                    "nandini",
+                    3
+                ],
+                [
+                    "said",
+                    2
+                ],
+                [
+                    "rani",
+                    2
+                ],
+                [
+                    "chandrayaan",
+                    2
+                ],
+                [
+                    "means",
+                    2
+                ],
+                [
+                    "santoor",
+                    1
+                ],
+                [
+                    "class",
+                    1
+                ],
+                [
+                    "very",
+                    1
+                ],
+                [
+                    "good",
+                    1
+                ]
+            ],
+            "tables": [
+                {
+                    "table_number": 1,
+                    "data": [
+                        [
+                            null,
+                            null,
+                            "",
+                            null
+                        ],
+                        [
+                            "and Yaan means vehicle. On 14 July 2023,\nIndia launched the Chandrayaan which\nlanded on the Moon on 23 August 2023.”\nRani jumped with excitement and\nsaid, “Can I go to the Moon, too?”\nNandini smiled,\n“Maybe, one day.”",
+                            null,
+                            "",
+                            null
+                        ],
+                        [
+                            null,
+                            null,
+                            "",
+                            ""
+                        ],
+                        [
+                            null,
+                            "",
+                            "",
+                            ""
+                        ],
+                        [
+                            null,
+                            null,
+                            "",
+                            ""
+                        ]
+                    ],
+                    "bounding_box": {
+                        "x0": 56.58,
+                        "y0": 71.4,
+                        "x1": 537.02,
+                        "y1": 664.08
+                    }
+                }
+            ],
+            "elements": [
+                {
+                    "type": "image",
+                    "image_number": 3,
+                    "bounding_box": {
+                        "x0": -7.48,
+                        "y0": -39.53,
+                        "x1": 607.48,
+                        "y1": 830.34
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 8,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": -18.0,
+                        "y0": -18.0,
+                        "x1": 618.0,
+                        "y1": 808.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 9,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": -18.0,
+                        "y0": -18.0,
+                        "x1": 618.0,
+                        "y1": 808.8
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "text": "Nandini said, “Very good. Yes, a \nrocket is used to reach the Moon.”",
+                    "bounding_box": {
+                        "x0": 62.98,
+                        "y0": 66.99,
+                        "x1": 381.1,
+                        "y1": 111.95
+                    }
+                },
+                {
+                    "type": "table",
+                    "table_number": 1,
+                    "data": [
+                        [
+                            null,
+                            null,
+                            "",
+                            null
+                        ],
+                        [
+                            "and Yaan means vehicle. On 14 July 2023,\nIndia launched the Chandrayaan which\nlanded on the Moon on 23 August 2023.”\nRani jumped with excitement and\nsaid, “Can I go to the Moon, too?”\nNandini smiled,\n“Maybe, one day.”",
+                            null,
+                            "",
+                            null
+                        ],
+                        [
+                            null,
+                            null,
+                            "",
+                            ""
+                        ],
+                        [
+                            null,
+                            "",
+                            "",
+                            ""
+                        ],
+                        [
+                            null,
+                            null,
+                            "",
+                            ""
+                        ]
+                    ],
+                    "bounding_box": {
+                        "x0": 56.58,
+                        "y0": 71.4,
+                        "x1": 537.02,
+                        "y1": 664.08
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 5,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 375.96,
+                        "y0": 71.4,
+                        "x1": 537.02,
+                        "y1": 409.8
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 1,
+                    "bounding_box": {
+                        "x0": 15.64,
+                        "y0": 75.39,
+                        "x1": 538.15,
+                        "y1": 718.85
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "text": "Nandini replied, “Chandra means Moon \nand Yaan means vehicle. On 14 July 2023, \nIndia launched the Chandrayaan which \nlanded on the Moon on 23 August 2023.”",
+                    "bounding_box": {
+                        "x0": 62.98,
+                        "y0": 176.96,
+                        "x1": 381.09,
+                        "y1": 270.35
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 10,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 56.58,
+                        "y0": 193.97,
+                        "x1": 527.72,
+                        "y1": 664.08
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 4,
+                    "bounding_box": {
+                        "x0": 57.24,
+                        "y0": 194.3,
+                        "x1": 526.89,
+                        "y1": 663.95
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 7,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 375.96,
+                        "y0": 209.64,
+                        "x1": 537.02,
+                        "y1": 402.6
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "text": "Rani jumped with excitement and \nsaid, “Can I go to the Moon, too?”",
+                    "bounding_box": {
+                        "x0": 62.98,
+                        "y0": 280.59,
+                        "x1": 381.08,
+                        "y1": 325.55
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 6,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 222.68,
+                        "y0": 336.0,
+                        "x1": 537.02,
+                        "y1": 409.8
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 2,
+                    "bounding_box": {
+                        "x0": 525.51,
+                        "y0": 669.86,
+                        "x1": 616.0,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 1,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 370.2,
+                        "y0": 749.69,
+                        "x1": 615.0,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 2,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": 381.45,
+                        "y0": 756.1,
+                        "x1": 848.61,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 3,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": 381.45,
+                        "y0": 764.05,
+                        "x1": 848.61,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 4,
+                    "item_count": 3,
+                    "bounding_box": {
+                        "x0": 392.87,
+                        "y0": 772.57,
+                        "x1": 837.19,
+                        "y1": 805.52
+                    }
+                }
+            ]
+        },
+        {
+            "page_number": 5,
+            "text": "122\nSantoor │ Class 3\nNew words\ncurious \t\nexcitement\t\nmachines\t\nconfused\t\nscientist\t\nrockets\t\nChandrayaan \nLet us think\nLet us think\nA.\t Answer the following.\n1. \t Rani was very curious. How do you know?\n2.\t What did Pratik say in excitement?\n3.\t Who was Nandini Aunty?\n4.\t What do the words Chandra and Yaan mean?\n5.\t Complete the sentence:\n\t\nChandrayaan-3 landed on the Moon on ___________________.\nB.\t Think and say.\nImagine you are invited by the scientists to spend \n10 days on the moon. Make a list of items that you \nwould like to take with you.\n1.\t ____________________________\t\n2.\t\n____________________________\n3.\t ____________________________\t\n4.\t\n____________________________\n5.\t ____________________________\t\n6.\t\n____________________________\n7.\t ____________________________\t\n8.\t\n____________________________\n9.\t ____________________________\t\n10.\t\n____________________________\nReprint 2026-27\n",
+            "headings": [],
+            "topics": [
+                [
+                    "you",
+                    4
+                ],
+                [
+                    "think",
+                    3
+                ],
+                [
+                    "words",
+                    2
+                ],
+                [
+                    "curious",
+                    2
+                ],
+                [
+                    "excitement",
+                    2
+                ],
+                [
+                    "chandrayaan",
+                    2
+                ],
+                [
+                    "let",
+                    2
+                ],
+                [
+                    "say",
+                    2
+                ],
+                [
+                    "moon",
+                    2
+                ],
+                [
+                    "santoor",
+                    1
+                ]
+            ],
+            "tables": [],
+            "elements": [
+                {
+                    "type": "image",
+                    "image_number": 5,
+                    "bounding_box": {
+                        "x0": -7.48,
+                        "y0": -39.53,
+                        "x1": 607.48,
+                        "y1": 830.34
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 12,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": -18.0,
+                        "y0": -18.0,
+                        "x1": 618.0,
+                        "y1": 808.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 13,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": -18.0,
+                        "y0": -18.0,
+                        "x1": 618.0,
+                        "y1": 808.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 10,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 62.98,
+                        "y0": 85.75,
+                        "x1": 393.02,
+                        "y1": 85.75
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 11,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 62.98,
+                        "y0": 122.49,
+                        "x1": 330.95,
+                        "y1": 122.49
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 1,
+                    "bounding_box": {
+                        "x0": 392.74,
+                        "y0": 128.16,
+                        "x1": 430.73,
+                        "y1": 162.47
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 5,
+                    "item_count": 6,
+                    "bounding_box": {
+                        "x0": 429.76,
+                        "y0": 138.01,
+                        "x1": 537.02,
+                        "y1": 159.89
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 6,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 485.84,
+                        "y0": 138.01,
+                        "x1": 537.02,
+                        "y1": 159.89
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 7,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 449.01,
+                        "y0": 141.32,
+                        "x1": 537.02,
+                        "y1": 159.89
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 9,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": 521.68,
+                        "y0": 142.62,
+                        "x1": 533.11,
+                        "y1": 145.41
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 8,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 485.92,
+                        "y0": 143.7,
+                        "x1": 521.23,
+                        "y1": 156.46
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 14,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 56.58,
+                        "y0": 193.97,
+                        "x1": 527.72,
+                        "y1": 664.08
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 6,
+                    "bounding_box": {
+                        "x0": 57.24,
+                        "y0": 194.3,
+                        "x1": 526.89,
+                        "y1": 663.95
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 2,
+                    "bounding_box": {
+                        "x0": 416.19,
+                        "y0": 195.24,
+                        "x1": 537.02,
+                        "y1": 284.08
+                    }
+                },
+                {
+                    "type": "question",
+                    "text": "1. \t Rani was very curious. How do you know?",
+                    "bounding_box": {
+                        "x0": 89.98,
+                        "y0": 205.11,
+                        "x1": 406.5,
+                        "y1": 223.45
+                    }
+                },
+                {
+                    "type": "question",
+                    "text": "2.\t What did Pratik say in excitement?",
+                    "bounding_box": {
+                        "x0": 89.98,
+                        "y0": 234.11,
+                        "x1": 356.38,
+                        "y1": 252.45
+                    }
+                },
+                {
+                    "type": "question",
+                    "text": "3.\t Who was Nandini Aunty?",
+                    "bounding_box": {
+                        "x0": 89.98,
+                        "y0": 263.11,
+                        "x1": 290.02,
+                        "y1": 281.45
+                    }
+                },
+                {
+                    "type": "question",
+                    "text": "4.\t What do the words Chandra and Yaan mean?",
+                    "bounding_box": {
+                        "x0": 89.98,
+                        "y0": 291.73,
+                        "x1": 429.75,
+                        "y1": 310.45
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "text": "Imagine you are invited by the scientists to spend \n10 days on the moon. Make a list of items that you \nwould like to take with you.",
+                    "bounding_box": {
+                        "x0": 89.98,
+                        "y0": 407.09,
+                        "x1": 469.77,
+                        "y1": 467.08
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 3,
+                    "bounding_box": {
+                        "x0": 103.08,
+                        "y0": 627.28,
+                        "x1": 485.34,
+                        "y1": 719.6
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 4,
+                    "bounding_box": {
+                        "x0": -16.0,
+                        "y0": 669.86,
+                        "x1": 74.49,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 1,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": -15.0,
+                        "y0": 749.69,
+                        "x1": 229.8,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 2,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": -248.61,
+                        "y0": 756.1,
+                        "x1": 218.55,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 3,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": -248.61,
+                        "y0": 764.05,
+                        "x1": 218.55,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 4,
+                    "item_count": 3,
+                    "bounding_box": {
+                        "x0": -237.19,
+                        "y0": 772.57,
+                        "x1": 207.13,
+                        "y1": 805.52
+                    }
+                }
+            ]
+        },
+        {
+            "page_number": 6,
+            "text": "123\nSantoor │ Class 3\nLet us speak\nLet us speak\n1.\t Chandrayaan \ntravelled \nthe \ndistance between the Earth and \nthe Moon. You may ask elders at \nhome about their experiences of \ntravelling to places that are far \nfrom home. \n2.\t Have you ever travelled to far-off \nplaces yourselves? If yes, share \nyour experience with others.\nLet us learn\nLet us learn\nRead the following lines.\nThere was a girl named Rani who lived in a village.\nA hanky for an elephant.\nNotice that we used ‘a’ before girl, village and hanky, \nand ‘an’ before elephant. \nWe use ‘a’ before singular nouns \nthat begin with consonants. ‘An’ is \nused before singular nouns that begin \nwith vowel sounds (a, e, i, o, u). \nNote to the teacher\nEnsure that the focus is on sound and not on the letters.\nReprint 2026-27\n",
+            "headings": [],
+            "topics": [
+                [
+                    "let",
+                    4
+                ],
+                [
+                    "before",
+                    4
+                ],
+                [
+                    "speak",
+                    2
+                ],
+                [
+                    "travelled",
+                    2
+                ],
+                [
+                    "you",
+                    2
+                ],
+                [
+                    "home",
+                    2
+                ],
+                [
+                    "places",
+                    2
+                ],
+                [
+                    "far",
+                    2
+                ],
+                [
+                    "learn",
+                    2
+                ],
+                [
+                    "girl",
+                    2
+                ]
+            ],
+            "tables": [],
+            "elements": [
+                {
+                    "type": "image",
+                    "image_number": 6,
+                    "bounding_box": {
+                        "x0": -7.48,
+                        "y0": -39.53,
+                        "x1": 607.48,
+                        "y1": 830.34
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 16,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": -18.0,
+                        "y0": -18.0,
+                        "x1": 618.0,
+                        "y1": 808.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 17,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": -18.0,
+                        "y0": -18.0,
+                        "x1": 618.0,
+                        "y1": 808.8
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 2,
+                    "bounding_box": {
+                        "x0": 382.08,
+                        "y0": 71.4,
+                        "x1": 436.88,
+                        "y1": 107.51
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 10,
+                    "item_count": 6,
+                    "bounding_box": {
+                        "x0": 429.76,
+                        "y0": 80.43,
+                        "x1": 537.02,
+                        "y1": 102.3
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 11,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 485.84,
+                        "y0": 80.43,
+                        "x1": 537.02,
+                        "y1": 102.3
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 12,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 449.01,
+                        "y0": 83.73,
+                        "x1": 537.02,
+                        "y1": 102.3
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 14,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": 521.68,
+                        "y0": 85.03,
+                        "x1": 533.11,
+                        "y1": 87.83
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 13,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 485.92,
+                        "y0": 86.12,
+                        "x1": 521.23,
+                        "y1": 98.88
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 3,
+                    "bounding_box": {
+                        "x0": 377.84,
+                        "y0": 122.0,
+                        "x1": 527.57,
+                        "y1": 308.22
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 18,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 56.58,
+                        "y0": 193.97,
+                        "x1": 527.72,
+                        "y1": 664.08
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 7,
+                    "bounding_box": {
+                        "x0": 57.24,
+                        "y0": 194.3,
+                        "x1": 526.89,
+                        "y1": 663.95
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 1,
+                    "bounding_box": {
+                        "x0": 396.67,
+                        "y0": 323.64,
+                        "x1": 437.85,
+                        "y1": 356.74
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 5,
+                    "item_count": 6,
+                    "bounding_box": {
+                        "x0": 429.76,
+                        "y0": 332.43,
+                        "x1": 537.02,
+                        "y1": 354.3
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 6,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 485.84,
+                        "y0": 332.43,
+                        "x1": 537.02,
+                        "y1": 354.3
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 7,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 449.01,
+                        "y0": 335.73,
+                        "x1": 537.02,
+                        "y1": 354.3
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 9,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": 521.68,
+                        "y0": 337.03,
+                        "x1": 533.11,
+                        "y1": 339.83
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 8,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 485.92,
+                        "y0": 338.12,
+                        "x1": 521.23,
+                        "y1": 350.88
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "text": "Notice that we used ‘a’ before girl, village and hanky, \nand ‘an’ before elephant.",
+                    "bounding_box": {
+                        "x0": 62.98,
+                        "y0": 456.37,
+                        "x1": 469.79,
+                        "y1": 496.35
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 4,
+                    "bounding_box": {
+                        "x0": 342.26,
+                        "y0": 501.96,
+                        "x1": 498.0,
+                        "y1": 657.31
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "text": "We use ‘a’ before singular nouns \nthat begin with consonants. ‘An’ is \nused before singular nouns that begin \nwith vowel sounds (a, e, i, o, u).",
+                    "bounding_box": {
+                        "x0": 62.98,
+                        "y0": 505.37,
+                        "x1": 325.5,
+                        "y1": 585.34
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 5,
+                    "bounding_box": {
+                        "x0": 525.51,
+                        "y0": 669.86,
+                        "x1": 616.0,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 15,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 65.48,
+                        "y0": 670.06,
+                        "x1": 433.94,
+                        "y1": 716.9
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "text": "Note to the teacher\nEnsure that the focus is on sound and not on the letters.",
+                    "bounding_box": {
+                        "x0": 75.28,
+                        "y0": 675.13,
+                        "x1": 410.32,
+                        "y1": 709.72
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 1,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 370.2,
+                        "y0": 749.69,
+                        "x1": 615.0,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 2,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": 381.45,
+                        "y0": 756.1,
+                        "x1": 848.61,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 3,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": 381.45,
+                        "y0": 764.05,
+                        "x1": 848.61,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 4,
+                    "item_count": 3,
+                    "bounding_box": {
+                        "x0": 392.87,
+                        "y0": 772.57,
+                        "x1": 837.19,
+                        "y1": 805.52
+                    }
+                }
+            ]
+        },
+        {
+            "page_number": 7,
+            "text": "124\nSantoor │ Class 3\nA.\t Fill in the blanks using ‘a’.\n1.\t _________ dog is barking at the postman.\n2.\t My mother gives chapattis to _________ \ncow everyday.\n3.\t In summers, _________ sparrow builds its \nnest on the mango tree near our house.\nB.\t Fill in the blanks using ‘an’.\n1.\t I saw _________ eagle yesterday.\n2.\t Maya bought _________ umbrella for the \nmonsoon.\n3.\t _________ ice-cream man brings his cart \nin the evenings.\nC.\t Fill in the blanks using ‘a’ or ‘an’.\n1.\t _________ brown hen laid _________ egg.\n2.\t _________ eagle sat on _________ building.\n3.\t Mary ate _________ apricot, _________ chikoo \nand _________ orange.\nReprint 2026-27\n",
+            "headings": [],
+            "topics": [
+                [
+                    "fill",
+                    3
+                ],
+                [
+                    "blanks",
+                    3
+                ],
+                [
+                    "eagle",
+                    2
+                ],
+                [
+                    "santoor",
+                    1
+                ],
+                [
+                    "class",
+                    1
+                ],
+                [
+                    "dog",
+                    1
+                ],
+                [
+                    "barking",
+                    1
+                ],
+                [
+                    "postman",
+                    1
+                ],
+                [
+                    "mother",
+                    1
+                ],
+                [
+                    "gives",
+                    1
+                ]
+            ],
+            "tables": [],
+            "elements": [
+                {
+                    "type": "image",
+                    "image_number": 11,
+                    "bounding_box": {
+                        "x0": -7.48,
+                        "y0": -39.53,
+                        "x1": 607.48,
+                        "y1": 830.34
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 5,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": -18.0,
+                        "y0": -18.0,
+                        "x1": 618.0,
+                        "y1": 808.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 6,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": -18.0,
+                        "y0": -18.0,
+                        "x1": 618.0,
+                        "y1": 808.8
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 1,
+                    "bounding_box": {
+                        "x0": 419.88,
+                        "y0": 71.4,
+                        "x1": 513.62,
+                        "y1": 156.06
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 9,
+                    "bounding_box": {
+                        "x0": 424.2,
+                        "y0": 163.0,
+                        "x1": 521.16,
+                        "y1": 241.51
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 7,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 56.58,
+                        "y0": 193.97,
+                        "x1": 527.72,
+                        "y1": 664.08
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 12,
+                    "bounding_box": {
+                        "x0": 57.24,
+                        "y0": 194.3,
+                        "x1": 526.89,
+                        "y1": 663.95
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 2,
+                    "bounding_box": {
+                        "x0": 431.4,
+                        "y0": 250.12,
+                        "x1": 511.68,
+                        "y1": 330.04
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 3,
+                    "bounding_box": {
+                        "x0": 336.0,
+                        "y0": 350.2,
+                        "x1": 384.16,
+                        "y1": 410.48
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 4,
+                    "bounding_box": {
+                        "x0": 448.8,
+                        "y0": 375.04,
+                        "x1": 498.02,
+                        "y1": 452.72
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 5,
+                    "bounding_box": {
+                        "x0": 470.25,
+                        "y0": 455.88,
+                        "x1": 537.02,
+                        "y1": 510.59
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 6,
+                    "bounding_box": {
+                        "x0": 367.44,
+                        "y0": 533.64,
+                        "x1": 447.0,
+                        "y1": 586.9
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 8,
+                    "bounding_box": {
+                        "x0": 443.44,
+                        "y0": 571.24,
+                        "x1": 489.73,
+                        "y1": 630.31
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 7,
+                    "bounding_box": {
+                        "x0": 462.7,
+                        "y0": 645.31,
+                        "x1": 537.02,
+                        "y1": 709.4
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 10,
+                    "bounding_box": {
+                        "x0": -16.0,
+                        "y0": 669.86,
+                        "x1": 74.49,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 1,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": -15.0,
+                        "y0": 749.69,
+                        "x1": 229.8,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 2,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": -248.61,
+                        "y0": 756.1,
+                        "x1": 218.55,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 3,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": -248.61,
+                        "y0": 764.05,
+                        "x1": 218.55,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 4,
+                    "item_count": 3,
+                    "bounding_box": {
+                        "x0": -237.19,
+                        "y0": 772.57,
+                        "x1": 207.13,
+                        "y1": 805.52
+                    }
+                }
+            ]
+        },
+        {
+            "page_number": 8,
+            "text": "125\nSantoor │ Class 3\nLet us write\nLet us write\nA.\t Fill in the blanks by forming words using ‘sk’, ‘sw’, \n‘sp’, and ‘st’.\n1.\t There are swings in the park.\n2.\t The children throw _______ones in the river.\n3.\t I need a _______oon and a bowl for soup.\n4.\t Have you heard the _______ory of the boy who cried wolf?\n5.\t The blue _______irt matched with the pink shirt.\nB.\t Describing the Moon.\nDraw a picture of the Moon. With the help of your \nteacher, write a few lines about the Moon.\n__________________________________________________________________________\n__________________________________________________________________________\n__________________________________________________________________________\n__________________________________________________________________________\n__________________________________________________________________________\nReprint 2026-27\n",
+            "headings": [],
+            "topics": [
+                [
+                    "write",
+                    3
+                ],
+                [
+                    "moon",
+                    3
+                ],
+                [
+                    "let",
+                    2
+                ],
+                [
+                    "santoor",
+                    1
+                ],
+                [
+                    "class",
+                    1
+                ],
+                [
+                    "fill",
+                    1
+                ],
+                [
+                    "blanks",
+                    1
+                ],
+                [
+                    "forming",
+                    1
+                ],
+                [
+                    "words",
+                    1
+                ],
+                [
+                    "there",
+                    1
+                ]
+            ],
+            "tables": [],
+            "elements": [
+                {
+                    "type": "image",
+                    "image_number": 4,
+                    "bounding_box": {
+                        "x0": -7.48,
+                        "y0": -39.53,
+                        "x1": 607.48,
+                        "y1": 830.34
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 11,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": -18.0,
+                        "y0": -18.0,
+                        "x1": 618.0,
+                        "y1": 808.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 12,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": -18.0,
+                        "y0": -18.0,
+                        "x1": 618.0,
+                        "y1": 808.8
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 1,
+                    "bounding_box": {
+                        "x0": 402.37,
+                        "y0": 71.4,
+                        "x1": 435.82,
+                        "y1": 106.18
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 5,
+                    "item_count": 6,
+                    "bounding_box": {
+                        "x0": 429.76,
+                        "y0": 80.31,
+                        "x1": 537.02,
+                        "y1": 102.19
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 6,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 485.84,
+                        "y0": 80.31,
+                        "x1": 537.02,
+                        "y1": 102.19
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 7,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 449.01,
+                        "y0": 83.62,
+                        "x1": 537.02,
+                        "y1": 102.19
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 9,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": 521.68,
+                        "y0": 84.92,
+                        "x1": 533.11,
+                        "y1": 87.71
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 8,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 485.92,
+                        "y0": 86.0,
+                        "x1": 521.23,
+                        "y1": 98.76
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 2,
+                    "bounding_box": {
+                        "x0": 429.24,
+                        "y0": 145.52,
+                        "x1": 537.02,
+                        "y1": 230.76
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 13,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 56.58,
+                        "y0": 193.97,
+                        "x1": 527.72,
+                        "y1": 664.08
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 5,
+                    "bounding_box": {
+                        "x0": 57.24,
+                        "y0": 194.3,
+                        "x1": 526.89,
+                        "y1": 663.95
+                    }
+                },
+                {
+                    "type": "question",
+                    "text": "4.\t Have you heard the _______ory of the boy who cried wolf?",
+                    "bounding_box": {
+                        "x0": 89.98,
+                        "y0": 253.43,
+                        "x1": 500.29,
+                        "y1": 271.77
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "text": "Draw a picture of the Moon. With the help of your \nteacher, write a few lines about the Moon.",
+                    "bounding_box": {
+                        "x0": 89.98,
+                        "y0": 340.43,
+                        "x1": 469.52,
+                        "y1": 378.77
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 10,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 62.98,
+                        "y0": 390.8,
+                        "x1": 537.02,
+                        "y1": 552.08
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 3,
+                    "bounding_box": {
+                        "x0": 525.51,
+                        "y0": 669.86,
+                        "x1": 616.0,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 1,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 370.2,
+                        "y0": 749.69,
+                        "x1": 615.0,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 2,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": 381.45,
+                        "y0": 756.1,
+                        "x1": 848.61,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 3,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": 381.45,
+                        "y0": 764.05,
+                        "x1": 848.61,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 4,
+                    "item_count": 3,
+                    "bounding_box": {
+                        "x0": 392.87,
+                        "y0": 772.57,
+                        "x1": 837.19,
+                        "y1": 805.52
+                    }
+                }
+            ]
+        },
+        {
+            "page_number": 9,
+            "text": "126\nSantoor │ Class 3\nFun with Words\nA.\t Read these sentences aloud with your teacher.\nThere are seven days in a week.\nSunday is the first day of the week,\nMonday is the second day of the week.\nTuesday is the third day of the week.\nWednesday is the fourth day of the week.\nThursday is the fifth day of the week.\nFriday is the sixth day of the week.\nSaturday is the seventh day of the week.\nB.\t Look at the words given below. Read them aloud. \nFind their position in a week using the text given \nabove. One has been done for you.\nSunday           first\nMonday          \t_______________\nTuesday          _______________\nWednesday    \t _______________\nThursday        \t_______________\nFriday             \t_______________\nSaturday        \t_______________\nNote to the teacher\nReinforce the link between position and ordinal numbers by \nusing examples from everyday life such as standing first or last \nin a line, etc.\nReprint 2026-27\n",
+            "headings": [
+                {
+                    "text": "Sunday           first",
+                    "bounding_box": {
+                        "x0": 89.98,
+                        "y0": 427.44,
+                        "x1": 222.96,
+                        "y1": 448.4
+                    },
+                    "width": 132.98,
+                    "height": 20.96
+                }
+            ],
+            "topics": [
+                [
+                    "week",
+                    9
+                ],
+                [
+                    "day",
+                    7
+                ],
+                [
+                    "first",
+                    3
+                ],
+                [
+                    "words",
+                    2
+                ],
+                [
+                    "read",
+                    2
+                ],
+                [
+                    "aloud",
+                    2
+                ],
+                [
+                    "teacher",
+                    2
+                ],
+                [
+                    "sunday",
+                    2
+                ],
+                [
+                    "monday",
+                    2
+                ],
+                [
+                    "tuesday",
+                    2
+                ]
+            ],
+            "tables": [],
+            "elements": [
+                {
+                    "type": "image",
+                    "image_number": 3,
+                    "bounding_box": {
+                        "x0": -7.48,
+                        "y0": -39.53,
+                        "x1": 607.48,
+                        "y1": 830.34
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 6,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": -18.0,
+                        "y0": -18.0,
+                        "x1": 618.0,
+                        "y1": 808.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 7,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": -18.0,
+                        "y0": -18.0,
+                        "x1": 618.0,
+                        "y1": 808.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 8,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 56.58,
+                        "y0": 193.97,
+                        "x1": 527.72,
+                        "y1": 664.08
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 4,
+                    "bounding_box": {
+                        "x0": 57.24,
+                        "y0": 194.3,
+                        "x1": 526.89,
+                        "y1": 663.95
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "text": "Find their position in a week using the text given \nabove. One has been done for you.",
+                    "bounding_box": {
+                        "x0": 89.98,
+                        "y0": 376.53,
+                        "x1": 469.78,
+                        "y1": 416.51
+                    }
+                },
+                {
+                    "type": "heading",
+                    "text": "Sunday           first",
+                    "bounding_box": {
+                        "x0": 89.98,
+                        "y0": 427.44,
+                        "x1": 222.96,
+                        "y1": 448.4
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 1,
+                    "bounding_box": {
+                        "x0": 347.19,
+                        "y0": 445.8,
+                        "x1": 489.0,
+                        "y1": 622.29
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 5,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 65.48,
+                        "y0": 650.34,
+                        "x1": 480.02,
+                        "y1": 715.9
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "text": "Note to the teacher\nReinforce the link between position and ordinal numbers by \nusing examples from everyday life such as standing first or last \nin a line, etc.",
+                    "bounding_box": {
+                        "x0": 79.92,
+                        "y0": 653.43,
+                        "x1": 454.8,
+                        "y1": 713.22
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 2,
+                    "bounding_box": {
+                        "x0": -16.0,
+                        "y0": 669.86,
+                        "x1": 74.49,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 1,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": -15.0,
+                        "y0": 749.69,
+                        "x1": 229.8,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 2,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": -248.61,
+                        "y0": 756.1,
+                        "x1": 218.55,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 3,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": -248.61,
+                        "y0": 764.05,
+                        "x1": 218.55,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 4,
+                    "item_count": 3,
+                    "bounding_box": {
+                        "x0": -237.19,
+                        "y0": 772.57,
+                        "x1": 207.13,
+                        "y1": 805.52
+                    }
+                }
+            ]
+        },
+        {
+            "page_number": 10,
+            "text": "127\nSantoor │ Class 3\nLet us do\nLet us do\nA. \t Divide yourselves into small groups. Each group \nshall collect newspaper or magazine clippings \nrelated to the Chandrayaan-3 mission. Paste it on a \nchart paper and display it in your class.\nLet us explore\nLet us explore\nA.\t Do you know a song or a story about the moon in your \nmother tongue? If not, ask your family members \nand share it in the class. \nNote to the teacher\nEncourage students to share stories with others. \nIntroduce the English counterparts of the words as and when \npossible.\nReprint 2026-27\n",
+            "headings": [],
+            "topics": [
+                [
+                    "let",
+                    4
+                ],
+                [
+                    "class",
+                    3
+                ],
+                [
+                    "your",
+                    3
+                ],
+                [
+                    "explore",
+                    2
+                ],
+                [
+                    "share",
+                    2
+                ],
+                [
+                    "santoor",
+                    1
+                ],
+                [
+                    "divide",
+                    1
+                ],
+                [
+                    "yourselves",
+                    1
+                ],
+                [
+                    "into",
+                    1
+                ],
+                [
+                    "small",
+                    1
+                ]
+            ],
+            "tables": [],
+            "elements": [
+                {
+                    "type": "image",
+                    "image_number": 6,
+                    "bounding_box": {
+                        "x0": -7.48,
+                        "y0": -39.53,
+                        "x1": 607.48,
+                        "y1": 830.34
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 16,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": -18.0,
+                        "y0": -18.0,
+                        "x1": 618.0,
+                        "y1": 808.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 17,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": -18.0,
+                        "y0": -18.0,
+                        "x1": 618.0,
+                        "y1": 808.8
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 2,
+                    "bounding_box": {
+                        "x0": 415.88,
+                        "y0": 71.4,
+                        "x1": 452.31,
+                        "y1": 108.57
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 10,
+                    "item_count": 6,
+                    "bounding_box": {
+                        "x0": 429.76,
+                        "y0": 81.57,
+                        "x1": 537.02,
+                        "y1": 103.45
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 11,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 485.84,
+                        "y0": 81.57,
+                        "x1": 537.02,
+                        "y1": 103.45
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 12,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 449.01,
+                        "y0": 84.88,
+                        "x1": 537.02,
+                        "y1": 103.45
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 14,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": 521.68,
+                        "y0": 86.18,
+                        "x1": 533.11,
+                        "y1": 88.97
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 13,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 485.92,
+                        "y0": 87.26,
+                        "x1": 521.23,
+                        "y1": 100.02
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "text": "shall collect newspaper or magazine clippings \nrelated to the Chandrayaan-3 mission. Paste it on a \nchart paper and display it in your class.",
+                    "bounding_box": {
+                        "x0": 89.98,
+                        "y0": 138.53,
+                        "x1": 469.79,
+                        "y1": 198.52
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 18,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 56.58,
+                        "y0": 193.97,
+                        "x1": 527.72,
+                        "y1": 664.08
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 7,
+                    "bounding_box": {
+                        "x0": 57.24,
+                        "y0": 194.3,
+                        "x1": 526.89,
+                        "y1": 663.95
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 3,
+                    "bounding_box": {
+                        "x0": 100.2,
+                        "y0": 211.93,
+                        "x1": 511.75,
+                        "y1": 342.32
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 1,
+                    "bounding_box": {
+                        "x0": 375.73,
+                        "y0": 351.04,
+                        "x1": 423.36,
+                        "y1": 384.01
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 5,
+                    "item_count": 6,
+                    "bounding_box": {
+                        "x0": 429.76,
+                        "y0": 358.21,
+                        "x1": 537.02,
+                        "y1": 380.09
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 6,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 485.84,
+                        "y0": 358.21,
+                        "x1": 537.02,
+                        "y1": 380.09
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 7,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 449.01,
+                        "y0": 361.51,
+                        "x1": 537.02,
+                        "y1": 380.09
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 9,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": 521.68,
+                        "y0": 362.82,
+                        "x1": 533.11,
+                        "y1": 365.61
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 8,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 485.92,
+                        "y0": 363.9,
+                        "x1": 521.23,
+                        "y1": 376.66
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "text": "A.\t Do you know a song or a story about the moon in your",
+                    "bounding_box": {
+                        "x0": 62.98,
+                        "y0": 397.13,
+                        "x1": 469.77,
+                        "y1": 417.1
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "text": "mother tongue? If not, ask your family members \nand share it in the class.",
+                    "bounding_box": {
+                        "x0": 89.98,
+                        "y0": 417.13,
+                        "x1": 469.79,
+                        "y1": 457.11
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 4,
+                    "bounding_box": {
+                        "x0": 186.56,
+                        "y0": 465.0,
+                        "x1": 408.5,
+                        "y1": 599.68
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 15,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 65.48,
+                        "y0": 635.5,
+                        "x1": 481.46,
+                        "y1": 716.9
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "text": "Note to the teacher\nEncourage students to share stories with others. \nIntroduce the English counterparts of the words as and when \npossible.",
+                    "bounding_box": {
+                        "x0": 75.38,
+                        "y0": 642.9,
+                        "x1": 440.42,
+                        "y1": 707.74
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 5,
+                    "bounding_box": {
+                        "x0": 525.51,
+                        "y0": 669.86,
+                        "x1": 616.0,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 1,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 370.2,
+                        "y0": 749.69,
+                        "x1": 615.0,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 2,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": 381.45,
+                        "y0": 756.1,
+                        "x1": 848.61,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 3,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": 381.45,
+                        "y0": 764.05,
+                        "x1": 848.61,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 4,
+                    "item_count": 3,
+                    "bounding_box": {
+                        "x0": 392.87,
+                        "y0": 772.57,
+                        "x1": 837.19,
+                        "y1": 805.52
+                    }
+                }
+            ]
+        },
+        {
+            "page_number": 11,
+            "text": "128\nSantoor │ Class 3\nNote to the teacher\nThe assessment sheet can be filled by the student under the \nguidance of parents and teachers.\nSELF ASSESSMENT\n1.\t I can recite the poems  \n-\t in a group. \t\n                                                  \n-\t in pairs.                                                                                              \n-\t by repeating after my teacher.                    \n-\t by myself.                                                  \n2.\t I can read the stories \n-\t by myself.       \n-\t with my classmates. \n-\t with the help of my teacher.\n3.\t I can write  \n-\t by copying from the book or the board. \n-\t as my teacher speaks.\n-\t with the help of my classmates.\t\n-\t by myself.\n4.\t I can tell the stories that I have read or listened \n-\t by myself (without any help).  \t                   \n-\t with the help of the teacher.                              \n-\t by using the book. \n5.\t I was able to do \n-\t all the exercise questions. \n-\t most of the exercise questions. \n-\t a few exercise questions. \n Note: \nReprint 2026-27\n",
+            "headings": [],
+            "topics": [
+                [
+                    "teacher",
+                    5
+                ],
+                [
+                    "can",
+                    5
+                ],
+                [
+                    "myself",
+                    4
+                ],
+                [
+                    "help",
+                    4
+                ],
+                [
+                    "exercise",
+                    3
+                ],
+                [
+                    "questions",
+                    3
+                ],
+                [
+                    "note",
+                    2
+                ],
+                [
+                    "assessment",
+                    2
+                ],
+                [
+                    "read",
+                    2
+                ],
+                [
+                    "stories",
+                    2
+                ]
+            ],
+            "tables": [
+                {
+                    "table_number": 1,
+                    "data": [
+                        [
+                            "SELF ASSESSMENT\n1. I can recite the poems\n- in a group.\n- in pairs.\n- by repeating after my teacher.\n- by myself.\n2. I can read the stories\n- by myself.\n- with my classmates.\n- with the help of my teacher.\n3. I can write\n- by copying from the book or the board.\n- as my teacher speaks.\n- with the help of my classmates.\n- by myself.\n4. I can tell the stories that I have read or listened\n- by myself (without any help).\n- with the help of the teacher.\n- by using the book.\n5. I was able to do\n- all the exercise questions.\n- most of the exercise questions.\n- a few exercise questions.\nNote:",
+                            null
+                        ],
+                        [
+                            null,
+                            "SELF ASSESSMENT\n1. I can recite the poems\n- in a group.\n- in pairs.\n- by repeating after my teacher.\n- by myself.\n2. I can read the stories\n- by myself.\n- with my classmates.\n- with the help of my teacher.\n3. I can write\n- by copying from the book or the board.\n- as my teacher speaks.\n- with the help of my classmates.\n- by myself.\n4. I can tell the stories that I have read or listened\n- by myself (without any help).\n- with the help of the teacher.\n- by using the book.\n5. I was able to do\n- all the exercise questions.\n- most of the exercise questions.\n- a few exercise questions.\nNote:"
+                        ],
+                        [
+                            "- by myself.\n2. I can read the stories\n- by myself.\n- with my classmates.\n- with the help of my teacher.\n3. I can write\n- by copying from the book or the board.\n- as my teacher speaks.\n- with the help of my classmates.\n- by myself.\n4. I can tell the stories that I have read or listened\n- by myself (without any help).\n- with the help of the teacher.\n- by using the book.\n5. I was able to do\n- all the exercise questions.\n- most of the exercise questions.\n- a few exercise questions.\nNote:",
+                            "- by myself.\n2. I can read the stories\n- by myself.\n- with my classmates.\n- with the help of my teacher.\n3. I can write\n- by copying from the book or the board.\n- as my teacher speaks.\n- with the help of my classmates.\n- by myself.\n4. I can tell the stories that I have read or listened\n- by myself (without any help).\n- with the help of the teacher.\n- by using the book.\n5. I was able to do\n- all the exercise questions.\n- most of the exercise questions.\n- a few exercise questions.\nNote:"
+                        ],
+                        [
+                            "",
+                            null
+                        ]
+                    ],
+                    "bounding_box": {
+                        "x0": 55.62,
+                        "y0": 62.8,
+                        "x1": 545.33,
+                        "y1": 664.08
+                    }
+                }
+            ],
+            "elements": [
+                {
+                    "type": "image",
+                    "image_number": 3,
+                    "bounding_box": {
+                        "x0": -7.48,
+                        "y0": -39.53,
+                        "x1": 607.48,
+                        "y1": 830.34
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 25,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": -18.0,
+                        "y0": -18.0,
+                        "x1": 618.0,
+                        "y1": 808.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 26,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": -18.0,
+                        "y0": -18.0,
+                        "x1": 618.0,
+                        "y1": 808.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 6,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 54.67,
+                        "y0": 62.8,
+                        "x1": 545.33,
+                        "y1": 645.96
+                    }
+                },
+                {
+                    "type": "table",
+                    "table_number": 1,
+                    "data": [
+                        [
+                            "SELF ASSESSMENT\n1. I can recite the poems\n- in a group.\n- in pairs.\n- by repeating after my teacher.\n- by myself.\n2. I can read the stories\n- by myself.\n- with my classmates.\n- with the help of my teacher.\n3. I can write\n- by copying from the book or the board.\n- as my teacher speaks.\n- with the help of my classmates.\n- by myself.\n4. I can tell the stories that I have read or listened\n- by myself (without any help).\n- with the help of the teacher.\n- by using the book.\n5. I was able to do\n- all the exercise questions.\n- most of the exercise questions.\n- a few exercise questions.\nNote:",
+                            null
+                        ],
+                        [
+                            null,
+                            "SELF ASSESSMENT\n1. I can recite the poems\n- in a group.\n- in pairs.\n- by repeating after my teacher.\n- by myself.\n2. I can read the stories\n- by myself.\n- with my classmates.\n- with the help of my teacher.\n3. I can write\n- by copying from the book or the board.\n- as my teacher speaks.\n- with the help of my classmates.\n- by myself.\n4. I can tell the stories that I have read or listened\n- by myself (without any help).\n- with the help of the teacher.\n- by using the book.\n5. I was able to do\n- all the exercise questions.\n- most of the exercise questions.\n- a few exercise questions.\nNote:"
+                        ],
+                        [
+                            "- by myself.\n2. I can read the stories\n- by myself.\n- with my classmates.\n- with the help of my teacher.\n3. I can write\n- by copying from the book or the board.\n- as my teacher speaks.\n- with the help of my classmates.\n- by myself.\n4. I can tell the stories that I have read or listened\n- by myself (without any help).\n- with the help of the teacher.\n- by using the book.\n5. I was able to do\n- all the exercise questions.\n- most of the exercise questions.\n- a few exercise questions.\nNote:",
+                            "- by myself.\n2. I can read the stories\n- by myself.\n- with my classmates.\n- with the help of my teacher.\n3. I can write\n- by copying from the book or the board.\n- as my teacher speaks.\n- with the help of my classmates.\n- by myself.\n4. I can tell the stories that I have read or listened\n- by myself (without any help).\n- with the help of the teacher.\n- by using the book.\n5. I was able to do\n- all the exercise questions.\n- most of the exercise questions.\n- a few exercise questions.\nNote:"
+                        ],
+                        [
+                            "",
+                            null
+                        ]
+                    ],
+                    "bounding_box": {
+                        "x0": 55.62,
+                        "y0": 62.8,
+                        "x1": 545.33,
+                        "y1": 664.08
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 7,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 66.39,
+                        "y0": 73.11,
+                        "x1": 533.61,
+                        "y1": 638.76
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 8,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 389.6,
+                        "y0": 138.25,
+                        "x1": 409.01,
+                        "y1": 156.22
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 9,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 389.6,
+                        "y0": 160.57,
+                        "x1": 409.01,
+                        "y1": 178.54
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 10,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 389.6,
+                        "y0": 182.89,
+                        "x1": 409.01,
+                        "y1": 200.86
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 27,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 56.58,
+                        "y0": 193.97,
+                        "x1": 527.72,
+                        "y1": 664.08
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 4,
+                    "bounding_box": {
+                        "x0": 57.24,
+                        "y0": 194.3,
+                        "x1": 526.89,
+                        "y1": 663.95
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 11,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 389.6,
+                        "y0": 205.21,
+                        "x1": 409.01,
+                        "y1": 223.18
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 1,
+                    "bounding_box": {
+                        "x0": 418.0,
+                        "y0": 250.12,
+                        "x1": 524.97,
+                        "y1": 384.43
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 22,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 389.6,
+                        "y0": 253.09,
+                        "x1": 409.01,
+                        "y1": 271.06
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 23,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 389.6,
+                        "y0": 276.91,
+                        "x1": 409.01,
+                        "y1": 294.88
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 24,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 389.6,
+                        "y0": 300.73,
+                        "x1": 409.01,
+                        "y1": 318.7
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 12,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 389.6,
+                        "y0": 346.75,
+                        "x1": 409.01,
+                        "y1": 364.72
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 13,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 389.6,
+                        "y0": 369.07,
+                        "x1": 409.01,
+                        "y1": 387.04
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 14,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 389.6,
+                        "y0": 391.39,
+                        "x1": 409.01,
+                        "y1": 409.36
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 15,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 389.6,
+                        "y0": 413.71,
+                        "x1": 409.01,
+                        "y1": 431.68
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 16,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 389.6,
+                        "y0": 467.65,
+                        "x1": 409.01,
+                        "y1": 485.62
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 17,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 389.6,
+                        "y0": 491.47,
+                        "x1": 409.01,
+                        "y1": 509.44
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 18,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 389.6,
+                        "y0": 515.29,
+                        "x1": 409.01,
+                        "y1": 533.26
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 19,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 389.6,
+                        "y0": 560.53,
+                        "x1": 409.01,
+                        "y1": 578.5
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 20,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 389.6,
+                        "y0": 584.35,
+                        "x1": 409.01,
+                        "y1": 602.32
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 21,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 389.6,
+                        "y0": 608.17,
+                        "x1": 409.01,
+                        "y1": 626.14
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 5,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 66.37,
+                        "y0": 657.34,
+                        "x1": 446.18,
+                        "y1": 716.9
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "text": "Note to the teacher\nThe assessment sheet can be filled by the student under the \nguidance of parents and teachers.",
+                    "bounding_box": {
+                        "x0": 76.39,
+                        "y0": 664.34,
+                        "x1": 434.23,
+                        "y1": 709.74
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 2,
+                    "bounding_box": {
+                        "x0": -16.0,
+                        "y0": 669.86,
+                        "x1": 74.49,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 1,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": -15.0,
+                        "y0": 749.69,
+                        "x1": 229.8,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 2,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": -248.61,
+                        "y0": 756.1,
+                        "x1": 218.55,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 3,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": -248.61,
+                        "y0": 764.05,
+                        "x1": 218.55,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 4,
+                    "item_count": 3,
+                    "bounding_box": {
+                        "x0": -237.19,
+                        "y0": 772.57,
+                        "x1": 207.13,
+                        "y1": 805.52
+                    }
+                }
+            ]
+        }
+    ]
+}

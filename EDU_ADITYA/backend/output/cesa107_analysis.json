@@ -1,0 +1,3463 @@
+{
+    "file_name": "7d43290e-4d1a-43cb-8504-155b24fa6090_cesa107.pdf",
+    "page_count": 10,
+    "pages": [
+        {
+            "page_number": 1,
+            "text": "1\n2\nGood Food\nPicture reading\nPicture reading\nUnit\n3\nReprint 2025-26\n",
+            "headings": [
+                {
+                    "text": "Good Food",
+                    "bounding_box": {
+                        "x0": 196.18,
+                        "y0": 108.11,
+                        "x1": 360.02,
+                        "y1": 150.71
+                    },
+                    "width": 163.84,
+                    "height": 42.59
+                },
+                {
+                    "text": "3",
+                    "bounding_box": {
+                        "x0": 77.37,
+                        "y0": 81.82,
+                        "x1": 90.71,
+                        "y1": 116.19
+                    },
+                    "width": 13.34,
+                    "height": 34.37
+                }
+            ],
+            "topics": [
+                [
+                    "picture",
+                    2
+                ],
+                [
+                    "reading",
+                    2
+                ],
+                [
+                    "good",
+                    1
+                ],
+                [
+                    "food",
+                    1
+                ],
+                [
+                    "unit",
+                    1
+                ],
+                [
+                    "reprint",
+                    1
+                ]
+            ],
+            "tables": [],
+            "elements": [
+                {
+                    "type": "image",
+                    "image_number": 5,
+                    "bounding_box": {
+                        "x0": -7.48,
+                        "y0": -39.53,
+                        "x1": 607.48,
+                        "y1": 830.34
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 15,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": -18.0,
+                        "y0": -18.0,
+                        "x1": 618.0,
+                        "y1": 808.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 16,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": -18.0,
+                        "y0": -18.0,
+                        "x1": 618.0,
+                        "y1": 808.8
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 4,
+                    "bounding_box": {
+                        "x0": -15.0,
+                        "y0": -15.0,
+                        "x1": 597.07,
+                        "y1": 174.0
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 1,
+                    "item_count": 7,
+                    "bounding_box": {
+                        "x0": -14.0,
+                        "y0": -15.0,
+                        "x1": 301.16,
+                        "y1": 156.6
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 11,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 58.75,
+                        "y0": 67.17,
+                        "x1": 111.31,
+                        "y1": 119.73
+                    }
+                },
+                {
+                    "type": "heading",
+                    "text": "3",
+                    "bounding_box": {
+                        "x0": 77.37,
+                        "y0": 81.82,
+                        "x1": 90.71,
+                        "y1": 116.19
+                    }
+                },
+                {
+                    "type": "heading",
+                    "text": "Good Food",
+                    "bounding_box": {
+                        "x0": 196.18,
+                        "y0": 108.11,
+                        "x1": 360.02,
+                        "y1": 150.71
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 1,
+                    "bounding_box": {
+                        "x0": 372.24,
+                        "y0": 157.15,
+                        "x1": 412.74,
+                        "y1": 192.7
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 2,
+                    "item_count": 6,
+                    "bounding_box": {
+                        "x0": 429.76,
+                        "y0": 166.09,
+                        "x1": 537.02,
+                        "y1": 187.96
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 3,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 485.84,
+                        "y0": 166.09,
+                        "x1": 537.02,
+                        "y1": 187.96
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 4,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 449.01,
+                        "y0": 169.39,
+                        "x1": 537.02,
+                        "y1": 187.96
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 6,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": 521.68,
+                        "y0": 170.69,
+                        "x1": 533.11,
+                        "y1": 173.49
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 5,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 485.92,
+                        "y0": 171.78,
+                        "x1": 521.23,
+                        "y1": 184.54
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 17,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 56.58,
+                        "y0": 193.97,
+                        "x1": 527.72,
+                        "y1": 664.08
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 6,
+                    "bounding_box": {
+                        "x0": 57.24,
+                        "y0": 194.3,
+                        "x1": 526.89,
+                        "y1": 663.95
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 2,
+                    "bounding_box": {
+                        "x0": 62.98,
+                        "y0": 213.92,
+                        "x1": 537.02,
+                        "y1": 474.13
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 7,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 62.98,
+                        "y0": 236.97,
+                        "x1": 537.02,
+                        "y1": 455.24
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 8,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": 77.76,
+                        "y0": 251.6,
+                        "x1": 100.5,
+                        "y1": 274.33
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 12,
+                    "item_count": 7,
+                    "bounding_box": {
+                        "x0": 205.33,
+                        "y0": 431.25,
+                        "x1": 257.16,
+                        "y1": 506.26
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 9,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 63.98,
+                        "y0": 474.16,
+                        "x1": 538.02,
+                        "y1": 718.4
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 3,
+                    "bounding_box": {
+                        "x0": 62.98,
+                        "y0": 475.07,
+                        "x1": 538.07,
+                        "y1": 720.45
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 10,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": 77.76,
+                        "y0": 489.27,
+                        "x1": 100.5,
+                        "y1": 512.0
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 14,
+                    "item_count": 7,
+                    "bounding_box": {
+                        "x0": 515.2,
+                        "y0": 571.57,
+                        "x1": 690.15,
+                        "y1": 623.4
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 13,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 515.2,
+                        "y0": 580.95,
+                        "x1": 615.0,
+                        "y1": 612.9
+                    }
+                }
+            ]
+        },
+        {
+            "page_number": 2,
+            "text": "69\nSantoor │ Class 3\nLook at the pictures and answer.\n1.\t What can you see in Picture 1?\n2.\t Look at Picture 2. What is the man doing with \nthe wheat?\n3.\t Look at Picture 4. Who are they? What are \nthey doing?\n4.\t What is the girl doing in the last picture?\n5.\t What do you have along with chapatti?\n6.\t Have you seen a field? What was growing \nthere? Speak about it.\n4\n5\n3\nReprint 2025-26\n",
+            "headings": [
+                {
+                    "text": "Look at the pictures and answer.",
+                    "bounding_box": {
+                        "x0": 62.98,
+                        "y0": 65.83,
+                        "x1": 336.9,
+                        "y1": 88.66
+                    },
+                    "width": 273.92,
+                    "height": 22.83
+                },
+                {
+                    "text": "1.\t What can you see in Picture 1?\n2.\t Look at Picture 2. What is the man doing with",
+                    "bounding_box": {
+                        "x0": 66.98,
+                        "y0": 96.0,
+                        "x1": 442.28,
+                        "y1": 138.4
+                    },
+                    "width": 375.3,
+                    "height": 42.4
+                },
+                {
+                    "text": "there? Speak about it.",
+                    "bounding_box": {
+                        "x0": 97.98,
+                        "y0": 267.2,
+                        "x1": 271.42,
+                        "y1": 288.16
+                    },
+                    "width": 173.44,
+                    "height": 20.96
+                }
+            ],
+            "topics": [
+                [
+                    "picture",
+                    4
+                ],
+                [
+                    "look",
+                    3
+                ],
+                [
+                    "you",
+                    3
+                ],
+                [
+                    "doing",
+                    3
+                ],
+                [
+                    "they",
+                    2
+                ],
+                [
+                    "have",
+                    2
+                ],
+                [
+                    "santoor",
+                    1
+                ],
+                [
+                    "class",
+                    1
+                ],
+                [
+                    "pictures",
+                    1
+                ],
+                [
+                    "answer",
+                    1
+                ]
+            ],
+            "tables": [],
+            "elements": [
+                {
+                    "type": "image",
+                    "image_number": 6,
+                    "bounding_box": {
+                        "x0": -7.48,
+                        "y0": -39.53,
+                        "x1": 607.48,
+                        "y1": 830.34
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 16,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": -18.0,
+                        "y0": -18.0,
+                        "x1": 618.0,
+                        "y1": 808.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 17,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": -18.0,
+                        "y0": -18.0,
+                        "x1": 618.0,
+                        "y1": 808.8
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 5,
+                    "bounding_box": {
+                        "x0": -609.0,
+                        "y0": -15.0,
+                        "x1": 3.07,
+                        "y1": 174.0
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 5,
+                    "item_count": 7,
+                    "bounding_box": {
+                        "x0": -608.0,
+                        "y0": -15.0,
+                        "x1": -292.84,
+                        "y1": 156.6
+                    }
+                },
+                {
+                    "type": "heading",
+                    "text": "Look at the pictures and answer.",
+                    "bounding_box": {
+                        "x0": 62.98,
+                        "y0": 65.83,
+                        "x1": 336.9,
+                        "y1": 88.66
+                    }
+                },
+                {
+                    "type": "heading",
+                    "text": "1.\t What can you see in Picture 1?\n2.\t Look at Picture 2. What is the man doing with",
+                    "bounding_box": {
+                        "x0": 66.98,
+                        "y0": 96.0,
+                        "x1": 442.28,
+                        "y1": 138.4
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "text": "the wheat?\n3.\t Look at Picture 4. Who are they? What are",
+                    "bounding_box": {
+                        "x0": 66.98,
+                        "y0": 137.44,
+                        "x1": 434.94,
+                        "y1": 179.84
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "text": "they doing?\n4.\t What is the girl doing in the last picture?\n5.\t What do you have along with chapatti?\n6.\t Have you seen a field? What was growing",
+                    "bounding_box": {
+                        "x0": 66.98,
+                        "y0": 178.88,
+                        "x1": 425.01,
+                        "y1": 266.16
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 18,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 56.58,
+                        "y0": 193.97,
+                        "x1": 527.72,
+                        "y1": 664.08
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 7,
+                    "bounding_box": {
+                        "x0": 57.24,
+                        "y0": 194.3,
+                        "x1": 526.89,
+                        "y1": 663.95
+                    }
+                },
+                {
+                    "type": "heading",
+                    "text": "there? Speak about it.",
+                    "bounding_box": {
+                        "x0": 97.98,
+                        "y0": 267.2,
+                        "x1": 271.42,
+                        "y1": 288.16
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 2,
+                    "bounding_box": {
+                        "x0": 292.44,
+                        "y0": 289.61,
+                        "x1": 566.28,
+                        "y1": 481.0
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 1,
+                    "bounding_box": {
+                        "x0": 63.92,
+                        "y0": 290.18,
+                        "x1": 283.15,
+                        "y1": 729.4
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 6,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 63.98,
+                        "y0": 296.96,
+                        "x1": 284.24,
+                        "y1": 718.4
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 7,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 315.76,
+                        "y0": 296.96,
+                        "x1": 536.02,
+                        "y1": 477.84
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 13,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": 79.0,
+                        "y0": 307.48,
+                        "x1": 101.73,
+                        "y1": 330.21
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 11,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": 330.2,
+                        "y0": 307.48,
+                        "x1": 352.93,
+                        "y1": 330.21
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 9,
+                    "item_count": 7,
+                    "bounding_box": {
+                        "x0": 271.84,
+                        "y0": 356.08,
+                        "x1": 345.99,
+                        "y1": 406.87
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 10,
+                    "item_count": 7,
+                    "bounding_box": {
+                        "x0": 378.09,
+                        "y0": 466.0,
+                        "x1": 428.88,
+                        "y1": 527.68
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 3,
+                    "bounding_box": {
+                        "x0": 298.82,
+                        "y0": 490.71,
+                        "x1": 538.1,
+                        "y1": 719.4
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 8,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 315.76,
+                        "y0": 495.76,
+                        "x1": 536.02,
+                        "y1": 718.4
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 12,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": 330.2,
+                        "y0": 506.48,
+                        "x1": 352.93,
+                        "y1": 529.21
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 15,
+                    "item_count": 7,
+                    "bounding_box": {
+                        "x0": -78.8,
+                        "y0": 571.57,
+                        "x1": 96.15,
+                        "y1": 623.4
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 14,
+                    "item_count": 7,
+                    "bounding_box": {
+                        "x0": -15.0,
+                        "y0": 571.57,
+                        "x1": 96.15,
+                        "y1": 623.4
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 4,
+                    "bounding_box": {
+                        "x0": 525.51,
+                        "y0": 669.86,
+                        "x1": 616.0,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 1,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 370.2,
+                        "y0": 749.69,
+                        "x1": 615.0,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 2,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": 381.45,
+                        "y0": 756.1,
+                        "x1": 848.61,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 3,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": 381.45,
+                        "y0": 764.05,
+                        "x1": 848.61,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 4,
+                    "item_count": 3,
+                    "bounding_box": {
+                        "x0": 392.87,
+                        "y0": 772.57,
+                        "x1": 837.19,
+                        "y1": 805.52
+                    }
+                }
+            ]
+        },
+        {
+            "page_number": 3,
+            "text": "Chapter 7.\t The Big Laddoo \nLet us recite\nLet us recite\nIf all the laddoos were one Laddoo\nOh! What a BIG Laddoo it would be!\nIf all the children were one child\nOh! What a BIG child that would be!\nIf all the seas were one sea\nOh! What a BIG sea it would be!\nThen if the BIG child\npicked the BIG Laddoo\nReprint 2025-26\n",
+            "headings": [
+                {
+                    "text": "Chapter 7.\t The Big Laddoo",
+                    "bounding_box": {
+                        "x0": 140.73,
+                        "y0": 88.97,
+                        "x1": 415.09,
+                        "y1": 122.36
+                    },
+                    "width": 274.36,
+                    "height": 33.39
+                },
+                {
+                    "text": "If all the laddoos were one Laddoo",
+                    "bounding_box": {
+                        "x0": 89.76,
+                        "y0": 197.19,
+                        "x1": 355.68,
+                        "y1": 218.15
+                    },
+                    "width": 265.92,
+                    "height": 20.96
+                },
+                {
+                    "text": "Oh! What a BIG Laddoo it would be!",
+                    "bounding_box": {
+                        "x0": 89.76,
+                        "y0": 224.79,
+                        "x1": 372.0,
+                        "y1": 245.75
+                    },
+                    "width": 282.24,
+                    "height": 20.96
+                },
+                {
+                    "text": "If all the children were one child",
+                    "bounding_box": {
+                        "x0": 89.76,
+                        "y0": 259.59,
+                        "x1": 341.6,
+                        "y1": 280.55
+                    },
+                    "width": 251.84,
+                    "height": 20.96
+                },
+                {
+                    "text": "Oh! What a BIG child that would be!",
+                    "bounding_box": {
+                        "x0": 89.76,
+                        "y0": 287.19,
+                        "x1": 374.88,
+                        "y1": 308.15
+                    },
+                    "width": 285.12,
+                    "height": 20.96
+                },
+                {
+                    "text": "If all the seas were one sea",
+                    "bounding_box": {
+                        "x0": 89.76,
+                        "y0": 321.99,
+                        "x1": 299.04,
+                        "y1": 342.95
+                    },
+                    "width": 209.28,
+                    "height": 20.96
+                },
+                {
+                    "text": "Oh! What a BIG sea it would be!",
+                    "bounding_box": {
+                        "x0": 89.76,
+                        "y0": 349.59,
+                        "x1": 341.28,
+                        "y1": 370.55
+                    },
+                    "width": 251.52,
+                    "height": 20.96
+                },
+                {
+                    "text": "Then if the BIG child",
+                    "bounding_box": {
+                        "x0": 89.76,
+                        "y0": 384.39,
+                        "x1": 252.96,
+                        "y1": 405.35
+                    },
+                    "width": 163.2,
+                    "height": 20.96
+                },
+                {
+                    "text": "picked the BIG Laddoo",
+                    "bounding_box": {
+                        "x0": 89.76,
+                        "y0": 411.99,
+                        "x1": 268.0,
+                        "y1": 432.95
+                    },
+                    "width": 178.24,
+                    "height": 20.96
+                }
+            ],
+            "topics": [
+                [
+                    "big",
+                    6
+                ],
+                [
+                    "laddoo",
+                    4
+                ],
+                [
+                    "all",
+                    3
+                ],
+                [
+                    "one",
+                    3
+                ],
+                [
+                    "would",
+                    3
+                ],
+                [
+                    "child",
+                    3
+                ],
+                [
+                    "let",
+                    2
+                ],
+                [
+                    "recite",
+                    2
+                ],
+                [
+                    "sea",
+                    2
+                ],
+                [
+                    "chapter",
+                    1
+                ]
+            ],
+            "tables": [
+                {
+                    "table_number": 1,
+                    "data": [
+                        [
+                            "",
+                            "",
+                            "",
+                            null
+                        ],
+                        [
+                            "7. The Big Laddoo\nChapter",
+                            "",
+                            "",
+                            null
+                        ],
+                        [
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    "bounding_box": {
+                        "x0": 104.78,
+                        "y0": 88.32,
+                        "x1": 536.68,
+                        "y1": 130.32
+                    }
+                }
+            ],
+            "elements": [
+                {
+                    "type": "image",
+                    "image_number": 5,
+                    "bounding_box": {
+                        "x0": -7.48,
+                        "y0": -39.53,
+                        "x1": 607.48,
+                        "y1": 830.34
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 10,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": -18.0,
+                        "y0": -18.0,
+                        "x1": 618.0,
+                        "y1": 808.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 11,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": -18.0,
+                        "y0": -18.0,
+                        "x1": 618.0,
+                        "y1": 808.8
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 1,
+                    "bounding_box": {
+                        "x0": -15.0,
+                        "y0": -15.0,
+                        "x1": 616.03,
+                        "y1": 805.91
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 3,
+                    "bounding_box": {
+                        "x0": -16.01,
+                        "y0": 51.06,
+                        "x1": 482.96,
+                        "y1": 132.16
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 4,
+                    "bounding_box": {
+                        "x0": 436.2,
+                        "y0": 53.48,
+                        "x1": 521.16,
+                        "y1": 138.44
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 9,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 436.2,
+                        "y0": 53.48,
+                        "x1": 521.16,
+                        "y1": 138.44
+                    }
+                },
+                {
+                    "type": "table",
+                    "table_number": 1,
+                    "data": [
+                        [
+                            "",
+                            "",
+                            "",
+                            null
+                        ],
+                        [
+                            "7. The Big Laddoo\nChapter",
+                            "",
+                            "",
+                            null
+                        ],
+                        [
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    "bounding_box": {
+                        "x0": 104.78,
+                        "y0": 88.32,
+                        "x1": 536.68,
+                        "y1": 130.32
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 7,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 105.03,
+                        "y0": 88.32,
+                        "x1": 536.39,
+                        "y1": 130.32
+                    }
+                },
+                {
+                    "type": "heading",
+                    "text": "Chapter 7.\t The Big Laddoo",
+                    "bounding_box": {
+                        "x0": 140.73,
+                        "y0": 88.97,
+                        "x1": 415.09,
+                        "y1": 122.36
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 8,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 104.53,
+                        "y0": 95.99,
+                        "x1": 535.95,
+                        "y1": 122.65
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 6,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": 176.25,
+                        "y0": 122.22,
+                        "x1": 531.54,
+                        "y1": 142.1
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 2,
+                    "bounding_box": {
+                        "x0": 381.36,
+                        "y0": 141.52,
+                        "x1": 430.82,
+                        "y1": 179.24
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 1,
+                    "item_count": 6,
+                    "bounding_box": {
+                        "x0": 429.76,
+                        "y0": 149.59,
+                        "x1": 537.02,
+                        "y1": 171.47
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 2,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 485.84,
+                        "y0": 149.59,
+                        "x1": 537.02,
+                        "y1": 171.47
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 3,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 449.01,
+                        "y0": 152.9,
+                        "x1": 537.02,
+                        "y1": 171.47
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 5,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": 521.68,
+                        "y0": 154.2,
+                        "x1": 533.11,
+                        "y1": 156.99
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 4,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 485.92,
+                        "y0": 155.28,
+                        "x1": 521.23,
+                        "y1": 168.04
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 12,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 56.58,
+                        "y0": 193.97,
+                        "x1": 527.72,
+                        "y1": 664.08
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 6,
+                    "bounding_box": {
+                        "x0": 57.24,
+                        "y0": 194.3,
+                        "x1": 526.89,
+                        "y1": 663.95
+                    }
+                },
+                {
+                    "type": "heading",
+                    "text": "If all the laddoos were one Laddoo",
+                    "bounding_box": {
+                        "x0": 89.76,
+                        "y0": 197.19,
+                        "x1": 355.68,
+                        "y1": 218.15
+                    }
+                },
+                {
+                    "type": "heading",
+                    "text": "Oh! What a BIG Laddoo it would be!",
+                    "bounding_box": {
+                        "x0": 89.76,
+                        "y0": 224.79,
+                        "x1": 372.0,
+                        "y1": 245.75
+                    }
+                },
+                {
+                    "type": "heading",
+                    "text": "If all the children were one child",
+                    "bounding_box": {
+                        "x0": 89.76,
+                        "y0": 259.59,
+                        "x1": 341.6,
+                        "y1": 280.55
+                    }
+                },
+                {
+                    "type": "heading",
+                    "text": "Oh! What a BIG child that would be!",
+                    "bounding_box": {
+                        "x0": 89.76,
+                        "y0": 287.19,
+                        "x1": 374.88,
+                        "y1": 308.15
+                    }
+                },
+                {
+                    "type": "heading",
+                    "text": "If all the seas were one sea",
+                    "bounding_box": {
+                        "x0": 89.76,
+                        "y0": 321.99,
+                        "x1": 299.04,
+                        "y1": 342.95
+                    }
+                },
+                {
+                    "type": "heading",
+                    "text": "Oh! What a BIG sea it would be!",
+                    "bounding_box": {
+                        "x0": 89.76,
+                        "y0": 349.59,
+                        "x1": 341.28,
+                        "y1": 370.55
+                    }
+                },
+                {
+                    "type": "heading",
+                    "text": "Then if the BIG child",
+                    "bounding_box": {
+                        "x0": 89.76,
+                        "y0": 384.39,
+                        "x1": 252.96,
+                        "y1": 405.35
+                    }
+                },
+                {
+                    "type": "heading",
+                    "text": "picked the BIG Laddoo",
+                    "bounding_box": {
+                        "x0": 89.76,
+                        "y0": 411.99,
+                        "x1": 268.0,
+                        "y1": 432.95
+                    }
+                }
+            ]
+        },
+        {
+            "page_number": 4,
+            "text": "71\nSantoor │ Class 3\nAnd threw it into the BIG sea\nOh! What a BIG SPLISH-SPLASH it would be!\nNew words\nsea\t\nsplish-splash\nReprint 2025-26\n",
+            "headings": [
+                {
+                    "text": "And threw it into the BIG sea",
+                    "bounding_box": {
+                        "x0": 89.98,
+                        "y0": 66.99,
+                        "x1": 318.78,
+                        "y1": 87.95
+                    },
+                    "width": 228.8,
+                    "height": 20.96
+                },
+                {
+                    "text": "Oh! What a BIG SPLISH-SPLASH it would be!",
+                    "bounding_box": {
+                        "x0": 89.98,
+                        "y0": 94.59,
+                        "x1": 445.18,
+                        "y1": 115.55
+                    },
+                    "width": 355.2,
+                    "height": 20.96
+                }
+            ],
+            "topics": [
+                [
+                    "big",
+                    2
+                ],
+                [
+                    "sea",
+                    2
+                ],
+                [
+                    "splish",
+                    2
+                ],
+                [
+                    "splash",
+                    2
+                ],
+                [
+                    "santoor",
+                    1
+                ],
+                [
+                    "class",
+                    1
+                ],
+                [
+                    "threw",
+                    1
+                ],
+                [
+                    "into",
+                    1
+                ],
+                [
+                    "would",
+                    1
+                ],
+                [
+                    "new",
+                    1
+                ]
+            ],
+            "tables": [],
+            "elements": [
+                {
+                    "type": "image",
+                    "image_number": 3,
+                    "bounding_box": {
+                        "x0": -7.48,
+                        "y0": -39.53,
+                        "x1": 607.48,
+                        "y1": 830.34
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 7,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": -18.0,
+                        "y0": -18.0,
+                        "x1": 618.0,
+                        "y1": 808.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 8,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": -18.0,
+                        "y0": -18.0,
+                        "x1": 618.0,
+                        "y1": 808.8
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 1,
+                    "bounding_box": {
+                        "x0": -16.03,
+                        "y0": -15.0,
+                        "x1": 615.0,
+                        "y1": 805.91
+                    }
+                },
+                {
+                    "type": "heading",
+                    "text": "And threw it into the BIG sea",
+                    "bounding_box": {
+                        "x0": 89.98,
+                        "y0": 66.99,
+                        "x1": 318.78,
+                        "y1": 87.95
+                    }
+                },
+                {
+                    "type": "heading",
+                    "text": "Oh! What a BIG SPLISH-SPLASH it would be!",
+                    "bounding_box": {
+                        "x0": 89.98,
+                        "y0": 94.59,
+                        "x1": 445.18,
+                        "y1": 115.55
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 5,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 62.98,
+                        "y0": 160.37,
+                        "x1": 208.26,
+                        "y1": 160.37
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 6,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 62.98,
+                        "y0": 180.31,
+                        "x1": 208.26,
+                        "y1": 180.31
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 9,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 56.58,
+                        "y0": 193.97,
+                        "x1": 527.72,
+                        "y1": 664.08
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 4,
+                    "bounding_box": {
+                        "x0": 57.24,
+                        "y0": 194.3,
+                        "x1": 526.89,
+                        "y1": 663.95
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 2,
+                    "bounding_box": {
+                        "x0": 525.51,
+                        "y0": 669.86,
+                        "x1": 616.0,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 1,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 370.2,
+                        "y0": 749.69,
+                        "x1": 615.0,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 2,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": 381.45,
+                        "y0": 756.1,
+                        "x1": 848.61,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 3,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": 381.45,
+                        "y0": 764.05,
+                        "x1": 848.61,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 4,
+                    "item_count": 3,
+                    "bounding_box": {
+                        "x0": 392.87,
+                        "y0": 772.57,
+                        "x1": 837.19,
+                        "y1": 805.52
+                    }
+                }
+            ]
+        },
+        {
+            "page_number": 5,
+            "text": "72\nSantoor │ Class 3\nLet us think\nLet us think\n1.\t Have you seen a big laddoo? How big \nwas it? Did you eat it all by yourself? Tell \nyour friends about it.\n2.\t Have you eaten anything that is very \nbig? What was it? Talk about it.\n3.\t What different kinds of laddoos have you \neaten? \n4.\t Name a few things that are round in \nshape. Can you eat all of them? Write \nthem in the correct column.\n\t\nThat can be eaten\t\nThat cannot be eaten\n5.\t The child threw the Big Laddoo into the sea. What do \nyou think happened to the Laddoo?\nReprint 2025-26\n",
+            "headings": [],
+            "topics": [
+                [
+                    "you",
+                    6
+                ],
+                [
+                    "big",
+                    4
+                ],
+                [
+                    "eaten",
+                    4
+                ],
+                [
+                    "think",
+                    3
+                ],
+                [
+                    "have",
+                    3
+                ],
+                [
+                    "laddoo",
+                    3
+                ],
+                [
+                    "let",
+                    2
+                ],
+                [
+                    "eat",
+                    2
+                ],
+                [
+                    "all",
+                    2
+                ],
+                [
+                    "about",
+                    2
+                ]
+            ],
+            "tables": [
+                {
+                    "table_number": 1,
+                    "data": [
+                        [
+                            "That can be eaten",
+                            "That cannot be eaten",
+                            ""
+                        ],
+                        [
+                            "",
+                            "",
+                            ""
+                        ],
+                        [
+                            "",
+                            "",
+                            ""
+                        ],
+                        [
+                            "",
+                            "",
+                            ""
+                        ],
+                        [
+                            "",
+                            "",
+                            ""
+                        ],
+                        [
+                            "",
+                            "",
+                            ""
+                        ],
+                        [
+                            "",
+                            "",
+                            ""
+                        ],
+                        [
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    "bounding_box": {
+                        "x0": 110.65,
+                        "y0": 360.25,
+                        "x1": 536.87,
+                        "y1": 656.58
+                    }
+                }
+            ],
+            "elements": [
+                {
+                    "type": "image",
+                    "image_number": 4,
+                    "bounding_box": {
+                        "x0": -7.48,
+                        "y0": -39.53,
+                        "x1": 607.48,
+                        "y1": 830.34
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 21,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": -18.0,
+                        "y0": -18.0,
+                        "x1": 618.0,
+                        "y1": 808.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 22,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": -18.0,
+                        "y0": -18.0,
+                        "x1": 618.0,
+                        "y1": 808.8
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 1,
+                    "bounding_box": {
+                        "x0": 390.96,
+                        "y0": 66.4,
+                        "x1": 436.74,
+                        "y1": 107.75
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 5,
+                    "item_count": 6,
+                    "bounding_box": {
+                        "x0": 429.76,
+                        "y0": 80.15,
+                        "x1": 537.02,
+                        "y1": 102.03
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 6,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 485.84,
+                        "y0": 80.15,
+                        "x1": 537.02,
+                        "y1": 102.03
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 7,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 449.01,
+                        "y0": 83.46,
+                        "x1": 537.02,
+                        "y1": 102.03
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 9,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": 521.68,
+                        "y0": 84.76,
+                        "x1": 533.11,
+                        "y1": 87.56
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 8,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 485.92,
+                        "y0": 85.85,
+                        "x1": 521.23,
+                        "y1": 98.61
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 2,
+                    "bounding_box": {
+                        "x0": 387.46,
+                        "y0": 108.47,
+                        "x1": 520.02,
+                        "y1": 343.56
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 20,
+                    "item_count": 7,
+                    "bounding_box": {
+                        "x0": 411.07,
+                        "y0": 111.92,
+                        "x1": 486.99,
+                        "y1": 169.26
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "text": "was it? Did you eat it all by yourself? Tell \nyour friends about it.",
+                    "bounding_box": {
+                        "x0": 89.98,
+                        "y0": 138.55,
+                        "x1": 368.73,
+                        "y1": 176.89
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 23,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 56.58,
+                        "y0": 193.97,
+                        "x1": 527.72,
+                        "y1": 664.08
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 5,
+                    "bounding_box": {
+                        "x0": 57.24,
+                        "y0": 194.3,
+                        "x1": 526.89,
+                        "y1": 663.95
+                    }
+                },
+                {
+                    "type": "question",
+                    "text": "3.\t What different kinds of laddoos have you",
+                    "bounding_box": {
+                        "x0": 62.98,
+                        "y0": 236.55,
+                        "x1": 368.72,
+                        "y1": 254.89
+                    }
+                },
+                {
+                    "type": "question",
+                    "text": "eaten?",
+                    "bounding_box": {
+                        "x0": 89.98,
+                        "y0": 256.55,
+                        "x1": 139.26,
+                        "y1": 274.89
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "text": "shape. Can you eat all of them? Write \nthem in the correct column.",
+                    "bounding_box": {
+                        "x0": 89.98,
+                        "y0": 305.55,
+                        "x1": 368.72,
+                        "y1": 343.89
+                    }
+                },
+                {
+                    "type": "table",
+                    "table_number": 1,
+                    "data": [
+                        [
+                            "That can be eaten",
+                            "That cannot be eaten",
+                            ""
+                        ],
+                        [
+                            "",
+                            "",
+                            ""
+                        ],
+                        [
+                            "",
+                            "",
+                            ""
+                        ],
+                        [
+                            "",
+                            "",
+                            ""
+                        ],
+                        [
+                            "",
+                            "",
+                            ""
+                        ],
+                        [
+                            "",
+                            "",
+                            ""
+                        ],
+                        [
+                            "",
+                            "",
+                            ""
+                        ],
+                        [
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    "bounding_box": {
+                        "x0": 110.65,
+                        "y0": 360.25,
+                        "x1": 536.87,
+                        "y1": 656.58
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 10,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 110.65,
+                        "y0": 360.25,
+                        "x1": 536.65,
+                        "y1": 656.58
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 17,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 110.65,
+                        "y0": 360.25,
+                        "x1": 536.65,
+                        "y1": 656.58
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 19,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 310.44,
+                        "y0": 361.51,
+                        "x1": 310.44,
+                        "y1": 655.72
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 18,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 111.72,
+                        "y0": 394.16,
+                        "x1": 537.02,
+                        "y1": 394.16
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 11,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 111.0,
+                        "y0": 425.64,
+                        "x1": 537.02,
+                        "y1": 425.64
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 12,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 111.0,
+                        "y0": 464.04,
+                        "x1": 537.02,
+                        "y1": 464.04
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 13,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 111.0,
+                        "y0": 502.44,
+                        "x1": 537.02,
+                        "y1": 502.44
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 14,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 111.0,
+                        "y0": 540.83,
+                        "x1": 537.02,
+                        "y1": 540.83
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 15,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 111.0,
+                        "y0": 579.23,
+                        "x1": 537.02,
+                        "y1": 579.23
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 16,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 111.0,
+                        "y0": 617.63,
+                        "x1": 537.02,
+                        "y1": 617.63
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 3,
+                    "bounding_box": {
+                        "x0": -16.0,
+                        "y0": 669.86,
+                        "x1": 74.49,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "question",
+                    "text": "you think happened to the Laddoo?",
+                    "bounding_box": {
+                        "x0": 89.98,
+                        "y0": 689.75,
+                        "x1": 333.3,
+                        "y1": 708.09
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 1,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": -15.0,
+                        "y0": 749.69,
+                        "x1": 229.8,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 2,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": -248.61,
+                        "y0": 756.1,
+                        "x1": 218.55,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 3,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": -248.61,
+                        "y0": 764.05,
+                        "x1": 218.55,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 4,
+                    "item_count": 3,
+                    "bounding_box": {
+                        "x0": -237.19,
+                        "y0": 772.57,
+                        "x1": 207.13,
+                        "y1": 805.52
+                    }
+                }
+            ]
+        },
+        {
+            "page_number": 6,
+            "text": "73\nSantoor │ Class 3\nLet us speak \nLet us speak \nJithu and Meena are friends. Meena \ncannot see properly. It was her \nbirthday. Jithu gifted her a box of \nmixed sweets. She felt the sweets \nand excitedly picked up the \nbig laddoo. She \nsaid, “I love \nladdoos!” \nJithu was \nsurprised \nand asked her, \n“How did you know it was a laddoo?”\nThink and say what Meena answered.\nLet us learn\nLet us learn\nLaddoos are sweets, commonly eaten in every house. \nWrite words that tell us about the laddoo. \n_____________________\t\n_____________________\n_____________________\t\n_____________________\n_____________________\t\n_____________________\n_____________________\t\n_____________________\n_____________________\t\n_____________________\nReprint 2025-26\n",
+            "headings": [],
+            "topics": [
+                [
+                    "let",
+                    4
+                ],
+                [
+                    "jithu",
+                    3
+                ],
+                [
+                    "meena",
+                    3
+                ],
+                [
+                    "her",
+                    3
+                ],
+                [
+                    "sweets",
+                    3
+                ],
+                [
+                    "laddoo",
+                    3
+                ],
+                [
+                    "speak",
+                    2
+                ],
+                [
+                    "she",
+                    2
+                ],
+                [
+                    "laddoos",
+                    2
+                ],
+                [
+                    "learn",
+                    2
+                ]
+            ],
+            "tables": [],
+            "elements": [
+                {
+                    "type": "image",
+                    "image_number": 6,
+                    "bounding_box": {
+                        "x0": -7.48,
+                        "y0": -39.53,
+                        "x1": 607.48,
+                        "y1": 830.34
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 16,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": -18.0,
+                        "y0": -18.0,
+                        "x1": 618.0,
+                        "y1": 808.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 17,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": -18.0,
+                        "y0": -18.0,
+                        "x1": 618.0,
+                        "y1": 808.8
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 2,
+                    "bounding_box": {
+                        "x0": 385.28,
+                        "y0": 70.4,
+                        "x1": 439.9,
+                        "y1": 106.4
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 11,
+                    "item_count": 6,
+                    "bounding_box": {
+                        "x0": 429.76,
+                        "y0": 80.12,
+                        "x1": 537.02,
+                        "y1": 102.0
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 12,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 485.84,
+                        "y0": 80.12,
+                        "x1": 537.02,
+                        "y1": 102.0
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 13,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 449.01,
+                        "y0": 83.43,
+                        "x1": 537.02,
+                        "y1": 102.0
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 15,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": 521.68,
+                        "y0": 84.73,
+                        "x1": 533.11,
+                        "y1": 87.52
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 14,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 485.92,
+                        "y0": 85.81,
+                        "x1": 521.23,
+                        "y1": 98.57
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "text": "Jithu and Meena are friends. Meena \ncannot see properly. It was her \nbirthday. Jithu gifted her a box of \nmixed sweets. She felt the sweets \nand excitedly picked up the \nbig laddoo. She \nsaid, “I love",
+                    "bounding_box": {
+                        "x0": 62.98,
+                        "y0": 118.56,
+                        "x1": 351.62,
+                        "y1": 283.52
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 5,
+                    "item_count": 26,
+                    "bounding_box": {
+                        "x0": 155.54,
+                        "y0": 120.0,
+                        "x1": 579.02,
+                        "y1": 370.55
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 3,
+                    "bounding_box": {
+                        "x0": 163.91,
+                        "y0": 133.36,
+                        "x1": 565.02,
+                        "y1": 378.55
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 18,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 56.58,
+                        "y0": 193.97,
+                        "x1": 527.72,
+                        "y1": 664.08
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 7,
+                    "bounding_box": {
+                        "x0": 57.24,
+                        "y0": 194.3,
+                        "x1": 526.89,
+                        "y1": 663.95
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "text": "laddoos!” \nJithu was \nsurprised \nand asked her, \n“How did you know it was a laddoo?”",
+                    "bounding_box": {
+                        "x0": 62.98,
+                        "y0": 286.56,
+                        "x1": 351.62,
+                        "y1": 403.52
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 1,
+                    "bounding_box": {
+                        "x0": 396.67,
+                        "y0": 436.0,
+                        "x1": 437.85,
+                        "y1": 469.1
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 6,
+                    "item_count": 6,
+                    "bounding_box": {
+                        "x0": 429.76,
+                        "y0": 444.79,
+                        "x1": 537.02,
+                        "y1": 466.66
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 7,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 485.84,
+                        "y0": 444.79,
+                        "x1": 537.02,
+                        "y1": 466.66
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 8,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 449.01,
+                        "y0": 448.09,
+                        "x1": 537.02,
+                        "y1": 466.66
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 10,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": 521.68,
+                        "y0": 449.39,
+                        "x1": 533.11,
+                        "y1": 452.19
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 9,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 485.92,
+                        "y0": 450.48,
+                        "x1": 521.23,
+                        "y1": 463.24
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "text": "Laddoos are sweets, commonly eaten in every house. \nWrite words that tell us about the laddoo.",
+                    "bounding_box": {
+                        "x0": 62.98,
+                        "y0": 481.73,
+                        "x1": 469.77,
+                        "y1": 521.71
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 4,
+                    "bounding_box": {
+                        "x0": 412.0,
+                        "y0": 534.17,
+                        "x1": 537.78,
+                        "y1": 717.4
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 5,
+                    "bounding_box": {
+                        "x0": 525.51,
+                        "y0": 669.86,
+                        "x1": 616.0,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 1,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 370.2,
+                        "y0": 749.69,
+                        "x1": 615.0,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 2,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": 381.45,
+                        "y0": 756.1,
+                        "x1": 848.61,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 3,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": 381.45,
+                        "y0": 764.05,
+                        "x1": 848.61,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 4,
+                    "item_count": 3,
+                    "bounding_box": {
+                        "x0": 392.87,
+                        "y0": 772.57,
+                        "x1": 837.19,
+                        "y1": 805.52
+                    }
+                }
+            ]
+        },
+        {
+            "page_number": 7,
+            "text": "74\nSantoor │ Class 3\nLet us write\nLet us write\nA.\t Frame a few sentences using the given words.\n1.\t play\t\n_________________________________________________________\n2.\t plum\t\n_________________________________________________________\n3.\t cloud\t\n_________________________________________________________\n4.\t clock\t\n_________________________________________________________\n5.\t blue\t\n_________________________________________________________\n6.\t blanket\t_________________________________________________________\nB.\t Match the following.\n1.\t cock\t\nlioness\n2.\t lion\t\ncow\n3.\t peacock\t\nhen\n4.\t mare\t\nduck\t\n5.\t bull\t\npeahen\n6.\t drake\t\nhorse\nNote to the teacher\n•\t Draw learners’ attention to the blends ‘cl’, ‘pl’ and ‘bl’.\n•\t Ask questions to draw attention to the concept used for \nmatching the pairs.\nReprint 2025-26\n",
+            "headings": [],
+            "topics": [
+                [
+                    "let",
+                    2
+                ],
+                [
+                    "write",
+                    2
+                ],
+                [
+                    "draw",
+                    2
+                ],
+                [
+                    "attention",
+                    2
+                ],
+                [
+                    "santoor",
+                    1
+                ],
+                [
+                    "class",
+                    1
+                ],
+                [
+                    "frame",
+                    1
+                ],
+                [
+                    "few",
+                    1
+                ],
+                [
+                    "sentences",
+                    1
+                ],
+                [
+                    "given",
+                    1
+                ]
+            ],
+            "tables": [],
+            "elements": [
+                {
+                    "type": "image",
+                    "image_number": 4,
+                    "bounding_box": {
+                        "x0": -7.48,
+                        "y0": -39.53,
+                        "x1": 607.48,
+                        "y1": 830.34
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 11,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": -18.0,
+                        "y0": -18.0,
+                        "x1": 618.0,
+                        "y1": 808.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 12,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": -18.0,
+                        "y0": -18.0,
+                        "x1": 618.0,
+                        "y1": 808.8
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 2,
+                    "bounding_box": {
+                        "x0": 402.37,
+                        "y0": 71.01,
+                        "x1": 435.82,
+                        "y1": 105.79
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 5,
+                    "item_count": 6,
+                    "bounding_box": {
+                        "x0": 429.76,
+                        "y0": 79.92,
+                        "x1": 537.02,
+                        "y1": 101.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 6,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 485.84,
+                        "y0": 79.92,
+                        "x1": 537.02,
+                        "y1": 101.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 7,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 449.01,
+                        "y0": 83.23,
+                        "x1": 537.02,
+                        "y1": 101.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 9,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": 521.68,
+                        "y0": 84.53,
+                        "x1": 533.11,
+                        "y1": 87.33
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 8,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 485.92,
+                        "y0": 85.62,
+                        "x1": 521.23,
+                        "y1": 98.38
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 13,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 56.58,
+                        "y0": 193.97,
+                        "x1": 527.72,
+                        "y1": 664.08
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 5,
+                    "bounding_box": {
+                        "x0": 57.24,
+                        "y0": 194.3,
+                        "x1": 526.89,
+                        "y1": 663.95
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 1,
+                    "bounding_box": {
+                        "x0": 109.4,
+                        "y0": 542.52,
+                        "x1": 295.24,
+                        "y1": 636.56
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 10,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 65.0,
+                        "y0": 650.62,
+                        "x1": 450.73,
+                        "y1": 716.9
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "text": "Note to the teacher\n•\t Draw learners’ attention to the blends ‘cl’, ‘pl’ and ‘bl’.\n•\t Ask questions to draw attention to the concept used for",
+                    "bounding_box": {
+                        "x0": 72.5,
+                        "y0": 652.03,
+                        "x1": 413.52,
+                        "y1": 698.87
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 3,
+                    "bounding_box": {
+                        "x0": -16.0,
+                        "y0": 669.86,
+                        "x1": 74.49,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 1,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": -15.0,
+                        "y0": 749.69,
+                        "x1": 229.8,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 2,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": -248.61,
+                        "y0": 756.1,
+                        "x1": 218.55,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 3,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": -248.61,
+                        "y0": 764.05,
+                        "x1": 218.55,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 4,
+                    "item_count": 3,
+                    "bounding_box": {
+                        "x0": -237.19,
+                        "y0": 772.57,
+                        "x1": 207.13,
+                        "y1": 805.52
+                    }
+                }
+            ]
+        },
+        {
+            "page_number": 8,
+            "text": "75\nSantoor │ Class 3\nLet us explore\nLet us explore\nA.\t Look at these objects shown here. Collect and put \nthem one by one into a tub of water. See which one \nwill float and which one will sink. Tick the objects \nthat float and cross the objects that sink.\na piece of paper\t \t\n_______________________\na small stone\t \t\n\t\n_______________________\na green leaf\t\n\t\n\t\n_______________________\na pencil\t\n\t\n\t\n_______________________\nan eraser\t\n\t\n\t\n_______________________\na feather\t\n\t\n\t\n_______________________\na spoon\t\n\t\n\t\n_______________________\nNote to the teacher\nReinforce the concept of ‘light’ and ‘heavy’ by using suitable \nterms.\nReprint 2025-26\n",
+            "headings": [],
+            "topics": [
+                [
+                    "one",
+                    4
+                ],
+                [
+                    "objects",
+                    3
+                ],
+                [
+                    "let",
+                    2
+                ],
+                [
+                    "explore",
+                    2
+                ],
+                [
+                    "which",
+                    2
+                ],
+                [
+                    "will",
+                    2
+                ],
+                [
+                    "float",
+                    2
+                ],
+                [
+                    "sink",
+                    2
+                ],
+                [
+                    "santoor",
+                    1
+                ],
+                [
+                    "class",
+                    1
+                ]
+            ],
+            "tables": [],
+            "elements": [
+                {
+                    "type": "image",
+                    "image_number": 11,
+                    "bounding_box": {
+                        "x0": -7.48,
+                        "y0": -39.53,
+                        "x1": 607.48,
+                        "y1": 830.34
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 11,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": -18.0,
+                        "y0": -18.0,
+                        "x1": 618.0,
+                        "y1": 808.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 12,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": -18.0,
+                        "y0": -18.0,
+                        "x1": 618.0,
+                        "y1": 808.8
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 1,
+                    "bounding_box": {
+                        "x0": 375.73,
+                        "y0": 70.81,
+                        "x1": 423.36,
+                        "y1": 103.79
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 5,
+                    "item_count": 6,
+                    "bounding_box": {
+                        "x0": 429.76,
+                        "y0": 77.98,
+                        "x1": 537.02,
+                        "y1": 99.86
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 6,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 485.84,
+                        "y0": 77.98,
+                        "x1": 537.02,
+                        "y1": 99.86
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 7,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 449.01,
+                        "y0": 81.29,
+                        "x1": 537.02,
+                        "y1": 99.86
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 9,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": 521.68,
+                        "y0": 82.59,
+                        "x1": 533.11,
+                        "y1": 85.38
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 8,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 485.92,
+                        "y0": 83.67,
+                        "x1": 521.23,
+                        "y1": 96.43
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "text": "them one by one into a tub of water. See which one \nwill float and which one will sink. Tick the objects \nthat float and cross the objects that sink.",
+                    "bounding_box": {
+                        "x0": 89.98,
+                        "y0": 134.53,
+                        "x1": 469.81,
+                        "y1": 194.52
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 8,
+                    "bounding_box": {
+                        "x0": 448.26,
+                        "y0": 192.36,
+                        "x1": 535.94,
+                        "y1": 240.17
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 13,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 56.58,
+                        "y0": 193.97,
+                        "x1": 527.72,
+                        "y1": 664.08
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 12,
+                    "bounding_box": {
+                        "x0": 57.24,
+                        "y0": 194.3,
+                        "x1": 526.89,
+                        "y1": 663.95
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 7,
+                    "bounding_box": {
+                        "x0": 459.75,
+                        "y0": 249.28,
+                        "x1": 517.64,
+                        "y1": 291.49
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 6,
+                    "bounding_box": {
+                        "x0": 457.68,
+                        "y0": 298.19,
+                        "x1": 513.5,
+                        "y1": 351.63
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 4,
+                    "bounding_box": {
+                        "x0": 448.99,
+                        "y0": 365.63,
+                        "x1": 535.02,
+                        "y1": 397.51
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 5,
+                    "bounding_box": {
+                        "x0": 463.89,
+                        "y0": 416.32,
+                        "x1": 513.5,
+                        "y1": 442.77
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 2,
+                    "bounding_box": {
+                        "x0": 430.2,
+                        "y0": 466.66,
+                        "x1": 525.5,
+                        "y1": 503.79
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 3,
+                    "bounding_box": {
+                        "x0": 455.19,
+                        "y0": 515.45,
+                        "x1": 541.22,
+                        "y1": 547.33
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 9,
+                    "bounding_box": {
+                        "x0": 128.24,
+                        "y0": 554.87,
+                        "x1": 366.2,
+                        "y1": 653.45
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 10,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 65.23,
+                        "y0": 664.3,
+                        "x1": 458.08,
+                        "y1": 720.5
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "text": "Note to the teacher\nReinforce the concept of ‘light’ and ‘heavy’ by using suitable \nterms.",
+                    "bounding_box": {
+                        "x0": 75.5,
+                        "y0": 666.42,
+                        "x1": 429.26,
+                        "y1": 715.42
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 10,
+                    "bounding_box": {
+                        "x0": 525.51,
+                        "y0": 669.86,
+                        "x1": 616.0,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 1,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 370.2,
+                        "y0": 749.69,
+                        "x1": 615.0,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 2,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": 381.45,
+                        "y0": 756.1,
+                        "x1": 848.61,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 3,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": 381.45,
+                        "y0": 764.05,
+                        "x1": 848.61,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 4,
+                    "item_count": 3,
+                    "bounding_box": {
+                        "x0": 392.87,
+                        "y0": 772.57,
+                        "x1": 837.19,
+                        "y1": 805.52
+                    }
+                }
+            ]
+        },
+        {
+            "page_number": 9,
+            "text": "76\nSantoor │ Class 3\nLet us learn\nLet us learn\nDid you know that not only sweets but a few other dishes \nare also prepared especially during festivals?\nHave you heard of khichdi? It is a \npopular dish. Khichdi is usually \ncooked with rice and lentils together. \nIt is prepared during festivals and also \neaten as a meal.\nFestivals keep us connected \nwith nature and culture. Every \nyear we celebrate many festivals \nin our country. Festivals help \nus stay together. They bring \nhappiness, joy and smiles.\nKhichdi is a traditional dish prepared especially during the \nSankranti festival. Different parts of India prepare khichdi with \ndifferent variations, like adding vegetables or using different lentils. \nDid you know that this festival is also \nknown as the Harvest Festival? It is \ncelebrated to thank the Sun God for a \ngood harvest. It is known by different \nnames like Sankranti, Pongal, Lohri, \nBihu, Maghi Sankrant, Makara \nSankranti, Sakraat and Magha \nSaaji across the country. Flying \nkites during this festival is also \nvery popular.\nReprint 2025-26\n",
+            "headings": [],
+            "topics": [
+                [
+                    "festivals",
+                    5
+                ],
+                [
+                    "also",
+                    4
+                ],
+                [
+                    "during",
+                    4
+                ],
+                [
+                    "khichdi",
+                    4
+                ],
+                [
+                    "festival",
+                    4
+                ],
+                [
+                    "different",
+                    4
+                ],
+                [
+                    "you",
+                    3
+                ],
+                [
+                    "prepared",
+                    3
+                ],
+                [
+                    "sankranti",
+                    3
+                ],
+                [
+                    "let",
+                    2
+                ]
+            ],
+            "tables": [],
+            "elements": [
+                {
+                    "type": "image",
+                    "image_number": 6,
+                    "bounding_box": {
+                        "x0": -7.48,
+                        "y0": -39.53,
+                        "x1": 607.48,
+                        "y1": 830.34
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 12,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": -18.0,
+                        "y0": -18.0,
+                        "x1": 618.0,
+                        "y1": 808.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 13,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": -18.0,
+                        "y0": -18.0,
+                        "x1": 618.0,
+                        "y1": 808.8
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 1,
+                    "bounding_box": {
+                        "x0": 396.67,
+                        "y0": 71.4,
+                        "x1": 437.85,
+                        "y1": 104.5
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 6,
+                    "item_count": 6,
+                    "bounding_box": {
+                        "x0": 429.76,
+                        "y0": 80.19,
+                        "x1": 537.02,
+                        "y1": 102.06
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 7,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 485.84,
+                        "y0": 80.19,
+                        "x1": 537.02,
+                        "y1": 102.06
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 8,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 449.01,
+                        "y0": 83.49,
+                        "x1": 537.02,
+                        "y1": 102.06
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 10,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": 521.68,
+                        "y0": 84.79,
+                        "x1": 533.11,
+                        "y1": 87.59
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 9,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 485.92,
+                        "y0": 85.88,
+                        "x1": 521.23,
+                        "y1": 98.64
+                    }
+                },
+                {
+                    "type": "question",
+                    "text": "Did you know that not only sweets but a few other dishes \nare also prepared especially during festivals?",
+                    "bounding_box": {
+                        "x0": 62.98,
+                        "y0": 115.73,
+                        "x1": 469.75,
+                        "y1": 155.71
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 11,
+                    "item_count": 27,
+                    "bounding_box": {
+                        "x0": 42.98,
+                        "y0": 162.0,
+                        "x1": 331.69,
+                        "y1": 389.79
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "text": "Have you heard of khichdi? It is a \npopular dish. Khichdi is usually \ncooked with rice and lentils together. \nIt is prepared during festivals and also",
+                    "bounding_box": {
+                        "x0": 275.98,
+                        "y0": 165.37,
+                        "x1": 541.47,
+                        "y1": 244.09
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 2,
+                    "bounding_box": {
+                        "x0": 42.98,
+                        "y0": 165.56,
+                        "x1": 277.31,
+                        "y1": 348.87
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 14,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 56.58,
+                        "y0": 193.97,
+                        "x1": 527.72,
+                        "y1": 664.08
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 7,
+                    "bounding_box": {
+                        "x0": 57.24,
+                        "y0": 194.3,
+                        "x1": 526.89,
+                        "y1": 663.95
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 3,
+                    "bounding_box": {
+                        "x0": 137.54,
+                        "y0": 265.93,
+                        "x1": 311.36,
+                        "y1": 382.6
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "text": "in our country. Festivals help \nus stay together. They bring \nhappiness, joy and smiles.",
+                    "bounding_box": {
+                        "x0": 321.98,
+                        "y0": 334.75,
+                        "x1": 541.46,
+                        "y1": 393.09
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "text": "Khichdi is a traditional dish prepared especially during the \nSankranti festival. Different parts of India prepare khichdi with \ndifferent variations, like adding vegetables or using different lentils.",
+                    "bounding_box": {
+                        "x0": 62.98,
+                        "y0": 403.37,
+                        "x1": 541.46,
+                        "y1": 462.09
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "text": "Did you know that this festival is also \nknown as the Harvest Festival? It is \ncelebrated to thank the Sun God for a \ngood harvest. It is known by different \nnames like Sankranti, Pongal, Lohri, \nBihu, Maghi Sankrant, Makara \nSankranti, Sakraat and Magha \nSaaji across the country. Flying \nkites during this festival is also \nvery popular.",
+                    "bounding_box": {
+                        "x0": 62.98,
+                        "y0": 472.75,
+                        "x1": 375.45,
+                        "y1": 671.09
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 5,
+                    "item_count": 28,
+                    "bounding_box": {
+                        "x0": 264.4,
+                        "y0": 475.49,
+                        "x1": 535.72,
+                        "y1": 707.01
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 4,
+                    "bounding_box": {
+                        "x0": 307.3,
+                        "y0": 493.09,
+                        "x1": 541.63,
+                        "y1": 699.07
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 5,
+                    "bounding_box": {
+                        "x0": -16.0,
+                        "y0": 669.86,
+                        "x1": 74.49,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 1,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": -15.0,
+                        "y0": 749.69,
+                        "x1": 229.8,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 2,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": -248.61,
+                        "y0": 756.1,
+                        "x1": 218.55,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 3,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": -248.61,
+                        "y0": 764.05,
+                        "x1": 218.55,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 4,
+                    "item_count": 3,
+                    "bounding_box": {
+                        "x0": -237.19,
+                        "y0": 772.57,
+                        "x1": 207.13,
+                        "y1": 805.52
+                    }
+                }
+            ]
+        },
+        {
+            "page_number": 10,
+            "text": "77\nSantoor │ Class 3\nKhichdi is known by different names across the country.\nGujarati khichdi, Gujarat.\nPongal, Tamil Nadu.\nBihari khichdi, Bihar.\nBajra khichdi, Rajasthan.\nKichuri, West Bengal.\nBisi bele bhat, Karnataka.\nMoong khetchir, Kashmir.\nLet us write\nLet us write\nA.\t Which is your favourite festival? Write the names  \nof some sweets and dishes prepared on that day.\n_______________________________________________________________________________\n_______________________________________________________________________________\n_______________________________________________________________________________\n_______________________________________________________________________________\n \nReprint 2025-26\n",
+            "headings": [],
+            "topics": [
+                [
+                    "khichdi",
+                    4
+                ],
+                [
+                    "write",
+                    3
+                ],
+                [
+                    "names",
+                    2
+                ],
+                [
+                    "let",
+                    2
+                ],
+                [
+                    "santoor",
+                    1
+                ],
+                [
+                    "class",
+                    1
+                ],
+                [
+                    "known",
+                    1
+                ],
+                [
+                    "different",
+                    1
+                ],
+                [
+                    "across",
+                    1
+                ],
+                [
+                    "country",
+                    1
+                ]
+            ],
+            "tables": [],
+            "elements": [
+                {
+                    "type": "image",
+                    "image_number": 5,
+                    "bounding_box": {
+                        "x0": -7.48,
+                        "y0": -39.53,
+                        "x1": 607.48,
+                        "y1": 830.34
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 10,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": -18.0,
+                        "y0": -18.0,
+                        "x1": 618.0,
+                        "y1": 808.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 11,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": -18.0,
+                        "y0": -18.0,
+                        "x1": 618.0,
+                        "y1": 808.8
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 3,
+                    "bounding_box": {
+                        "x0": 348.28,
+                        "y0": 148.99,
+                        "x1": 536.64,
+                        "y1": 275.42
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 12,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 56.58,
+                        "y0": 193.97,
+                        "x1": 527.72,
+                        "y1": 664.08
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 6,
+                    "bounding_box": {
+                        "x0": 57.24,
+                        "y0": 194.3,
+                        "x1": 526.89,
+                        "y1": 663.95
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 1,
+                    "bounding_box": {
+                        "x0": 402.37,
+                        "y0": 296.48,
+                        "x1": 435.82,
+                        "y1": 331.26
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 5,
+                    "item_count": 6,
+                    "bounding_box": {
+                        "x0": 429.76,
+                        "y0": 305.39,
+                        "x1": 537.02,
+                        "y1": 327.27
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 6,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 485.84,
+                        "y0": 305.39,
+                        "x1": 537.02,
+                        "y1": 327.27
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 7,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 449.01,
+                        "y0": 308.7,
+                        "x1": 537.02,
+                        "y1": 327.27
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 9,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": 521.68,
+                        "y0": 310.0,
+                        "x1": 533.11,
+                        "y1": 312.79
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 8,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 485.92,
+                        "y0": 311.08,
+                        "x1": 521.23,
+                        "y1": 323.84
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 2,
+                    "bounding_box": {
+                        "x0": 157.16,
+                        "y0": 507.22,
+                        "x1": 442.46,
+                        "y1": 719.4
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 4,
+                    "bounding_box": {
+                        "x0": 525.51,
+                        "y0": 669.86,
+                        "x1": 616.0,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 1,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 370.2,
+                        "y0": 749.69,
+                        "x1": 615.0,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 2,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": 381.45,
+                        "y0": 756.1,
+                        "x1": 848.61,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 3,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": 381.45,
+                        "y0": 764.05,
+                        "x1": 848.61,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 4,
+                    "item_count": 3,
+                    "bounding_box": {
+                        "x0": 392.87,
+                        "y0": 772.57,
+                        "x1": 837.19,
+                        "y1": 805.52
+                    }
+                }
+            ]
+        }
+    ]
+}

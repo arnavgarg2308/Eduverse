@@ -5,52 +5,75 @@ import AIVideoUpload from '../../components/student/AIVideoUpload'
 
 function AIVideoPage() {
   const [file, setFile] = useState(null)
-const [narration, setNarration] = useState(true)
-const [subtitles, setSubtitles] = useState(true)
-const [generating, setGenerating] = useState(false)
-const [generated, setGenerated] = useState(false)
-const [analysisResult, setAnalysisResult] = useState(null)
-const [error, setError] = useState('')
+  const [narration, setNarration] = useState(true)
+  const [subtitles, setSubtitles] = useState(true)
+  const [generating, setGenerating] = useState(false)
+  const [generated, setGenerated] = useState(false)
+  const [analysisResult, setAnalysisResult] = useState(null)
+  const [videoUrl, setVideoUrl] = useState(null)
+  const [videoKey, setVideoKey] = useState(0)
+  const [error, setError] = useState('')
+
   const handleGenerate = async () => {
-  if (!file) return
+    if (!file) return
 
-  setGenerating(true)
-  setGenerated(false)
-  setAnalysisResult(null)
-  setError('')
+    setGenerating(true)
+    setGenerated(false)
+    setAnalysisResult(null)
+    setVideoUrl(null)
+    setError('')
 
-  try {
-    const formData = new FormData()
-    formData.append('file', file)
+    try {
+      const formData = new FormData()
+      formData.append('file', file)
 
-    const response = await fetch('http://127.0.0.1:8001/analyze', {
-      method: 'POST',
-      body: formData,
-    })
+      const response = await fetch('http://127.0.0.1:8001/analyze', {
+        method: 'POST',
+        body: formData,
+      })
 
-    if (!response.ok) {
-      const errorData = await response.json()
+      if (!response.ok) {
+        const errorData = await response.json()
 
-      throw new Error(
-        errorData.detail || 'Failed to analyze PDF'
-      )
+        throw new Error(
+          errorData.detail || 'Failed to analyze and generate video'
+        )
+      }
+
+      const result = await response.json()
+
+      console.log('EduMorph Analysis Result:', result)
+
+      setAnalysisResult(result)
+      setGenerated(true)
+
+      // Backend se new video URL lo
+      if (result.video?.video_url) {
+        // IMPORTANT:
+        // Timestamp browser ko purani cached video use karne se rokega
+        const freshVideoUrl =
+          `${result.video.video_url}?v=${Date.now()}`
+
+        console.log('Fresh Video URL:', freshVideoUrl)
+
+        setVideoUrl(freshVideoUrl)
+
+        // Video element ko completely recreate karo
+        setVideoKey(Date.now())
+      } else {
+        throw new Error(
+          'Video generated but video URL was not received.'
+        )
+      }
+
+    } catch (err) {
+      console.error(err)
+      setError(err.message)
+
+    } finally {
+      setGenerating(false)
     }
-
-    const result = await response.json()
-
-    console.log('EduMorph Analysis Result:', result)
-
-    setAnalysisResult(result)
-    setGenerated(true)
-
-  } catch (err) {
-    console.error(err)
-    setError(err.message)
-
-  } finally {
-    setGenerating(false)
   }
-}
 
   return (
     <DashboardLayout>
@@ -59,6 +82,7 @@ const [error, setError] = useState('')
         {/* HEADER */}
         <div className="border-b border-slate-200 bg-white px-5 py-5 sm:px-8">
           <div className="mx-auto max-w-7xl">
+
             <p className="text-xs font-black uppercase tracking-[0.18em] text-orange-500">
               EduVerse
             </p>
@@ -70,6 +94,7 @@ const [error, setError] = useState('')
             <p className="mt-1 text-sm text-slate-500">
               Turn your study material into an engaging learning video.
             </p>
+
           </div>
         </div>
 
@@ -81,6 +106,7 @@ const [error, setError] = useState('')
             {/* LEFT */}
             <div className="space-y-6">
 
+              {/* UPLOAD */}
               <div className="rounded-3xl border border-slate-200 bg-white p-6 shadow-sm sm:p-8">
 
                 <div className="flex items-start gap-4">
@@ -107,6 +133,8 @@ const [error, setError] = useState('')
                     onFileSelected={(selectedFile) => {
                       setFile(selectedFile)
                       setGenerated(false)
+                      setVideoUrl(null)
+                      setError('')
                     }}
                   />
                 </div>
@@ -191,7 +219,7 @@ const [error, setError] = useState('')
 
               </div>
 
-              {/* SUBTITLES AT END */}
+              {/* SUBTITLES */}
               <div className="rounded-3xl border border-slate-200 bg-white p-6 shadow-sm">
 
                 <p className="text-xs font-black uppercase tracking-wider text-orange-500">
@@ -252,32 +280,39 @@ const [error, setError] = useState('')
 
               </div>
 
+              {/* ERROR */}
+              {error && (
+                <div className="rounded-xl border border-red-200 bg-red-50 p-4 text-sm text-red-600">
+                  {error}
+                </div>
+              )}
+
               {/* GENERATED VIDEO */}
-             {generated && analysisResult && (
-  <div className="rounded-3xl border border-emerald-200 bg-emerald-50 p-6">
+              {videoUrl && (
+                <div className="overflow-hidden rounded-2xl bg-black shadow-lg">
 
-    <div className="flex items-center gap-3">
-      <div className="flex h-10 w-10 items-center justify-center rounded-xl bg-emerald-500 text-white">
-        ✓
-      </div>
+                  <video
+                    key={videoKey}
+                    controls
+                    className="w-full"
+                    preload="metadata"
+                    onError={(e) => {
+                      console.error(
+                        'Video playback error:',
+                        e.currentTarget.error
+                      )
+                    }}
+                  >
+                    <source
+                      src={videoUrl}
+                      type="video/mp4"
+                    />
 
-      <div>
-        <h3 className="font-black text-emerald-800">
-          Analysis Complete
-        </h3>
+                    Your browser does not support the video tag.
+                  </video>
 
-        <p className="text-xs text-emerald-700">
-          Your PDF has been analyzed successfully.
-        </p>
-      </div>
-    </div>
-
-    <pre className="mt-5 max-h-96 overflow-auto rounded-2xl bg-slate-900 p-4 text-xs text-green-400">
-      {JSON.stringify(analysisResult, null, 2)}
-    </pre>
-
-  </div>
-)}
+                </div>
+              )}
 
             </div>
 

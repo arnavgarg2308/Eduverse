@@ -1,0 +1,386 @@
+{
+    "file_name": "10d5b0b3-a51f-4dc4-8c06-2b668165b868_my resume .pdf",
+    "page_count": 2,
+    "pages": [
+        {
+            "page_number": 1,
+            "text": "Arnav Garg\n8266862660 | arnavgarg2308@gmail.com | https://www.linkedin.com/in/arnav-garg-a90177325// |\nhttps://github.com/arnavgarg2308\nSUMMARY\nAI & ML undergraduate with strong foundations in Machine Learning, Deep Learning, Data Analysis, and Full-Stack\nDevelopment. Skilled in Python, NumPy, Pandas, Scikit-learn, and building end-to-end applications using modern\nweb technologies. Experienced in data preprocessing, exploratory data analysis, model training, and developing\nscalable software solutions. Passionate about applying AI to solve real-world problems through innovative and\nimpactful projects.\nEDUCATION\nBachelor of Technology in Computer Science (AI & ML) | 2024 – 2028 (Expected)\nABES Engineering College, Ghaziabad, Uttar Pradesh\nCGPA: 8.5\nTECHNICAL SKILLS\nProgramming Languages: Python, Java, C++, C\nMachine Learning & AI: Machine Learning, Deep Learning, Supervised Learning, Unsupervised Learning, Model\nEvaluation, Feature Engineering\nLibraries & Frameworks: NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn\nWeb Technologies: HTML, CSS, JavaScript, React.js, Node.js, Express.js\nDatabases: MySQL, Supabase\nTools: Git, GitHub, VS Code, Docker (Basics), CI/CD (Basics), Jupyter Notebook\nConcepts: Data Structures & Algorithms, REST APIs, Database Management Systems, Agile Methodology\nPROJECTS\nDigital Farm Farm Management System\n– Designed and implemented a multi-role web application supporting farmers, buyers, and administrators\nacross 3 user modules.\n– Built RESTful APIs and backend services handling structured data operations, improving workﬂow eﬃciency\nby 30%.\n– Applied modular architecture principles to ensure scalability and maintainability across multiple system com-\nponents.\n– Tech Stack: HTML, CSS, JavaScript, Node.js, MySQL\nShareHub Item Sharing and Rental Platform\n– Developed a secure web platform managing over 50+ item listings with authentication and user interaction\nfeatures.\n– Implemented database-driven workﬂows reducing manual coordination eﬀort by approximately 40%.\n– Structured backend logic using Python frameworks with clear API communication and modular design prac-\ntices.\n– Tech Stack: HTML, CSS, JavaScript, Python, Database\nSkillXpress Career Guidance Platform\n– Built a system to analyze user proﬁles and extract skills from GitHub repositories and resumes.\n",
+            "headings": [
+                {
+                    "text": "Arnav Garg",
+                    "bounding_box": {
+                        "x0": 238.75,
+                        "y0": 34.98,
+                        "x1": 373.25,
+                        "y1": 59.77
+                    },
+                    "width": 134.49,
+                    "height": 24.79
+                }
+            ],
+            "topics": [
+                [
+                    "learning",
+                    7
+                ],
+                [
+                    "data",
+                    5
+                ],
+                [
+                    "com",
+                    4
+                ],
+                [
+                    "python",
+                    4
+                ],
+                [
+                    "web",
+                    4
+                ],
+                [
+                    "github",
+                    3
+                ],
+                [
+                    "machine",
+                    3
+                ],
+                [
+                    "stack",
+                    3
+                ],
+                [
+                    "html",
+                    3
+                ],
+                [
+                    "css",
+                    3
+                ]
+            ],
+            "tables": [],
+            "elements": [
+                {
+                    "type": "heading",
+                    "text": "Arnav Garg",
+                    "bounding_box": {
+                        "x0": 238.75,
+                        "y0": 34.98,
+                        "x1": 373.25,
+                        "y1": 59.77
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 1,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 36.0,
+                        "y0": 119.41,
+                        "x1": 576.0,
+                        "y1": 119.41
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "text": "AI & ML undergraduate with strong foundations in Machine Learning, Deep Learning, Data Analysis, and Full-Stack\nDevelopment. Skilled in Python, NumPy, Pandas, Scikit-learn, and building end-to-end applications using modern\nweb technologies. Experienced in data preprocessing, exploratory data analysis, model training, and developing\nscalable software solutions. Passionate about applying AI to solve real-world problems through innovative and\nimpactful projects.",
+                    "bounding_box": {
+                        "x0": 36.0,
+                        "y0": 129.77,
+                        "x1": 576.0,
+                        "y1": 194.88
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 2,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 36.0,
+                        "y0": 227.27,
+                        "x1": 576.0,
+                        "y1": 227.27
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "text": "Bachelor of Technology in Computer Science (AI & ML) | 2024 – 2028 (Expected)\nABES Engineering College, Ghaziabad, Uttar Pradesh\nCGPA: 8.5",
+                    "bounding_box": {
+                        "x0": 36.0,
+                        "y0": 237.63,
+                        "x1": 447.12,
+                        "y1": 275.64
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 3,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 36.0,
+                        "y0": 308.03,
+                        "x1": 576.0,
+                        "y1": 308.03
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "text": "Programming Languages: Python, Java, C++, C\nMachine Learning & AI: Machine Learning, Deep Learning, Supervised Learning, Unsupervised Learning, Model\nEvaluation, Feature Engineering\nLibraries & Frameworks: NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn\nWeb Technologies: HTML, CSS, JavaScript, React.js, Node.js, Express.js\nDatabases: MySQL, Supabase\nTools: Git, GitHub, VS Code, Docker (Basics), CI/CD (Basics), Jupyter Notebook\nConcepts: Data Structures & Algorithms, REST APIs, Database Management Systems, Agile Methodology",
+                    "bounding_box": {
+                        "x0": 36.0,
+                        "y0": 318.39,
+                        "x1": 575.99,
+                        "y1": 424.48
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 4,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 36.0,
+                        "y0": 456.53,
+                        "x1": 576.0,
+                        "y1": 456.53
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "text": "– Designed and implemented a multi-role web application supporting farmers, buyers, and administrators\nacross 3 user modules.",
+                    "bounding_box": {
+                        "x0": 48.48,
+                        "y0": 488.81,
+                        "x1": 576.0,
+                        "y1": 513.61
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "text": "– Built RESTful APIs and backend services handling structured data operations, improving workﬂow eﬃciency\nby 30%.",
+                    "bounding_box": {
+                        "x0": 48.48,
+                        "y0": 519.44,
+                        "x1": 576.0,
+                        "y1": 544.24
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "text": "– Applied modular architecture principles to ensure scalability and maintainability across multiple system com-\nponents.",
+                    "bounding_box": {
+                        "x0": 48.48,
+                        "y0": 550.07,
+                        "x1": 576.0,
+                        "y1": 574.53
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "text": "– Developed a secure web platform managing over 50+ item listings with authentication and user interaction\nfeatures.",
+                    "bounding_box": {
+                        "x0": 48.48,
+                        "y0": 624.82,
+                        "x1": 576.0,
+                        "y1": 649.28
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "text": "– Structured backend logic using Python frameworks with clear API communication and modular design prac-\ntices.",
+                    "bounding_box": {
+                        "x0": 48.48,
+                        "y0": 672.52,
+                        "x1": 576.0,
+                        "y1": 696.98
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "text": "– Built a system to analyze user proﬁles and extract skills from GitHub repositories and resumes.",
+                    "bounding_box": {
+                        "x0": 48.48,
+                        "y0": 747.27,
+                        "x1": 515.87,
+                        "y1": 758.53
+                    }
+                }
+            ]
+        },
+        {
+            "page_number": 2,
+            "text": "– Designed algorithms to identify skill gaps and generate structured learning paths improving clarity by 35%.\n– Integrated external APIs and implemented backend services using Node.js and Supabase for data process-\ning.\n– Tech Stack: HTML, CSS, JavaScript, Node.js, Express, Supabase\nEXPERIENCE\nSoftware Development Trainee\n2024 – Present\nABES Engineering College, Ghaziabad\n– Developed 3+ full-stack applications following Agile and Scrum methodologies with version control using\nGit.\n– Designed RESTful APIs and structured database schemas ensuring eﬃcient data handling and system per-\nformance.\n– Collaborated in team-based environments during hackathons and technical projects, improving delivery time-\nlines.\n– Gained hands-on exposure to CI/CD pipelines, Docker-based containerization, and basic cloud deployment\nworkﬂows.\nLEADERSHIP & ACTIVITIES\n• Participated in multiple hackathons, contributing to team-based problem solving and rapid product develop-\nment cycles.\nACHIEVEMENTS\n• Achieved Top 10 rank among 100+ teams in a national-level hackathon organized by KIET.\nCERTIFICATIONS\n• AI Foundation Certiﬁcation Oracle\n• AWS Cloud Computing Certiﬁcation\n",
+            "headings": [],
+            "topics": [
+                [
+                    "based",
+                    3
+                ],
+                [
+                    "designed",
+                    2
+                ],
+                [
+                    "structured",
+                    2
+                ],
+                [
+                    "improving",
+                    2
+                ],
+                [
+                    "apis",
+                    2
+                ],
+                [
+                    "node",
+                    2
+                ],
+                [
+                    "supabase",
+                    2
+                ],
+                [
+                    "data",
+                    2
+                ],
+                [
+                    "stack",
+                    2
+                ],
+                [
+                    "team",
+                    2
+                ]
+            ],
+            "tables": [],
+            "elements": [
+                {
+                    "type": "paragraph",
+                    "text": "– Designed algorithms to identify skill gaps and generate structured learning paths improving clarity by 35%.",
+                    "bounding_box": {
+                        "x0": 48.48,
+                        "y0": 38.23,
+                        "x1": 570.75,
+                        "y1": 49.48
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "text": "– Integrated external APIs and implemented backend services using Node.js and Supabase for data process-\ning.",
+                    "bounding_box": {
+                        "x0": 48.48,
+                        "y0": 55.77,
+                        "x1": 576.0,
+                        "y1": 80.22
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 1,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 36.0,
+                        "y0": 130.36,
+                        "x1": 576.0,
+                        "y1": 130.36
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "text": "– Developed 3+ full-stack applications following Agile and Scrum methodologies with version control using\nGit.",
+                    "bounding_box": {
+                        "x0": 48.48,
+                        "y0": 176.79,
+                        "x1": 575.99,
+                        "y1": 201.25
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "text": "– Designed RESTful APIs and structured database schemas ensuring eﬃcient data handling and system per-\nformance.",
+                    "bounding_box": {
+                        "x0": 48.48,
+                        "y0": 207.87,
+                        "x1": 576.0,
+                        "y1": 232.33
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "text": "– Collaborated in team-based environments during hackathons and technical projects, improving delivery time-\nlines.",
+                    "bounding_box": {
+                        "x0": 48.48,
+                        "y0": 238.95,
+                        "x1": 576.0,
+                        "y1": 263.41
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "text": "– Gained hands-on exposure to CI/CD pipelines, Docker-based containerization, and basic cloud deployment\nworkﬂows.",
+                    "bounding_box": {
+                        "x0": 48.48,
+                        "y0": 270.04,
+                        "x1": 576.0,
+                        "y1": 294.5
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 2,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 36.0,
+                        "y0": 327.1,
+                        "x1": 576.0,
+                        "y1": 327.1
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "text": "• Participated in multiple hackathons, contributing to team-based problem solving and rapid product develop-\nment cycles.",
+                    "bounding_box": {
+                        "x0": 54.0,
+                        "y0": 337.46,
+                        "x1": 576.0,
+                        "y1": 361.92
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 3,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 36.0,
+                        "y0": 394.52,
+                        "x1": 576.0,
+                        "y1": 394.52
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "text": "• Achieved Top 10 rank among 100+ teams in a national-level hackathon organized by KIET.",
+                    "bounding_box": {
+                        "x0": 54.0,
+                        "y0": 404.88,
+                        "x1": 505.2,
+                        "y1": 416.14
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 4,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 36.0,
+                        "y0": 448.4,
+                        "x1": 576.0,
+                        "y1": 448.4
+                    }
+                }
+            ]
+        }
+    ]
+}

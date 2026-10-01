@@ -1,0 +1,5370 @@
+{
+    "file_name": "05af1140-06cc-4bbd-9bec-a2869d4758df_cesa101.pdf",
+    "page_count": 14,
+    "pages": [
+        {
+            "page_number": 1,
+            "text": "Unit\n1\nCome dear\nhen, let us go to \nthe village fair.\nAll right.\nLet me bring my \nchicks.\nFun with Friends\nPicture reading\nPicture reading\nLook at this picture story. \nReprint 2025-26\n",
+            "headings": [
+                {
+                    "text": "1",
+                    "bounding_box": {
+                        "x0": 77.37,
+                        "y0": 81.82,
+                        "x1": 90.71,
+                        "y1": 116.19
+                    },
+                    "width": 13.34,
+                    "height": 34.37
+                },
+                {
+                    "text": "chicks.",
+                    "bounding_box": {
+                        "x0": 419.53,
+                        "y0": 346.07,
+                        "x1": 474.89,
+                        "y1": 367.03
+                    },
+                    "width": 55.36,
+                    "height": 20.96
+                },
+                {
+                    "text": "Fun with Friends",
+                    "bounding_box": {
+                        "x0": 196.18,
+                        "y0": 108.11,
+                        "x1": 459.22,
+                        "y1": 150.71
+                    },
+                    "width": 263.04,
+                    "height": 42.59
+                },
+                {
+                    "text": "Look at this picture story.",
+                    "bounding_box": {
+                        "x0": 62.98,
+                        "y0": 217.85,
+                        "x1": 270.66,
+                        "y1": 238.81
+                    },
+                    "width": 207.68,
+                    "height": 20.96
+                }
+            ],
+            "topics": [
+                [
+                    "picture",
+                    3
+                ],
+                [
+                    "let",
+                    2
+                ],
+                [
+                    "reading",
+                    2
+                ],
+                [
+                    "unit",
+                    1
+                ],
+                [
+                    "come",
+                    1
+                ],
+                [
+                    "dear",
+                    1
+                ],
+                [
+                    "hen",
+                    1
+                ],
+                [
+                    "village",
+                    1
+                ],
+                [
+                    "fair",
+                    1
+                ],
+                [
+                    "all",
+                    1
+                ]
+            ],
+            "tables": [],
+            "elements": [
+                {
+                    "type": "image",
+                    "image_number": 4,
+                    "bounding_box": {
+                        "x0": -7.48,
+                        "y0": -39.53,
+                        "x1": 607.48,
+                        "y1": 830.34
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 10,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": -18.0,
+                        "y0": -18.0,
+                        "x1": 618.0,
+                        "y1": 808.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 11,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": -18.0,
+                        "y0": -18.0,
+                        "x1": 618.0,
+                        "y1": 808.8
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 3,
+                    "bounding_box": {
+                        "x0": 1.9,
+                        "y0": -15.0,
+                        "x1": 597.25,
+                        "y1": 174.0
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 1,
+                    "item_count": 10,
+                    "bounding_box": {
+                        "x0": 3.0,
+                        "y0": -15.0,
+                        "x1": 455.16,
+                        "y1": 156.6
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 7,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 58.75,
+                        "y0": 67.17,
+                        "x1": 111.31,
+                        "y1": 119.73
+                    }
+                },
+                {
+                    "type": "heading",
+                    "text": "1",
+                    "bounding_box": {
+                        "x0": 77.37,
+                        "y0": 81.82,
+                        "x1": 90.71,
+                        "y1": 116.19
+                    }
+                },
+                {
+                    "type": "heading",
+                    "text": "Fun with Friends",
+                    "bounding_box": {
+                        "x0": 196.18,
+                        "y0": 108.11,
+                        "x1": 459.22,
+                        "y1": 150.71
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 1,
+                    "bounding_box": {
+                        "x0": 372.24,
+                        "y0": 168.81,
+                        "x1": 412.74,
+                        "y1": 204.36
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 2,
+                    "item_count": 6,
+                    "bounding_box": {
+                        "x0": 429.76,
+                        "y0": 177.75,
+                        "x1": 537.02,
+                        "y1": 199.62
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 3,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 485.84,
+                        "y0": 177.75,
+                        "x1": 537.02,
+                        "y1": 199.62
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 4,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 449.01,
+                        "y0": 181.05,
+                        "x1": 537.02,
+                        "y1": 199.62
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 6,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": 521.68,
+                        "y0": 182.35,
+                        "x1": 533.11,
+                        "y1": 185.15
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 5,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 485.92,
+                        "y0": 183.44,
+                        "x1": 521.23,
+                        "y1": 196.2
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 12,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 56.58,
+                        "y0": 193.97,
+                        "x1": 527.72,
+                        "y1": 664.08
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 5,
+                    "bounding_box": {
+                        "x0": 57.24,
+                        "y0": 194.3,
+                        "x1": 526.89,
+                        "y1": 663.95
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 2,
+                    "bounding_box": {
+                        "x0": -15.0,
+                        "y0": 212.92,
+                        "x1": 614.31,
+                        "y1": 806.95
+                    }
+                },
+                {
+                    "type": "heading",
+                    "text": "Look at this picture story.",
+                    "bounding_box": {
+                        "x0": 62.98,
+                        "y0": 217.85,
+                        "x1": 270.66,
+                        "y1": 238.81
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 8,
+                    "item_count": 6,
+                    "bounding_box": {
+                        "x0": 111.57,
+                        "y0": 265.59,
+                        "x1": 266.75,
+                        "y1": 385.15
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 9,
+                    "item_count": 7,
+                    "bounding_box": {
+                        "x0": 373.81,
+                        "y0": 296.93,
+                        "x1": 521.27,
+                        "y1": 405.67
+                    }
+                },
+                {
+                    "type": "heading",
+                    "text": "chicks.",
+                    "bounding_box": {
+                        "x0": 419.53,
+                        "y0": 346.07,
+                        "x1": 474.89,
+                        "y1": 367.03
+                    }
+                }
+            ]
+        },
+        {
+            "page_number": 2,
+            "text": "2\nSantoor │ Class 3\nI have\na plan …\nCome\nducklings,\nlet us go.\nWe have\nreached the\nstream.\nI cannot\nswim. How shall \nwe cross the \nstream?\nReprint 2025-26\n",
+            "headings": [
+                {
+                    "text": "let us go.",
+                    "bounding_box": {
+                        "x0": 279.44,
+                        "y0": 116.09,
+                        "x1": 350.8,
+                        "y1": 137.05
+                    },
+                    "width": 71.36,
+                    "height": 20.96
+                },
+                {
+                    "text": "stream.",
+                    "bounding_box": {
+                        "x0": 276.84,
+                        "y0": 327.07,
+                        "x1": 336.04,
+                        "y1": 348.03
+                    },
+                    "width": 59.2,
+                    "height": 20.96
+                },
+                {
+                    "text": "we cross the",
+                    "bounding_box": {
+                        "x0": 202.52,
+                        "y0": 464.13,
+                        "x1": 304.6,
+                        "y1": 485.09
+                    },
+                    "width": 102.08,
+                    "height": 20.96
+                },
+                {
+                    "text": "stream?",
+                    "bounding_box": {
+                        "x0": 219.64,
+                        "y0": 484.13,
+                        "x1": 282.36,
+                        "y1": 505.09
+                    },
+                    "width": 62.72,
+                    "height": 20.96
+                }
+            ],
+            "topics": [
+                [
+                    "have",
+                    2
+                ],
+                [
+                    "stream",
+                    2
+                ],
+                [
+                    "santoor",
+                    1
+                ],
+                [
+                    "class",
+                    1
+                ],
+                [
+                    "plan",
+                    1
+                ],
+                [
+                    "come",
+                    1
+                ],
+                [
+                    "ducklings",
+                    1
+                ],
+                [
+                    "let",
+                    1
+                ],
+                [
+                    "reached",
+                    1
+                ],
+                [
+                    "cannot",
+                    1
+                ]
+            ],
+            "tables": [],
+            "elements": [
+                {
+                    "type": "image",
+                    "image_number": 6,
+                    "bounding_box": {
+                        "x0": -7.48,
+                        "y0": -39.53,
+                        "x1": 607.48,
+                        "y1": 830.34
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 9,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": -18.0,
+                        "y0": -18.0,
+                        "x1": 618.0,
+                        "y1": 808.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 10,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": -18.0,
+                        "y0": -18.0,
+                        "x1": 618.0,
+                        "y1": 808.8
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 1,
+                    "bounding_box": {
+                        "x0": 62.98,
+                        "y0": 70.36,
+                        "x1": 537.02,
+                        "y1": 276.42
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 6,
+                    "item_count": 7,
+                    "bounding_box": {
+                        "x0": 262.45,
+                        "y0": 71.65,
+                        "x1": 366.71,
+                        "y1": 177.19
+                    }
+                },
+                {
+                    "type": "heading",
+                    "text": "let us go.",
+                    "bounding_box": {
+                        "x0": 279.44,
+                        "y0": 116.09,
+                        "x1": 350.8,
+                        "y1": 137.05
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 11,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 56.58,
+                        "y0": 193.97,
+                        "x1": 527.72,
+                        "y1": 664.08
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 7,
+                    "bounding_box": {
+                        "x0": 57.24,
+                        "y0": 194.3,
+                        "x1": 526.89,
+                        "y1": 663.95
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 7,
+                    "item_count": 6,
+                    "bounding_box": {
+                        "x0": 251.17,
+                        "y0": 280.67,
+                        "x1": 357.95,
+                        "y1": 370.2
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 3,
+                    "bounding_box": {
+                        "x0": 63.03,
+                        "y0": 298.85,
+                        "x1": 405.81,
+                        "y1": 497.94
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 4,
+                    "bounding_box": {
+                        "x0": 419.03,
+                        "y0": 320.83,
+                        "x1": 538.12,
+                        "y1": 497.99
+                    }
+                },
+                {
+                    "type": "heading",
+                    "text": "stream.",
+                    "bounding_box": {
+                        "x0": 276.84,
+                        "y0": 327.07,
+                        "x1": 336.04,
+                        "y1": 348.03
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 5,
+                    "item_count": 6,
+                    "bounding_box": {
+                        "x0": 444.25,
+                        "y0": 400.8,
+                        "x1": 536.77,
+                        "y1": 508.19
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 8,
+                    "item_count": 7,
+                    "bounding_box": {
+                        "x0": 169.29,
+                        "y0": 423.73,
+                        "x1": 330.07,
+                        "y1": 505.53
+                    }
+                },
+                {
+                    "type": "heading",
+                    "text": "we cross the",
+                    "bounding_box": {
+                        "x0": 202.52,
+                        "y0": 464.13,
+                        "x1": 304.6,
+                        "y1": 485.09
+                    }
+                },
+                {
+                    "type": "heading",
+                    "text": "stream?",
+                    "bounding_box": {
+                        "x0": 219.64,
+                        "y0": 484.13,
+                        "x1": 282.36,
+                        "y1": 505.09
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 2,
+                    "bounding_box": {
+                        "x0": 61.97,
+                        "y0": 514.99,
+                        "x1": 538.08,
+                        "y1": 720.49
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 5,
+                    "bounding_box": {
+                        "x0": -16.0,
+                        "y0": 669.86,
+                        "x1": 74.49,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 1,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": -15.0,
+                        "y0": 749.69,
+                        "x1": 229.8,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 2,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": -248.61,
+                        "y0": 756.1,
+                        "x1": 218.55,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 3,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": -248.61,
+                        "y0": 764.05,
+                        "x1": 218.55,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 4,
+                    "item_count": 3,
+                    "bounding_box": {
+                        "x0": -237.19,
+                        "y0": 772.57,
+                        "x1": 207.13,
+                        "y1": 805.52
+                    }
+                }
+            ]
+        },
+        {
+            "page_number": 3,
+            "text": "3\nSantoor │ Class 3\n\t\nAnimals\t\nYoung ones\n\t\nDuck\t\nKitten\n\t\nHen\t\nCalf\n\t\nCow\t\nPuppy\n\t\nCat\t\nDuckling\n\t\nDog\t\nChick\nNow discuss with your friends.\n1.\t How many ducklings and chicks can you see in the \npicture?\n2.\t The duck and the hen — are they friends? How do you \nknow?\n3.\t How did the hen and the chicks cross the stream?\n4.\t Have you ever helped your friend? How did you help?\n5.\t Did you feel happy to help your friend?\n6.\t Match the following animals with their young ones.\nReprint 2025-26\n",
+            "headings": [],
+            "topics": [
+                [
+                    "you",
+                    5
+                ],
+                [
+                    "hen",
+                    3
+                ],
+                [
+                    "your",
+                    3
+                ],
+                [
+                    "did",
+                    3
+                ],
+                [
+                    "animals",
+                    2
+                ],
+                [
+                    "young",
+                    2
+                ],
+                [
+                    "ones",
+                    2
+                ],
+                [
+                    "duck",
+                    2
+                ],
+                [
+                    "friends",
+                    2
+                ],
+                [
+                    "chicks",
+                    2
+                ]
+            ],
+            "tables": [],
+            "elements": [
+                {
+                    "type": "image",
+                    "image_number": 12,
+                    "bounding_box": {
+                        "x0": -7.48,
+                        "y0": -39.53,
+                        "x1": 607.48,
+                        "y1": 830.34
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 10,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": -18.0,
+                        "y0": -18.0,
+                        "x1": 618.0,
+                        "y1": 808.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 11,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": -18.0,
+                        "y0": -18.0,
+                        "x1": 618.0,
+                        "y1": 808.8
+                    }
+                },
+                {
+                    "type": "question",
+                    "text": "1.\t How many ducklings and chicks can you see in the",
+                    "bounding_box": {
+                        "x0": 63.14,
+                        "y0": 96.55,
+                        "x1": 463.64,
+                        "y1": 114.89
+                    }
+                },
+                {
+                    "type": "question",
+                    "text": "picture?",
+                    "bounding_box": {
+                        "x0": 90.14,
+                        "y0": 116.55,
+                        "x1": 146.14,
+                        "y1": 134.89
+                    }
+                },
+                {
+                    "type": "question",
+                    "text": "know?",
+                    "bounding_box": {
+                        "x0": 90.14,
+                        "y0": 162.49,
+                        "x1": 134.38,
+                        "y1": 180.83
+                    }
+                },
+                {
+                    "type": "question",
+                    "text": "3.\t How did the hen and the chicks cross the stream?",
+                    "bounding_box": {
+                        "x0": 63.14,
+                        "y0": 188.43,
+                        "x1": 433.99,
+                        "y1": 206.77
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 12,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 56.58,
+                        "y0": 193.97,
+                        "x1": 527.72,
+                        "y1": 664.08
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 13,
+                    "bounding_box": {
+                        "x0": 57.24,
+                        "y0": 194.3,
+                        "x1": 526.89,
+                        "y1": 663.95
+                    }
+                },
+                {
+                    "type": "question",
+                    "text": "4.\t Have you ever helped your friend? How did you help?",
+                    "bounding_box": {
+                        "x0": 63.14,
+                        "y0": 214.37,
+                        "x1": 454.71,
+                        "y1": 232.71
+                    }
+                },
+                {
+                    "type": "question",
+                    "text": "5.\t Did you feel happy to help your friend?",
+                    "bounding_box": {
+                        "x0": 63.14,
+                        "y0": 240.31,
+                        "x1": 357.27,
+                        "y1": 258.65
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 6,
+                    "bounding_box": {
+                        "x0": 73.56,
+                        "y0": 329.36,
+                        "x1": 143.04,
+                        "y1": 416.41
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 1,
+                    "bounding_box": {
+                        "x0": 452.64,
+                        "y0": 350.11,
+                        "x1": 509.68,
+                        "y1": 401.0
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 5,
+                    "item_count": 3,
+                    "bounding_box": {
+                        "x0": 366.04,
+                        "y0": 351.68,
+                        "x1": 377.34,
+                        "y1": 369.82
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 2,
+                    "bounding_box": {
+                        "x0": 441.88,
+                        "y0": 424.36,
+                        "x1": 524.95,
+                        "y1": 483.59
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 7,
+                    "bounding_box": {
+                        "x0": 73.88,
+                        "y0": 425.46,
+                        "x1": 145.64,
+                        "y1": 496.33
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 6,
+                    "item_count": 3,
+                    "bounding_box": {
+                        "x0": 366.04,
+                        "y0": 432.47,
+                        "x1": 377.34,
+                        "y1": 450.62
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 3,
+                    "bounding_box": {
+                        "x0": 458.36,
+                        "y0": 499.28,
+                        "x1": 522.75,
+                        "y1": 564.08
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 8,
+                    "bounding_box": {
+                        "x0": 63.14,
+                        "y0": 508.92,
+                        "x1": 157.44,
+                        "y1": 575.66
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 7,
+                    "item_count": 3,
+                    "bounding_box": {
+                        "x0": 366.04,
+                        "y0": 512.27,
+                        "x1": 377.34,
+                        "y1": 530.41
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 9,
+                    "bounding_box": {
+                        "x0": 79.16,
+                        "y0": 578.2,
+                        "x1": 150.45,
+                        "y1": 657.54
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 8,
+                    "item_count": 3,
+                    "bounding_box": {
+                        "x0": 366.04,
+                        "y0": 594.06,
+                        "x1": 377.34,
+                        "y1": 612.21
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 4,
+                    "bounding_box": {
+                        "x0": 462.26,
+                        "y0": 594.68,
+                        "x1": 504.6,
+                        "y1": 638.44
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 5,
+                    "bounding_box": {
+                        "x0": 462.26,
+                        "y0": 667.63,
+                        "x1": 510.05,
+                        "y1": 719.39
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 10,
+                    "bounding_box": {
+                        "x0": 63.14,
+                        "y0": 667.83,
+                        "x1": 166.47,
+                        "y1": 726.58
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 9,
+                    "item_count": 3,
+                    "bounding_box": {
+                        "x0": 366.04,
+                        "y0": 669.86,
+                        "x1": 377.34,
+                        "y1": 688.0
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 11,
+                    "bounding_box": {
+                        "x0": 525.51,
+                        "y0": 669.86,
+                        "x1": 616.0,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 1,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 370.2,
+                        "y0": 749.69,
+                        "x1": 615.0,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 2,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": 381.45,
+                        "y0": 756.1,
+                        "x1": 848.61,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 3,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": 381.45,
+                        "y0": 764.05,
+                        "x1": 848.61,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 4,
+                    "item_count": 3,
+                    "bounding_box": {
+                        "x0": 392.87,
+                        "y0": 772.57,
+                        "x1": 837.19,
+                        "y1": 805.52
+                    }
+                }
+            ]
+        },
+        {
+            "page_number": 4,
+            "text": "Chapter\nLet us recite\nLet us recite\n1.\t Colours\nYou have a few crayons,\nRed, yellow and blue.\nGreen, purple and black,\nI have some too.\nI need the red \nand you need the black.     \nIf we share our crayons,\nwe have a full pack!\nReprint 2025-26\n",
+            "headings": [
+                {
+                    "text": "1.\t Colours",
+                    "bounding_box": {
+                        "x0": 192.58,
+                        "y0": 92.84,
+                        "x1": 318.06,
+                        "y1": 124.23
+                    },
+                    "width": 125.49,
+                    "height": 31.39
+                }
+            ],
+            "topics": [
+                [
+                    "have",
+                    3
+                ],
+                [
+                    "let",
+                    2
+                ],
+                [
+                    "recite",
+                    2
+                ],
+                [
+                    "you",
+                    2
+                ],
+                [
+                    "crayons",
+                    2
+                ],
+                [
+                    "red",
+                    2
+                ],
+                [
+                    "black",
+                    2
+                ],
+                [
+                    "need",
+                    2
+                ],
+                [
+                    "chapter",
+                    1
+                ],
+                [
+                    "colours",
+                    1
+                ]
+            ],
+            "tables": [
+                {
+                    "table_number": 1,
+                    "data": [
+                        [
+                            "",
+                            "",
+                            "",
+                            null
+                        ],
+                        [
+                            "1. Colours\nChapter",
+                            "",
+                            "",
+                            null
+                        ],
+                        [
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    "bounding_box": {
+                        "x0": 104.78,
+                        "y0": 88.32,
+                        "x1": 536.68,
+                        "y1": 130.32
+                    }
+                }
+            ],
+            "elements": [
+                {
+                    "type": "image",
+                    "image_number": 5,
+                    "bounding_box": {
+                        "x0": -7.48,
+                        "y0": -39.53,
+                        "x1": 607.48,
+                        "y1": 830.34
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 10,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": -18.0,
+                        "y0": -18.0,
+                        "x1": 618.0,
+                        "y1": 808.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 11,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": -18.0,
+                        "y0": -18.0,
+                        "x1": 618.0,
+                        "y1": 808.8
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 4,
+                    "bounding_box": {
+                        "x0": -16.01,
+                        "y0": 51.06,
+                        "x1": 482.96,
+                        "y1": 132.16
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 3,
+                    "bounding_box": {
+                        "x0": 376.84,
+                        "y0": 57.84,
+                        "x1": 461.8,
+                        "y1": 142.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 9,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 376.84,
+                        "y0": 57.84,
+                        "x1": 461.8,
+                        "y1": 142.8
+                    }
+                },
+                {
+                    "type": "table",
+                    "table_number": 1,
+                    "data": [
+                        [
+                            "",
+                            "",
+                            "",
+                            null
+                        ],
+                        [
+                            "1. Colours\nChapter",
+                            "",
+                            "",
+                            null
+                        ],
+                        [
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    "bounding_box": {
+                        "x0": 104.78,
+                        "y0": 88.32,
+                        "x1": 536.68,
+                        "y1": 130.32
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 2,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 105.03,
+                        "y0": 88.32,
+                        "x1": 536.39,
+                        "y1": 130.32
+                    }
+                },
+                {
+                    "type": "heading",
+                    "text": "1.\t Colours",
+                    "bounding_box": {
+                        "x0": 192.58,
+                        "y0": 92.84,
+                        "x1": 318.06,
+                        "y1": 124.23
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 3,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 104.53,
+                        "y0": 95.99,
+                        "x1": 535.95,
+                        "y1": 122.65
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 1,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": 176.25,
+                        "y0": 122.22,
+                        "x1": 531.54,
+                        "y1": 142.1
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 1,
+                    "bounding_box": {
+                        "x0": -15.99,
+                        "y0": 150.88,
+                        "x1": 597.0,
+                        "y1": 806.87
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 2,
+                    "bounding_box": {
+                        "x0": 381.36,
+                        "y0": 154.12,
+                        "x1": 430.82,
+                        "y1": 191.84
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 4,
+                    "item_count": 6,
+                    "bounding_box": {
+                        "x0": 429.76,
+                        "y0": 162.19,
+                        "x1": 537.02,
+                        "y1": 184.07
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 5,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 485.84,
+                        "y0": 162.19,
+                        "x1": 537.02,
+                        "y1": 184.07
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 6,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 449.01,
+                        "y0": 165.5,
+                        "x1": 537.02,
+                        "y1": 184.07
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 8,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": 521.68,
+                        "y0": 166.8,
+                        "x1": 533.11,
+                        "y1": 169.59
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 7,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 485.92,
+                        "y0": 167.88,
+                        "x1": 521.23,
+                        "y1": 180.64
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 12,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 56.58,
+                        "y0": 193.97,
+                        "x1": 527.72,
+                        "y1": 664.08
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 6,
+                    "bounding_box": {
+                        "x0": 57.24,
+                        "y0": 194.3,
+                        "x1": 526.89,
+                        "y1": 663.95
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "text": "You have a few crayons,\nRed, yellow and blue.\nGreen, purple and black,\nI have some too.",
+                    "bounding_box": {
+                        "x0": 98.98,
+                        "y0": 202.07,
+                        "x1": 294.5,
+                        "y1": 295.03
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "text": "I need the red \nand you need the black.     \nIf we share our crayons,\nwe have a full pack!",
+                    "bounding_box": {
+                        "x0": 329.38,
+                        "y0": 618.47,
+                        "x1": 535.65,
+                        "y1": 711.43
+                    }
+                }
+            ]
+        },
+        {
+            "page_number": 5,
+            "text": "5\nSantoor │ Class 3\nA.\t \u0007Answer the questions. Write your answer in the \ngiven space.\n1.\t How many children are there in the poem?\n2.\t Why did the children want to share the crayons?\n3.\t How can the children in the poem have a full pack?\nB.\t Think and say.\n1.\t The children in the poem shared their crayons. \nDo you share anything with your friends? What do \nyou share?\n2.\t You have only green, blue and red crayons. Talk in \npairs what you would want to draw.\n3.\t Now you have blue, green, red, yellow, brown and \norange crayons. What can you draw? Draw here:\nLet us think\nLet us think\nReprint 2025-26\n",
+            "headings": [],
+            "topics": [
+                [
+                    "you",
+                    6
+                ],
+                [
+                    "children",
+                    4
+                ],
+                [
+                    "crayons",
+                    4
+                ],
+                [
+                    "poem",
+                    3
+                ],
+                [
+                    "share",
+                    3
+                ],
+                [
+                    "have",
+                    3
+                ],
+                [
+                    "think",
+                    3
+                ],
+                [
+                    "draw",
+                    3
+                ],
+                [
+                    "answer",
+                    2
+                ],
+                [
+                    "your",
+                    2
+                ]
+            ],
+            "tables": [],
+            "elements": [
+                {
+                    "type": "image",
+                    "image_number": 4,
+                    "bounding_box": {
+                        "x0": -7.48,
+                        "y0": -39.53,
+                        "x1": 607.48,
+                        "y1": 830.34
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 14,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": -18.0,
+                        "y0": -18.0,
+                        "x1": 618.0,
+                        "y1": 808.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 15,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": -18.0,
+                        "y0": -18.0,
+                        "x1": 618.0,
+                        "y1": 808.8
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 2,
+                    "bounding_box": {
+                        "x0": 385.28,
+                        "y0": 73.56,
+                        "x1": 439.9,
+                        "y1": 109.56
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 9,
+                    "item_count": 6,
+                    "bounding_box": {
+                        "x0": 429.76,
+                        "y0": 83.28,
+                        "x1": 537.02,
+                        "y1": 105.16
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 10,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 485.84,
+                        "y0": 83.28,
+                        "x1": 537.02,
+                        "y1": 105.16
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 11,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 449.01,
+                        "y0": 86.59,
+                        "x1": 537.02,
+                        "y1": 105.16
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 13,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": 521.68,
+                        "y0": 87.89,
+                        "x1": 533.11,
+                        "y1": 90.68
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 12,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 485.92,
+                        "y0": 88.97,
+                        "x1": 521.23,
+                        "y1": 101.73
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 1,
+                    "bounding_box": {
+                        "x0": -16.05,
+                        "y0": 150.88,
+                        "x1": 3.0,
+                        "y1": 806.87
+                    }
+                },
+                {
+                    "type": "question",
+                    "text": "1.\t How many children are there in the poem?",
+                    "bounding_box": {
+                        "x0": 89.98,
+                        "y0": 164.07,
+                        "x1": 409.3,
+                        "y1": 182.41
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 16,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 56.58,
+                        "y0": 193.97,
+                        "x1": 527.72,
+                        "y1": 664.08
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 5,
+                    "bounding_box": {
+                        "x0": 57.24,
+                        "y0": 194.3,
+                        "x1": 526.89,
+                        "y1": 663.95
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 6,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 116.98,
+                        "y0": 207.21,
+                        "x1": 537.27,
+                        "y1": 207.21
+                    }
+                },
+                {
+                    "type": "question",
+                    "text": "2.\t Why did the children want to share the crayons?",
+                    "bounding_box": {
+                        "x0": 89.98,
+                        "y0": 222.07,
+                        "x1": 450.46,
+                        "y1": 240.41
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 7,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 116.98,
+                        "y0": 265.21,
+                        "x1": 537.27,
+                        "y1": 265.21
+                    }
+                },
+                {
+                    "type": "question",
+                    "text": "3.\t How can the children in the poem have a full pack?",
+                    "bounding_box": {
+                        "x0": 89.98,
+                        "y0": 280.07,
+                        "x1": 469.5,
+                        "y1": 298.41
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 8,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 116.98,
+                        "y0": 323.21,
+                        "x1": 537.27,
+                        "y1": 323.21
+                    }
+                },
+                {
+                    "type": "question",
+                    "text": "Do you share anything with your friends? What do \nyou share?",
+                    "bounding_box": {
+                        "x0": 116.98,
+                        "y0": 387.07,
+                        "x1": 469.77,
+                        "y1": 425.41
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 5,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 62.98,
+                        "y0": 531.01,
+                        "x1": 537.02,
+                        "y1": 719.4
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 3,
+                    "bounding_box": {
+                        "x0": 525.51,
+                        "y0": 669.86,
+                        "x1": 616.0,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 1,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 370.2,
+                        "y0": 749.69,
+                        "x1": 615.0,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 2,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": 381.45,
+                        "y0": 756.1,
+                        "x1": 848.61,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 3,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": 381.45,
+                        "y0": 764.05,
+                        "x1": 848.61,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 4,
+                    "item_count": 3,
+                    "bounding_box": {
+                        "x0": 392.87,
+                        "y0": 772.57,
+                        "x1": 837.19,
+                        "y1": 805.52
+                    }
+                }
+            ]
+        },
+        {
+            "page_number": 6,
+            "text": "6\nSantoor │ Class 3\n4.\t Rearrange the letters to find the hidden colour.\na)\tLEBU\t\n\t\n____________________\nb)\tLYLEWO\t \t\n____________________\nc)\tRENEG\t\n\t\n____________________\nd)\tRUPPEL\t \t\n____________________\ne)\tNROBW \t \t\n____________________\nLet us speak\nLet us speak\nA.\t Say aloud.\nThis is a green crayon.  \nThe word green begins with ‘gr’.\nThe word crayon begins with ‘cr’.\nNow say these words aloud:\ngr\t\ngreen\t\ngrey\t\ngrass\t\ngrapes\t\ngrandmother\ncr\t\ncrayon\t\ncrab\t\ncrane\t\ncrow\t\ncradle\ndr\t\ndraw\t\ndrum\t\ndress\t\ndrop\t\ndragon\npr\t\nprince\t\nprincess\t\nprize\t\npray\t\npresent\nNote to the teacher\nYou may read aloud each word slowly. Let the children listen \nto your pronunciation and repeat the word. \nForm a sentence using each of these words \nand say it aloud.\nReprint 2025-26\n",
+            "headings": [],
+            "topics": [
+                [
+                    "aloud",
+                    4
+                ],
+                [
+                    "word",
+                    4
+                ],
+                [
+                    "let",
+                    3
+                ],
+                [
+                    "say",
+                    3
+                ],
+                [
+                    "green",
+                    3
+                ],
+                [
+                    "crayon",
+                    3
+                ],
+                [
+                    "speak",
+                    2
+                ],
+                [
+                    "begins",
+                    2
+                ],
+                [
+                    "these",
+                    2
+                ],
+                [
+                    "words",
+                    2
+                ]
+            ],
+            "tables": [
+                {
+                    "table_number": 1,
+                    "data": [
+                        [
+                            "grandmothe",
+                            "r"
+                        ]
+                    ],
+                    "bounding_box": {
+                        "x0": 437.88,
+                        "y0": 469.2,
+                        "x1": 537.02,
+                        "y1": 496.18
+                    }
+                },
+                {
+                    "table_number": 2,
+                    "data": [
+                        [
+                            "cradle",
+                            ""
+                        ]
+                    ],
+                    "bounding_box": {
+                        "x0": 451.08,
+                        "y0": 504.04,
+                        "x1": 537.02,
+                        "y1": 531.01
+                    }
+                },
+                {
+                    "table_number": 3,
+                    "data": [
+                        [
+                            "dragon",
+                            ""
+                        ]
+                    ],
+                    "bounding_box": {
+                        "x0": 451.08,
+                        "y0": 538.87,
+                        "x1": 537.02,
+                        "y1": 565.85
+                    }
+                },
+                {
+                    "table_number": 4,
+                    "data": [
+                        [
+                            "present",
+                            ""
+                        ]
+                    ],
+                    "bounding_box": {
+                        "x0": 451.08,
+                        "y0": 573.7,
+                        "x1": 537.02,
+                        "y1": 600.68
+                    }
+                }
+            ],
+            "elements": [
+                {
+                    "type": "image",
+                    "image_number": 5,
+                    "bounding_box": {
+                        "x0": -7.48,
+                        "y0": -39.53,
+                        "x1": 607.48,
+                        "y1": 830.34
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 31,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": -18.0,
+                        "y0": -18.0,
+                        "x1": 618.0,
+                        "y1": 808.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 32,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": -18.0,
+                        "y0": -18.0,
+                        "x1": 618.0,
+                        "y1": 808.8
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 3,
+                    "bounding_box": {
+                        "x0": 386.36,
+                        "y0": 100.59,
+                        "x1": 565.03,
+                        "y1": 239.25
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 33,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 56.58,
+                        "y0": 193.97,
+                        "x1": 527.72,
+                        "y1": 664.08
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 6,
+                    "bounding_box": {
+                        "x0": 57.24,
+                        "y0": 194.3,
+                        "x1": 526.89,
+                        "y1": 663.95
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 1,
+                    "bounding_box": {
+                        "x0": 382.08,
+                        "y0": 256.14,
+                        "x1": 436.88,
+                        "y1": 292.25
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 5,
+                    "item_count": 6,
+                    "bounding_box": {
+                        "x0": 429.76,
+                        "y0": 265.16,
+                        "x1": 537.02,
+                        "y1": 287.04
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 6,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 485.84,
+                        "y0": 265.16,
+                        "x1": 537.02,
+                        "y1": 287.04
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 7,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 449.01,
+                        "y0": 268.47,
+                        "x1": 537.02,
+                        "y1": 287.04
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 9,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": 521.68,
+                        "y0": 269.77,
+                        "x1": 533.11,
+                        "y1": 272.56
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 8,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 485.92,
+                        "y0": 270.85,
+                        "x1": 521.23,
+                        "y1": 283.61
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 2,
+                    "bounding_box": {
+                        "x0": 350.28,
+                        "y0": 288.31,
+                        "x1": 503.36,
+                        "y1": 447.29
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 10,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 89.88,
+                        "y0": 469.2,
+                        "x1": 172.48,
+                        "y1": 496.18
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 11,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 176.67,
+                        "y0": 469.2,
+                        "x1": 259.27,
+                        "y1": 496.18
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 12,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 263.45,
+                        "y0": 469.2,
+                        "x1": 346.05,
+                        "y1": 496.18
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 13,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 350.24,
+                        "y0": 469.2,
+                        "x1": 432.84,
+                        "y1": 496.18
+                    }
+                },
+                {
+                    "type": "table",
+                    "table_number": 1,
+                    "data": [
+                        [
+                            "grandmothe",
+                            "r"
+                        ]
+                    ],
+                    "bounding_box": {
+                        "x0": 437.88,
+                        "y0": 469.2,
+                        "x1": 537.02,
+                        "y1": 496.18
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 14,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 437.88,
+                        "y0": 469.2,
+                        "x1": 537.02,
+                        "y1": 496.18
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 15,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 89.88,
+                        "y0": 504.04,
+                        "x1": 175.82,
+                        "y1": 531.01
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 16,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 180.18,
+                        "y0": 504.04,
+                        "x1": 266.12,
+                        "y1": 531.01
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 17,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 270.48,
+                        "y0": 504.04,
+                        "x1": 356.42,
+                        "y1": 531.01
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 18,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 360.78,
+                        "y0": 504.04,
+                        "x1": 446.72,
+                        "y1": 531.01
+                    }
+                },
+                {
+                    "type": "table",
+                    "table_number": 2,
+                    "data": [
+                        [
+                            "cradle",
+                            ""
+                        ]
+                    ],
+                    "bounding_box": {
+                        "x0": 451.08,
+                        "y0": 504.04,
+                        "x1": 537.02,
+                        "y1": 531.01
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 19,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 451.08,
+                        "y0": 504.04,
+                        "x1": 537.02,
+                        "y1": 531.01
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 20,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 89.88,
+                        "y0": 538.87,
+                        "x1": 175.82,
+                        "y1": 565.85
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 21,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 180.18,
+                        "y0": 538.87,
+                        "x1": 266.12,
+                        "y1": 565.85
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 22,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 270.48,
+                        "y0": 538.87,
+                        "x1": 356.42,
+                        "y1": 565.85
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 23,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 360.78,
+                        "y0": 538.87,
+                        "x1": 446.72,
+                        "y1": 565.85
+                    }
+                },
+                {
+                    "type": "table",
+                    "table_number": 3,
+                    "data": [
+                        [
+                            "dragon",
+                            ""
+                        ]
+                    ],
+                    "bounding_box": {
+                        "x0": 451.08,
+                        "y0": 538.87,
+                        "x1": 537.02,
+                        "y1": 565.85
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 24,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 451.08,
+                        "y0": 538.87,
+                        "x1": 537.02,
+                        "y1": 565.85
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 25,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 89.88,
+                        "y0": 573.7,
+                        "x1": 175.82,
+                        "y1": 600.68
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 26,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 180.18,
+                        "y0": 573.7,
+                        "x1": 266.12,
+                        "y1": 600.68
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 27,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 270.48,
+                        "y0": 573.7,
+                        "x1": 356.42,
+                        "y1": 600.68
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 28,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 360.78,
+                        "y0": 573.7,
+                        "x1": 446.72,
+                        "y1": 600.68
+                    }
+                },
+                {
+                    "type": "table",
+                    "table_number": 4,
+                    "data": [
+                        [
+                            "present",
+                            ""
+                        ]
+                    ],
+                    "bounding_box": {
+                        "x0": 451.08,
+                        "y0": 573.7,
+                        "x1": 537.02,
+                        "y1": 600.68
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 29,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 451.08,
+                        "y0": 573.7,
+                        "x1": 537.02,
+                        "y1": 600.68
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "text": "Form a sentence using each of these words \nand say it aloud.",
+                    "bounding_box": {
+                        "x0": 89.98,
+                        "y0": 610.15,
+                        "x1": 409.18,
+                        "y1": 650.12
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 30,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 64.9,
+                        "y0": 658.98,
+                        "x1": 460.9,
+                        "y1": 715.9
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "text": "Note to the teacher\nYou may read aloud each word slowly. Let the children listen \nto your pronunciation and repeat the word.",
+                    "bounding_box": {
+                        "x0": 74.48,
+                        "y0": 662.29,
+                        "x1": 435.92,
+                        "y1": 707.69
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 4,
+                    "bounding_box": {
+                        "x0": -16.0,
+                        "y0": 669.86,
+                        "x1": 74.49,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 1,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": -15.0,
+                        "y0": 749.69,
+                        "x1": 229.8,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 2,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": -248.61,
+                        "y0": 756.1,
+                        "x1": 218.55,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 3,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": -248.61,
+                        "y0": 764.05,
+                        "x1": 218.55,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 4,
+                    "item_count": 3,
+                    "bounding_box": {
+                        "x0": -237.19,
+                        "y0": 772.57,
+                        "x1": 207.13,
+                        "y1": 805.52
+                    }
+                }
+            ]
+        },
+        {
+            "page_number": 7,
+            "text": "7\nSantoor │ Class 3\nB.\t Have fun!\nHere is a fun task for you! Look at the words. \nRead out the COLOUR but not the words. \nFor example: \nThe word ‘yellow’ is written in green colour, so you \nshould read YELLOW as GREEN instead of YELLOW \nfor the first word.\n\t\nYELLOW \t\nBLUE\t\nORANGE\n\t\nBLACK\t\nRED\t\nGREEN\n\t\nPURPLE\t\nYELLOW \t\nRED\n\t\nBLUE\t\nORANGE\t\nBLACK\nLet us learn \nLet us learn \nA.\t Words used to show actions are called action words. \n\t\nRead the words given below. Circle the action words.\n\t\ncarrot\t\nlaugh\t\ndance\t\nleg\t\neat\n\t\ncry\t\nswim\t\npotato\t\nsleep\t\nplay\n\t\nsun\t\ndig\t\njump\t\nrun\t\nbook\n\t\nface\t\nwrite\t\ncat\t\nsmile\t\npush\nReprint 2025-26\n",
+            "headings": [],
+            "topics": [
+                [
+                    "words",
+                    6
+                ],
+                [
+                    "yellow",
+                    5
+                ],
+                [
+                    "read",
+                    3
+                ],
+                [
+                    "green",
+                    3
+                ],
+                [
+                    "fun",
+                    2
+                ],
+                [
+                    "you",
+                    2
+                ],
+                [
+                    "colour",
+                    2
+                ],
+                [
+                    "word",
+                    2
+                ],
+                [
+                    "blue",
+                    2
+                ],
+                [
+                    "orange",
+                    2
+                ]
+            ],
+            "tables": [],
+            "elements": [
+                {
+                    "type": "image",
+                    "image_number": 4,
+                    "bounding_box": {
+                        "x0": -7.48,
+                        "y0": -39.53,
+                        "x1": 607.48,
+                        "y1": 830.34
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 22,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": -18.0,
+                        "y0": -18.0,
+                        "x1": 618.0,
+                        "y1": 808.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 23,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": -18.0,
+                        "y0": -18.0,
+                        "x1": 618.0,
+                        "y1": 808.8
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 2,
+                    "bounding_box": {
+                        "x0": 420.56,
+                        "y0": 56.88,
+                        "x1": 519.42,
+                        "y1": 175.53
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "text": "The word ‘yellow’ is written in green colour, so you \nshould read YELLOW as GREEN instead of YELLOW \nfor the first word.",
+                    "bounding_box": {
+                        "x0": 89.98,
+                        "y0": 178.56,
+                        "x1": 469.5,
+                        "y1": 237.93
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 24,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 56.58,
+                        "y0": 193.97,
+                        "x1": 527.72,
+                        "y1": 664.08
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 5,
+                    "bounding_box": {
+                        "x0": 57.24,
+                        "y0": 194.3,
+                        "x1": 526.89,
+                        "y1": 663.95
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 10,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 94.92,
+                        "y0": 246.32,
+                        "x1": 202.2,
+                        "y1": 275.48
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 11,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 246.61,
+                        "y0": 246.32,
+                        "x1": 353.89,
+                        "y1": 275.48
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 12,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 398.29,
+                        "y0": 246.32,
+                        "x1": 505.57,
+                        "y1": 275.48
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 13,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 94.92,
+                        "y0": 280.62,
+                        "x1": 202.2,
+                        "y1": 309.78
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 14,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 246.61,
+                        "y0": 280.62,
+                        "x1": 353.89,
+                        "y1": 309.78
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 15,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 398.29,
+                        "y0": 280.62,
+                        "x1": 505.57,
+                        "y1": 309.78
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 16,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 94.92,
+                        "y0": 314.92,
+                        "x1": 202.2,
+                        "y1": 344.08
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 17,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 246.61,
+                        "y0": 314.92,
+                        "x1": 353.89,
+                        "y1": 344.08
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 18,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 398.29,
+                        "y0": 314.92,
+                        "x1": 505.57,
+                        "y1": 344.08
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 19,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 94.92,
+                        "y0": 349.21,
+                        "x1": 202.2,
+                        "y1": 378.37
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 20,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 246.61,
+                        "y0": 349.21,
+                        "x1": 353.89,
+                        "y1": 378.37
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 21,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 398.29,
+                        "y0": 349.21,
+                        "x1": 505.57,
+                        "y1": 378.37
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 1,
+                    "bounding_box": {
+                        "x0": 396.92,
+                        "y0": 396.98,
+                        "x1": 438.1,
+                        "y1": 430.08
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 5,
+                    "item_count": 6,
+                    "bounding_box": {
+                        "x0": 430.01,
+                        "y0": 405.76,
+                        "x1": 537.27,
+                        "y1": 427.64
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 6,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 486.09,
+                        "y0": 405.76,
+                        "x1": 537.27,
+                        "y1": 427.64
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 7,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 449.26,
+                        "y0": 409.07,
+                        "x1": 537.27,
+                        "y1": 427.64
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 9,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": 521.93,
+                        "y0": 410.37,
+                        "x1": 533.36,
+                        "y1": 413.16
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 8,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 486.17,
+                        "y0": 411.45,
+                        "x1": 521.48,
+                        "y1": 424.21
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 3,
+                    "bounding_box": {
+                        "x0": 525.51,
+                        "y0": 669.86,
+                        "x1": 616.0,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 1,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 370.2,
+                        "y0": 749.69,
+                        "x1": 615.0,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 2,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": 381.45,
+                        "y0": 756.1,
+                        "x1": 848.61,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 3,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": 381.45,
+                        "y0": 764.05,
+                        "x1": 848.61,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 4,
+                    "item_count": 3,
+                    "bounding_box": {
+                        "x0": 392.87,
+                        "y0": 772.57,
+                        "x1": 837.19,
+                        "y1": 805.52
+                    }
+                }
+            ]
+        },
+        {
+            "page_number": 8,
+            "text": "8\nSantoor │ Class 3\nB.\t Find the action words in the grid below.  \nOne is done for you.\nC.\t There are 26 letters in the English alphabet. They are:\n\t\nA\t\nB\t\nC\t\nD\t\nE\t\nF\t\nG\t\nH\t\nI\n\t\nJ\t\nK\t\nL\t\nM\t\nN\t\nO\t\nP\t\nQ\t\nR\n\t\nS\t\nT\t\nU\t\nV\t\nW\t\nX\t\nY\t\nZ\nAnu eats an apple.\nA\nBasu has a bat and a ball.\nB\n\t p\t\nu\t\np\t\np\t\ny\t\nn\t\nb\t\nh\n\t t\t\ny\t\no\t\nk\t\na\t\nr\t\nq\t\np\n\t x\t\nv\t\nu\t\nj\t\nw\t\na\t\nl\t\nk\n\t c\t\na\t\nr\t\nw\t\nn\t\no\t\ns\t\ne\n\t o\t\nt\t\ng\t\ns\t\nr\t\np\t\no\t\nq\n\t u\t\ny\t\ni\t\ne\t\ny\t\ne\t\ng\t\ng\n\t g\t\ni\t\nv\t\ne\t\nt\t\nn\t\nd\t\na\n\t h\t\nv\t\ne\t\nq\t\nh\t\ne\t\nl\t\np\nwalk\nyawn\npour\ncough\ngive\nsee\nopen\nhelp\nReprint 2025-26\n",
+            "headings": [],
+            "topics": [
+                [
+                    "santoor",
+                    1
+                ],
+                [
+                    "class",
+                    1
+                ],
+                [
+                    "find",
+                    1
+                ],
+                [
+                    "action",
+                    1
+                ],
+                [
+                    "words",
+                    1
+                ],
+                [
+                    "grid",
+                    1
+                ],
+                [
+                    "below",
+                    1
+                ],
+                [
+                    "one",
+                    1
+                ],
+                [
+                    "done",
+                    1
+                ],
+                [
+                    "you",
+                    1
+                ]
+            ],
+            "tables": [
+                {
+                    "table_number": 1,
+                    "data": [
+                        [
+                            "p",
+                            "u",
+                            "p",
+                            "p",
+                            "y",
+                            "n",
+                            "b",
+                            "h"
+                        ],
+                        [
+                            "t",
+                            "y",
+                            "o",
+                            "k",
+                            "a",
+                            "r",
+                            "q",
+                            "p"
+                        ],
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        [
+                            "x",
+                            "v",
+                            "u",
+                            "j",
+                            "w",
+                            "",
+                            "",
+                            "k"
+                        ],
+                        [
+                            null,
+                            null,
+                            null,
+                            null,
+                            null,
+                            "a",
+                            "l",
+                            null
+                        ],
+                        [
+                            null,
+                            null,
+                            null,
+                            null,
+                            null,
+                            "",
+                            "",
+                            null
+                        ],
+                        [
+                            "c",
+                            "a",
+                            "r",
+                            "w",
+                            "n",
+                            "",
+                            "",
+                            "e"
+                        ],
+                        [
+                            null,
+                            null,
+                            null,
+                            null,
+                            null,
+                            "o",
+                            "s",
+                            null
+                        ],
+                        [
+                            "o",
+                            "t",
+                            "g",
+                            "s",
+                            "r",
+                            "p",
+                            "o",
+                            "q"
+                        ],
+                        [
+                            "u",
+                            "y",
+                            "i",
+                            "e",
+                            "y",
+                            "e",
+                            "g",
+                            "g"
+                        ],
+                        [
+                            "g",
+                            "i",
+                            "v",
+                            "e",
+                            "t",
+                            "n",
+                            "d",
+                            "a"
+                        ],
+                        [
+                            "h",
+                            "v",
+                            "e",
+                            "q",
+                            "h",
+                            "e",
+                            "l",
+                            "p"
+                        ]
+                    ],
+                    "bounding_box": {
+                        "x0": 135.14,
+                        "y0": 115.29,
+                        "x1": 422.64,
+                        "y1": 402.79
+                    }
+                },
+                {
+                    "table_number": 2,
+                    "data": [
+                        [
+                            null,
+                            "walk",
+                            null
+                        ],
+                        [
+                            null,
+                            "yawn",
+                            null
+                        ],
+                        [
+                            null,
+                            "pour",
+                            null
+                        ],
+                        [
+                            "pour\nx v u j w a l k\ncough\nc a r w n o s e\ngive\no t g s r p o q\nsee\nu y i e y e g g\nopen\ng i v e t n d a\nhelp\nh v e q h e l p\nC. There are 26 letters in the English alphabet. They are:\nA B C D E F G H I\nJ K L M N O P Q R\nS T U V W X Y Z",
+                            "pour",
+                            null
+                        ],
+                        [
+                            null,
+                            "cough",
+                            ""
+                        ],
+                        [
+                            null,
+                            "give",
+                            ""
+                        ],
+                        [
+                            null,
+                            "see",
+                            ""
+                        ],
+                        [
+                            null,
+                            "open",
+                            ""
+                        ],
+                        [
+                            null,
+                            "help",
+                            ""
+                        ]
+                    ],
+                    "bounding_box": {
+                        "x0": 56.58,
+                        "y0": 115.29,
+                        "x1": 536.77,
+                        "y1": 664.08
+                    }
+                }
+            ],
+            "elements": [
+                {
+                    "type": "image",
+                    "image_number": 4,
+                    "bounding_box": {
+                        "x0": -7.48,
+                        "y0": -39.53,
+                        "x1": 607.48,
+                        "y1": 830.34
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 32,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": -18.0,
+                        "y0": -18.0,
+                        "x1": 618.0,
+                        "y1": 808.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 33,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": -18.0,
+                        "y0": -18.0,
+                        "x1": 618.0,
+                        "y1": 808.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 15,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 171.07,
+                        "y0": 115.04,
+                        "x1": 171.07,
+                        "y1": 403.04
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 16,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 207.01,
+                        "y0": 115.04,
+                        "x1": 207.01,
+                        "y1": 403.04
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 17,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 242.95,
+                        "y0": 115.04,
+                        "x1": 242.95,
+                        "y1": 403.04
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 18,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 278.89,
+                        "y0": 115.04,
+                        "x1": 278.89,
+                        "y1": 403.04
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 19,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 314.82,
+                        "y0": 115.04,
+                        "x1": 314.82,
+                        "y1": 403.04
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 20,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 350.76,
+                        "y0": 115.04,
+                        "x1": 350.76,
+                        "y1": 403.04
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 21,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 386.7,
+                        "y0": 115.04,
+                        "x1": 386.7,
+                        "y1": 403.04
+                    }
+                },
+                {
+                    "type": "table",
+                    "table_number": 2,
+                    "data": [
+                        [
+                            null,
+                            "walk",
+                            null
+                        ],
+                        [
+                            null,
+                            "yawn",
+                            null
+                        ],
+                        [
+                            null,
+                            "pour",
+                            null
+                        ],
+                        [
+                            "pour\nx v u j w a l k\ncough\nc a r w n o s e\ngive\no t g s r p o q\nsee\nu y i e y e g g\nopen\ng i v e t n d a\nhelp\nh v e q h e l p\nC. There are 26 letters in the English alphabet. They are:\nA B C D E F G H I\nJ K L M N O P Q R\nS T U V W X Y Z",
+                            "pour",
+                            null
+                        ],
+                        [
+                            null,
+                            "cough",
+                            ""
+                        ],
+                        [
+                            null,
+                            "give",
+                            ""
+                        ],
+                        [
+                            null,
+                            "see",
+                            ""
+                        ],
+                        [
+                            null,
+                            "open",
+                            ""
+                        ],
+                        [
+                            null,
+                            "help",
+                            ""
+                        ]
+                    ],
+                    "bounding_box": {
+                        "x0": 56.58,
+                        "y0": 115.29,
+                        "x1": 536.77,
+                        "y1": 664.08
+                    }
+                },
+                {
+                    "type": "table",
+                    "table_number": 1,
+                    "data": [
+                        [
+                            "p",
+                            "u",
+                            "p",
+                            "p",
+                            "y",
+                            "n",
+                            "b",
+                            "h"
+                        ],
+                        [
+                            "t",
+                            "y",
+                            "o",
+                            "k",
+                            "a",
+                            "r",
+                            "q",
+                            "p"
+                        ],
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        [
+                            "x",
+                            "v",
+                            "u",
+                            "j",
+                            "w",
+                            "",
+                            "",
+                            "k"
+                        ],
+                        [
+                            null,
+                            null,
+                            null,
+                            null,
+                            null,
+                            "a",
+                            "l",
+                            null
+                        ],
+                        [
+                            null,
+                            null,
+                            null,
+                            null,
+                            null,
+                            "",
+                            "",
+                            null
+                        ],
+                        [
+                            "c",
+                            "a",
+                            "r",
+                            "w",
+                            "n",
+                            "",
+                            "",
+                            "e"
+                        ],
+                        [
+                            null,
+                            null,
+                            null,
+                            null,
+                            null,
+                            "o",
+                            "s",
+                            null
+                        ],
+                        [
+                            "o",
+                            "t",
+                            "g",
+                            "s",
+                            "r",
+                            "p",
+                            "o",
+                            "q"
+                        ],
+                        [
+                            "u",
+                            "y",
+                            "i",
+                            "e",
+                            "y",
+                            "e",
+                            "g",
+                            "g"
+                        ],
+                        [
+                            "g",
+                            "i",
+                            "v",
+                            "e",
+                            "t",
+                            "n",
+                            "d",
+                            "a"
+                        ],
+                        [
+                            "h",
+                            "v",
+                            "e",
+                            "q",
+                            "h",
+                            "e",
+                            "l",
+                            "p"
+                        ]
+                    ],
+                    "bounding_box": {
+                        "x0": 135.14,
+                        "y0": 115.29,
+                        "x1": 422.64,
+                        "y1": 402.79
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 7,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 135.14,
+                        "y0": 115.29,
+                        "x1": 422.64,
+                        "y1": 402.79
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 22,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 460.95,
+                        "y0": 115.29,
+                        "x1": 536.77,
+                        "y1": 371.55
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 8,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 134.89,
+                        "y0": 151.23,
+                        "x1": 422.89,
+                        "y1": 151.23
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 23,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 460.7,
+                        "y0": 151.23,
+                        "x1": 537.02,
+                        "y1": 151.23
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 24,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 460.7,
+                        "y0": 182.84,
+                        "x1": 537.02,
+                        "y1": 182.84
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 9,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 134.89,
+                        "y0": 187.17,
+                        "x1": 422.89,
+                        "y1": 187.17
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 31,
+                    "item_count": 6,
+                    "bounding_box": {
+                        "x0": 288.62,
+                        "y0": 193.38,
+                        "x1": 413.26,
+                        "y1": 214.26
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 34,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 56.58,
+                        "y0": 193.97,
+                        "x1": 527.72,
+                        "y1": 664.08
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 5,
+                    "bounding_box": {
+                        "x0": 57.24,
+                        "y0": 194.3,
+                        "x1": 526.89,
+                        "y1": 663.95
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 6,
+                    "item_count": 6,
+                    "bounding_box": {
+                        "x0": 285.58,
+                        "y0": 203.28,
+                        "x1": 416.5,
+                        "y1": 227.42
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 25,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 460.7,
+                        "y0": 214.45,
+                        "x1": 537.02,
+                        "y1": 214.45
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 10,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 134.89,
+                        "y0": 223.11,
+                        "x1": 422.89,
+                        "y1": 223.11
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 26,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 460.7,
+                        "y0": 246.05,
+                        "x1": 537.02,
+                        "y1": 246.05
+                    }
+                },
+                {
+                    "type": "question",
+                    "text": "give",
+                    "bounding_box": {
+                        "x0": 484.99,
+                        "y0": 250.82,
+                        "x1": 511.31,
+                        "y1": 269.16
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 11,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 134.89,
+                        "y0": 259.04,
+                        "x1": 422.89,
+                        "y1": 259.04
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 27,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 460.7,
+                        "y0": 277.66,
+                        "x1": 537.02,
+                        "y1": 277.66
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 12,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 134.89,
+                        "y0": 294.98,
+                        "x1": 422.89,
+                        "y1": 294.98
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 28,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 460.7,
+                        "y0": 309.27,
+                        "x1": 537.02,
+                        "y1": 309.27
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 13,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 134.89,
+                        "y0": 330.92,
+                        "x1": 422.89,
+                        "y1": 330.92
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 29,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 460.7,
+                        "y0": 340.87,
+                        "x1": 537.02,
+                        "y1": 340.87
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 14,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 134.89,
+                        "y0": 366.86,
+                        "x1": 422.89,
+                        "y1": 366.86
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 30,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 460.7,
+                        "y0": 371.61,
+                        "x1": 537.02,
+                        "y1": 371.61
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 5,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 96.26,
+                        "y0": 465.63,
+                        "x1": 523.58,
+                        "y1": 553.47
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 1,
+                    "bounding_box": {
+                        "x0": 147.26,
+                        "y0": 553.29,
+                        "x1": 265.05,
+                        "y1": 699.44
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 2,
+                    "bounding_box": {
+                        "x0": 349.32,
+                        "y0": 557.49,
+                        "x1": 497.87,
+                        "y1": 695.05
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 3,
+                    "bounding_box": {
+                        "x0": -16.0,
+                        "y0": 669.86,
+                        "x1": 74.49,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 1,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": -15.0,
+                        "y0": 749.69,
+                        "x1": 229.8,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 2,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": -248.61,
+                        "y0": 756.1,
+                        "x1": 218.55,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 3,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": -248.61,
+                        "y0": 764.05,
+                        "x1": 218.55,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 4,
+                    "item_count": 3,
+                    "bounding_box": {
+                        "x0": -237.19,
+                        "y0": 772.57,
+                        "x1": 207.13,
+                        "y1": 805.52
+                    }
+                }
+            ]
+        },
+        {
+            "page_number": 9,
+            "text": "9\nSantoor │ Class 3\nChandu likes cabbage and carrots.\nC\nDinesh dances day and night.\nD\nEsha enjoys an elephant ride.\nE\nGovind goes to get guavas.\nG\nFaiz feeds a fish.\nF\nHari helps Hemant.\nH\nNote to the teacher\nDraw learners’ attention to the letter repetition in each example.\nReprint 2025-26\n",
+            "headings": [],
+            "topics": [
+                [
+                    "santoor",
+                    1
+                ],
+                [
+                    "class",
+                    1
+                ],
+                [
+                    "chandu",
+                    1
+                ],
+                [
+                    "likes",
+                    1
+                ],
+                [
+                    "cabbage",
+                    1
+                ],
+                [
+                    "carrots",
+                    1
+                ],
+                [
+                    "dinesh",
+                    1
+                ],
+                [
+                    "dances",
+                    1
+                ],
+                [
+                    "day",
+                    1
+                ],
+                [
+                    "night",
+                    1
+                ]
+            ],
+            "tables": [],
+            "elements": [
+                {
+                    "type": "image",
+                    "image_number": 8,
+                    "bounding_box": {
+                        "x0": -7.48,
+                        "y0": -39.53,
+                        "x1": 607.48,
+                        "y1": 830.34
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 6,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": -18.0,
+                        "y0": -18.0,
+                        "x1": 618.0,
+                        "y1": 808.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 7,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": -18.0,
+                        "y0": -18.0,
+                        "x1": 618.0,
+                        "y1": 808.8
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 2,
+                    "bounding_box": {
+                        "x0": 127.24,
+                        "y0": 67.4,
+                        "x1": 221.39,
+                        "y1": 162.46
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 6,
+                    "bounding_box": {
+                        "x0": 132.43,
+                        "y0": 160.1,
+                        "x1": 208.03,
+                        "y1": 254.63
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 8,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 56.58,
+                        "y0": 193.97,
+                        "x1": 527.72,
+                        "y1": 664.08
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 9,
+                    "bounding_box": {
+                        "x0": 57.24,
+                        "y0": 194.3,
+                        "x1": 526.89,
+                        "y1": 663.95
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 1,
+                    "bounding_box": {
+                        "x0": 132.0,
+                        "y0": 249.16,
+                        "x1": 199.67,
+                        "y1": 355.0
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 3,
+                    "bounding_box": {
+                        "x0": 126.84,
+                        "y0": 353.9,
+                        "x1": 193.14,
+                        "y1": 452.29
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 4,
+                    "bounding_box": {
+                        "x0": 139.6,
+                        "y0": 452.44,
+                        "x1": 203.52,
+                        "y1": 569.93
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 5,
+                    "bounding_box": {
+                        "x0": 139.73,
+                        "y0": 563.9,
+                        "x1": 221.97,
+                        "y1": 665.57
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 7,
+                    "bounding_box": {
+                        "x0": 525.51,
+                        "y0": 669.86,
+                        "x1": 616.0,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 5,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 65.48,
+                        "y0": 670.06,
+                        "x1": 461.48,
+                        "y1": 716.9
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "text": "Note to the teacher\nDraw learners’ attention to the letter repetition in each example.",
+                    "bounding_box": {
+                        "x0": 75.5,
+                        "y0": 675.26,
+                        "x1": 445.82,
+                        "y1": 709.86
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 1,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 370.2,
+                        "y0": 749.69,
+                        "x1": 615.0,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 2,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": 381.45,
+                        "y0": 756.1,
+                        "x1": 848.61,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 3,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": 381.45,
+                        "y0": 764.05,
+                        "x1": 848.61,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 4,
+                    "item_count": 3,
+                    "bounding_box": {
+                        "x0": 392.87,
+                        "y0": 772.57,
+                        "x1": 837.19,
+                        "y1": 805.52
+                    }
+                }
+            ]
+        },
+        {
+            "page_number": 10,
+            "text": "10\nSantoor │ Class 3\nI like ice-cream.\nI\nJack just jumps down.\nJ\nKavita keeps the kittens on her knees.\nK\nMadhav mixes milk and mango pulp.\nM\nLata loves lemonade.\nL\nNavneet writes his name on new notebooks.\nN\nReprint 2025-26\n",
+            "headings": [],
+            "topics": [
+                [
+                    "santoor",
+                    1
+                ],
+                [
+                    "class",
+                    1
+                ],
+                [
+                    "like",
+                    1
+                ],
+                [
+                    "ice",
+                    1
+                ],
+                [
+                    "cream",
+                    1
+                ],
+                [
+                    "jack",
+                    1
+                ],
+                [
+                    "just",
+                    1
+                ],
+                [
+                    "jumps",
+                    1
+                ],
+                [
+                    "down",
+                    1
+                ],
+                [
+                    "kavita",
+                    1
+                ]
+            ],
+            "tables": [],
+            "elements": [
+                {
+                    "type": "image",
+                    "image_number": 8,
+                    "bounding_box": {
+                        "x0": -7.48,
+                        "y0": -39.53,
+                        "x1": 607.48,
+                        "y1": 830.34
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 5,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": -18.0,
+                        "y0": -18.0,
+                        "x1": 618.0,
+                        "y1": 808.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 6,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": -18.0,
+                        "y0": -18.0,
+                        "x1": 618.0,
+                        "y1": 808.8
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 1,
+                    "bounding_box": {
+                        "x0": 127.56,
+                        "y0": 66.77,
+                        "x1": 190.94,
+                        "y1": 189.12
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 2,
+                    "bounding_box": {
+                        "x0": 125.52,
+                        "y0": 189.12,
+                        "x1": 204.2,
+                        "y1": 296.67
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 7,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 56.58,
+                        "y0": 193.97,
+                        "x1": 527.72,
+                        "y1": 664.08
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 9,
+                    "bounding_box": {
+                        "x0": 57.24,
+                        "y0": 194.3,
+                        "x1": 526.89,
+                        "y1": 663.95
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 3,
+                    "bounding_box": {
+                        "x0": 125.52,
+                        "y0": 307.56,
+                        "x1": 199.37,
+                        "y1": 391.17
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 4,
+                    "bounding_box": {
+                        "x0": 127.62,
+                        "y0": 389.28,
+                        "x1": 199.37,
+                        "y1": 504.52
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 5,
+                    "bounding_box": {
+                        "x0": 127.62,
+                        "y0": 499.08,
+                        "x1": 196.62,
+                        "y1": 608.2
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 6,
+                    "bounding_box": {
+                        "x0": 129.0,
+                        "y0": 614.53,
+                        "x1": 199.44,
+                        "y1": 722.17
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 7,
+                    "bounding_box": {
+                        "x0": -16.0,
+                        "y0": 669.86,
+                        "x1": 74.49,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 1,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": -15.0,
+                        "y0": 749.69,
+                        "x1": 229.8,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 2,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": -248.61,
+                        "y0": 756.1,
+                        "x1": 218.55,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 3,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": -248.61,
+                        "y0": 764.05,
+                        "x1": 218.55,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 4,
+                    "item_count": 3,
+                    "bounding_box": {
+                        "x0": -237.19,
+                        "y0": 772.57,
+                        "x1": 207.13,
+                        "y1": 805.52
+                    }
+                }
+            ]
+        },
+        {
+            "page_number": 11,
+            "text": "11\nSantoor │ Class 3\nOm opens a box of oranges.\nO\nPrema puts a pencil in her pocket.\nP\nQueue up quietly.\nQ\nSix sparrows sit on a sack.\nS\nRadha rolls the red ribbon.\nR\nThe teacher tells a tale.\nT\nReprint 2025-26\n",
+            "headings": [],
+            "topics": [
+                [
+                    "santoor",
+                    1
+                ],
+                [
+                    "class",
+                    1
+                ],
+                [
+                    "opens",
+                    1
+                ],
+                [
+                    "box",
+                    1
+                ],
+                [
+                    "oranges",
+                    1
+                ],
+                [
+                    "prema",
+                    1
+                ],
+                [
+                    "puts",
+                    1
+                ],
+                [
+                    "pencil",
+                    1
+                ],
+                [
+                    "her",
+                    1
+                ],
+                [
+                    "pocket",
+                    1
+                ]
+            ],
+            "tables": [],
+            "elements": [
+                {
+                    "type": "image",
+                    "image_number": 8,
+                    "bounding_box": {
+                        "x0": -7.48,
+                        "y0": -39.53,
+                        "x1": 607.48,
+                        "y1": 830.34
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 5,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": -18.0,
+                        "y0": -18.0,
+                        "x1": 618.0,
+                        "y1": 808.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 6,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": -18.0,
+                        "y0": -18.0,
+                        "x1": 618.0,
+                        "y1": 808.8
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 1,
+                    "bounding_box": {
+                        "x0": 114.82,
+                        "y0": 69.24,
+                        "x1": 204.96,
+                        "y1": 167.73
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 2,
+                    "bounding_box": {
+                        "x0": 130.65,
+                        "y0": 161.4,
+                        "x1": 201.11,
+                        "y1": 278.52
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 7,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 56.58,
+                        "y0": 193.97,
+                        "x1": 527.72,
+                        "y1": 664.08
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 9,
+                    "bounding_box": {
+                        "x0": 57.24,
+                        "y0": 194.3,
+                        "x1": 526.89,
+                        "y1": 663.95
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 3,
+                    "bounding_box": {
+                        "x0": 125.74,
+                        "y0": 275.94,
+                        "x1": 214.03,
+                        "y1": 390.0
+                    }
+                },
+                {
+                    "type": "question",
+                    "text": "Queue up quietly.\nQ",
+                    "bounding_box": {
+                        "x0": 245.97,
+                        "y0": 302.43,
+                        "x1": 368.61,
+                        "y1": 382.95
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 6,
+                    "bounding_box": {
+                        "x0": 111.99,
+                        "y0": 381.93,
+                        "x1": 201.07,
+                        "y1": 501.66
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 4,
+                    "bounding_box": {
+                        "x0": 118.28,
+                        "y0": 496.2,
+                        "x1": 211.07,
+                        "y1": 591.13
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 5,
+                    "bounding_box": {
+                        "x0": 132.08,
+                        "y0": 595.64,
+                        "x1": 203.28,
+                        "y1": 719.4
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 7,
+                    "bounding_box": {
+                        "x0": 525.51,
+                        "y0": 669.86,
+                        "x1": 616.0,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 1,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 370.2,
+                        "y0": 749.69,
+                        "x1": 615.0,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 2,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": 381.45,
+                        "y0": 756.1,
+                        "x1": 848.61,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 3,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": 381.45,
+                        "y0": 764.05,
+                        "x1": 848.61,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 4,
+                    "item_count": 3,
+                    "bounding_box": {
+                        "x0": 392.87,
+                        "y0": 772.57,
+                        "x1": 837.19,
+                        "y1": 805.52
+                    }
+                }
+            ]
+        },
+        {
+            "page_number": 12,
+            "text": "12\nSantoor │ Class 3\nUsha uses an umbrella.\nU\nVishnu visits a village in a van.\nV\nWe see a watchman near the white wall.\nW\nYasmeen and Yana are friends.\nY\nX is the last letter in ox, fox and box.\nX\nZebras graze in the zoo.\nZ\nReprint 2025-26\n",
+            "headings": [],
+            "topics": [
+                [
+                    "santoor",
+                    1
+                ],
+                [
+                    "class",
+                    1
+                ],
+                [
+                    "usha",
+                    1
+                ],
+                [
+                    "umbrella",
+                    1
+                ],
+                [
+                    "vishnu",
+                    1
+                ],
+                [
+                    "visits",
+                    1
+                ],
+                [
+                    "village",
+                    1
+                ],
+                [
+                    "van",
+                    1
+                ],
+                [
+                    "see",
+                    1
+                ],
+                [
+                    "watchman",
+                    1
+                ]
+            ],
+            "tables": [],
+            "elements": [
+                {
+                    "type": "image",
+                    "image_number": 8,
+                    "bounding_box": {
+                        "x0": -7.48,
+                        "y0": -39.53,
+                        "x1": 607.48,
+                        "y1": 830.34
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 5,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": -18.0,
+                        "y0": -18.0,
+                        "x1": 618.0,
+                        "y1": 808.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 6,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": -18.0,
+                        "y0": -18.0,
+                        "x1": 618.0,
+                        "y1": 808.8
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 1,
+                    "bounding_box": {
+                        "x0": 117.68,
+                        "y0": 71.22,
+                        "x1": 180.26,
+                        "y1": 175.93
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 2,
+                    "bounding_box": {
+                        "x0": 120.36,
+                        "y0": 177.96,
+                        "x1": 196.66,
+                        "y1": 275.63
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 7,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 56.58,
+                        "y0": 193.97,
+                        "x1": 527.72,
+                        "y1": 664.08
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 9,
+                    "bounding_box": {
+                        "x0": 57.24,
+                        "y0": 194.3,
+                        "x1": 526.89,
+                        "y1": 663.95
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 3,
+                    "bounding_box": {
+                        "x0": 127.56,
+                        "y0": 292.14,
+                        "x1": 185.27,
+                        "y1": 388.9
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 4,
+                    "bounding_box": {
+                        "x0": 131.65,
+                        "y0": 399.0,
+                        "x1": 190.55,
+                        "y1": 484.68
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 5,
+                    "bounding_box": {
+                        "x0": 131.65,
+                        "y0": 501.66,
+                        "x1": 192.05,
+                        "y1": 596.64
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 6,
+                    "bounding_box": {
+                        "x0": 121.5,
+                        "y0": 610.45,
+                        "x1": 200.7,
+                        "y1": 719.4
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 7,
+                    "bounding_box": {
+                        "x0": -16.0,
+                        "y0": 669.86,
+                        "x1": 74.49,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 1,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": -15.0,
+                        "y0": 749.69,
+                        "x1": 229.8,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 2,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": -248.61,
+                        "y0": 756.1,
+                        "x1": 218.55,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 3,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": -248.61,
+                        "y0": 764.05,
+                        "x1": 218.55,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 4,
+                    "item_count": 3,
+                    "bounding_box": {
+                        "x0": -237.19,
+                        "y0": 772.57,
+                        "x1": 207.13,
+                        "y1": 805.52
+                    }
+                }
+            ]
+        },
+        {
+            "page_number": 13,
+            "text": "13\nSantoor │ Class 3\nLet us arrange some words in alphabetical order.\nLet us take names of five fruits to begin with:\n\t\nCHERRY\t\nAPPLE\t\nGRAPES\t\nBANANA\t\nORANGE\t\nNow arrange these words in alphabetical order. \nLook at the first letter of each word. \nPut them in the order of the alphabet. \nWrite down the word that begins with A first, B next \nand so on ...\nSo, the names of these fruits in alphabetical order would be:\n\t\nAPPLE\t\nBANANA\t\nCHERRY\t\nGRAPES\t\nORANGE\nNow, write these colours in alphabetical order:\n\t\nYELLOW\t\nBLUE\t\nPURPLE\t\nGREEN\t\nRED\n\t\n____________  \t\n____________  \t\n____________\t\n____________  \t ____________\n\t \t\n\t\n\t\n\t\n\t\n\t\nClue\nReprint 2025-26\n",
+            "headings": [],
+            "topics": [
+                [
+                    "order",
+                    5
+                ],
+                [
+                    "alphabetical",
+                    4
+                ],
+                [
+                    "these",
+                    3
+                ],
+                [
+                    "let",
+                    2
+                ],
+                [
+                    "arrange",
+                    2
+                ],
+                [
+                    "words",
+                    2
+                ],
+                [
+                    "names",
+                    2
+                ],
+                [
+                    "fruits",
+                    2
+                ],
+                [
+                    "cherry",
+                    2
+                ],
+                [
+                    "apple",
+                    2
+                ]
+            ],
+            "tables": [
+                {
+                    "table_number": 1,
+                    "data": [
+                        [
+                            "ORANGE",
+                            ""
+                        ]
+                    ],
+                    "bounding_box": {
+                        "x0": 451.66,
+                        "y0": 346.94,
+                        "x1": 537.02,
+                        "y1": 380.78
+                    }
+                },
+                {
+                    "table_number": 2,
+                    "data": [
+                        [
+                            "RED",
+                            ""
+                        ]
+                    ],
+                    "bounding_box": {
+                        "x0": 451.66,
+                        "y0": 423.22,
+                        "x1": 537.02,
+                        "y1": 467.71
+                    }
+                }
+            ],
+            "elements": [
+                {
+                    "type": "image",
+                    "image_number": 3,
+                    "bounding_box": {
+                        "x0": -7.48,
+                        "y0": -39.53,
+                        "x1": 607.48,
+                        "y1": 830.34
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 25,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": -18.0,
+                        "y0": -18.0,
+                        "x1": 618.0,
+                        "y1": 808.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 26,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": -18.0,
+                        "y0": -18.0,
+                        "x1": 618.0,
+                        "y1": 808.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 15,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 91.2,
+                        "y0": 126.12,
+                        "x1": 176.91,
+                        "y1": 159.96
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 16,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 181.23,
+                        "y0": 126.12,
+                        "x1": 266.94,
+                        "y1": 159.96
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 17,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 271.26,
+                        "y0": 126.12,
+                        "x1": 356.97,
+                        "y1": 159.96
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 18,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 361.29,
+                        "y0": 126.12,
+                        "x1": 446.99,
+                        "y1": 159.96
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 19,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 451.32,
+                        "y0": 126.12,
+                        "x1": 537.02,
+                        "y1": 159.96
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 27,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 56.58,
+                        "y0": 193.97,
+                        "x1": 527.72,
+                        "y1": 664.08
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 4,
+                    "bounding_box": {
+                        "x0": 57.24,
+                        "y0": 194.3,
+                        "x1": 526.89,
+                        "y1": 663.95
+                    }
+                },
+                {
+                    "type": "question",
+                    "text": "Write down the word that begins with A first, B next \nand so on ...",
+                    "bounding_box": {
+                        "x0": 62.98,
+                        "y0": 259.89,
+                        "x1": 424.18,
+                        "y1": 298.24
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 10,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 91.2,
+                        "y0": 346.94,
+                        "x1": 176.91,
+                        "y1": 380.78
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 11,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 181.23,
+                        "y0": 346.94,
+                        "x1": 266.94,
+                        "y1": 380.78
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 12,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 271.26,
+                        "y0": 346.94,
+                        "x1": 356.97,
+                        "y1": 380.78
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 13,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 361.29,
+                        "y0": 346.94,
+                        "x1": 446.99,
+                        "y1": 380.78
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 14,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 451.32,
+                        "y0": 346.94,
+                        "x1": 537.02,
+                        "y1": 380.78
+                    }
+                },
+                {
+                    "type": "table",
+                    "table_number": 1,
+                    "data": [
+                        [
+                            "ORANGE",
+                            ""
+                        ]
+                    ],
+                    "bounding_box": {
+                        "x0": 451.66,
+                        "y0": 346.94,
+                        "x1": 537.02,
+                        "y1": 380.78
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 5,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 91.2,
+                        "y0": 423.22,
+                        "x1": 176.91,
+                        "y1": 467.71
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 6,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 181.23,
+                        "y0": 423.22,
+                        "x1": 266.94,
+                        "y1": 467.71
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 7,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 271.26,
+                        "y0": 423.22,
+                        "x1": 356.97,
+                        "y1": 467.71
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 8,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 361.29,
+                        "y0": 423.22,
+                        "x1": 446.99,
+                        "y1": 467.71
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 9,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 451.32,
+                        "y0": 423.22,
+                        "x1": 537.02,
+                        "y1": 467.71
+                    }
+                },
+                {
+                    "type": "table",
+                    "table_number": 2,
+                    "data": [
+                        [
+                            "RED",
+                            ""
+                        ]
+                    ],
+                    "bounding_box": {
+                        "x0": 451.66,
+                        "y0": 423.22,
+                        "x1": 537.02,
+                        "y1": 467.71
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 1,
+                    "bounding_box": {
+                        "x0": 62.98,
+                        "y0": 522.29,
+                        "x1": 312.94,
+                        "y1": 716.28
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 20,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 322.68,
+                        "y0": 578.11,
+                        "x1": 360.63,
+                        "y1": 628.14
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 21,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 366.02,
+                        "y0": 578.11,
+                        "x1": 403.97,
+                        "y1": 628.14
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 22,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 409.36,
+                        "y0": 578.11,
+                        "x1": 447.32,
+                        "y1": 628.14
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 23,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 452.71,
+                        "y0": 578.11,
+                        "x1": 490.66,
+                        "y1": 628.14
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 24,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 496.05,
+                        "y0": 578.11,
+                        "x1": 534.0,
+                        "y1": 628.14
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 2,
+                    "bounding_box": {
+                        "x0": 525.51,
+                        "y0": 669.86,
+                        "x1": 616.0,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 1,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 370.2,
+                        "y0": 749.69,
+                        "x1": 615.0,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 2,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": 381.45,
+                        "y0": 756.1,
+                        "x1": 848.61,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 3,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": 381.45,
+                        "y0": 764.05,
+                        "x1": 848.61,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 4,
+                    "item_count": 3,
+                    "bounding_box": {
+                        "x0": 392.87,
+                        "y0": 772.57,
+                        "x1": 837.19,
+                        "y1": 805.52
+                    }
+                }
+            ]
+        },
+        {
+            "page_number": 14,
+            "text": "14\nSantoor │ Class 3\n\t\nrain\t\npaper\t\n______________\n\t\nblue\t\nball\t\n______________\n\t\nnews\t\nbow\t\nrainbow\n\t\nbasket\t\nworm\t\n______________\n\t\nearth\t\nberry\t\n______________\t\n\t\nWord\t\nFriend\t\nNew word\t\nClue\nLet us do \nLet us do \nYou all have friends, don’t you? Like you, words also \nhave friends.\nLook at these words. Match each word with its friend-word. \nWrite the new word in the space given. The picture clue will \nhelp you. One has been done for you:\nReprint 2025-26\n",
+            "headings": [],
+            "topics": [
+                [
+                    "word",
+                    5
+                ],
+                [
+                    "you",
+                    5
+                ],
+                [
+                    "friend",
+                    2
+                ],
+                [
+                    "new",
+                    2
+                ],
+                [
+                    "clue",
+                    2
+                ],
+                [
+                    "let",
+                    2
+                ],
+                [
+                    "have",
+                    2
+                ],
+                [
+                    "friends",
+                    2
+                ],
+                [
+                    "words",
+                    2
+                ],
+                [
+                    "santoor",
+                    1
+                ]
+            ],
+            "tables": [
+                {
+                    "table_number": 1,
+                    "data": [
+                        [
+                            "Clue",
+                            ""
+                        ]
+                    ],
+                    "bounding_box": {
+                        "x0": 421.5,
+                        "y0": 249.0,
+                        "x1": 536.89,
+                        "y1": 276.36
+                    }
+                }
+            ],
+            "elements": [
+                {
+                    "type": "image",
+                    "image_number": 10,
+                    "bounding_box": {
+                        "x0": -7.48,
+                        "y0": -39.53,
+                        "x1": 607.48,
+                        "y1": 830.34
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 23,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": -18.0,
+                        "y0": -18.0,
+                        "x1": 618.0,
+                        "y1": 808.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 24,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": -18.0,
+                        "y0": -18.0,
+                        "x1": 618.0,
+                        "y1": 808.8
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 8,
+                    "bounding_box": {
+                        "x0": 596.05,
+                        "y0": 51.06,
+                        "x1": 1077.03,
+                        "y1": 132.16
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 1,
+                    "bounding_box": {
+                        "x0": 415.88,
+                        "y0": 71.69,
+                        "x1": 452.31,
+                        "y1": 108.86
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 8,
+                    "item_count": 6,
+                    "bounding_box": {
+                        "x0": 429.76,
+                        "y0": 81.86,
+                        "x1": 537.02,
+                        "y1": 103.73
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 9,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 485.84,
+                        "y0": 81.86,
+                        "x1": 537.02,
+                        "y1": 103.73
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 10,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 449.01,
+                        "y0": 85.16,
+                        "x1": 537.02,
+                        "y1": 103.73
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 12,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": 521.68,
+                        "y0": 86.46,
+                        "x1": 533.11,
+                        "y1": 89.26
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 11,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 485.92,
+                        "y0": 87.55,
+                        "x1": 521.23,
+                        "y1": 100.31
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 2,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 700.1,
+                        "y0": 88.32,
+                        "x1": 1131.46,
+                        "y1": 130.32
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 3,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 699.6,
+                        "y0": 95.99,
+                        "x1": 1131.02,
+                        "y1": 122.65
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 1,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": 771.32,
+                        "y0": 122.22,
+                        "x1": 1126.61,
+                        "y1": 142.1
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "text": "You all have friends, don’t you? Like you, words also \nhave friends.\nLook at these words. Match each word with its friend-word. \nWrite the new word in the space given. The picture clue will \nhelp you. One has been done for you:",
+                    "bounding_box": {
+                        "x0": 62.98,
+                        "y0": 123.49,
+                        "x1": 470.3,
+                        "y1": 222.87
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 7,
+                    "bounding_box": {
+                        "x0": 595.91,
+                        "y0": 190.45,
+                        "x1": 616.06,
+                        "y1": 806.4
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 25,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 56.58,
+                        "y0": 193.97,
+                        "x1": 527.72,
+                        "y1": 664.08
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 11,
+                    "bounding_box": {
+                        "x0": 57.24,
+                        "y0": 194.3,
+                        "x1": 526.89,
+                        "y1": 663.95
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 13,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 62.98,
+                        "y0": 249.0,
+                        "x1": 178.29,
+                        "y1": 276.36
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 14,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 182.55,
+                        "y0": 249.0,
+                        "x1": 297.87,
+                        "y1": 276.36
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 15,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 302.13,
+                        "y0": 249.0,
+                        "x1": 417.45,
+                        "y1": 276.36
+                    }
+                },
+                {
+                    "type": "table",
+                    "table_number": 1,
+                    "data": [
+                        [
+                            "Clue",
+                            ""
+                        ]
+                    ],
+                    "bounding_box": {
+                        "x0": 421.5,
+                        "y0": 249.0,
+                        "x1": 536.89,
+                        "y1": 276.36
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 16,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 421.71,
+                        "y0": 249.0,
+                        "x1": 537.02,
+                        "y1": 276.36
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 17,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 421.46,
+                        "y0": 283.8,
+                        "x1": 536.77,
+                        "y1": 355.56
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 2,
+                    "bounding_box": {
+                        "x0": 413.79,
+                        "y0": 295.39,
+                        "x1": 535.52,
+                        "y1": 348.05
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 22,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 135.48,
+                        "y0": 323.88,
+                        "x1": 223.32,
+                        "y1": 467.16
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 18,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 421.46,
+                        "y0": 363.36,
+                        "x1": 536.77,
+                        "y1": 435.12
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 3,
+                    "bounding_box": {
+                        "x0": 422.27,
+                        "y0": 369.64,
+                        "x1": 537.52,
+                        "y1": 432.6
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 19,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 421.46,
+                        "y0": 442.92,
+                        "x1": 536.77,
+                        "y1": 514.69
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 4,
+                    "bounding_box": {
+                        "x0": 415.75,
+                        "y0": 455.77,
+                        "x1": 537.52,
+                        "y1": 507.22
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 20,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 421.46,
+                        "y0": 522.49,
+                        "x1": 536.77,
+                        "y1": 594.25
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 5,
+                    "bounding_box": {
+                        "x0": 422.76,
+                        "y0": 526.72,
+                        "x1": 537.02,
+                        "y1": 574.2
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 21,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 421.46,
+                        "y0": 602.05,
+                        "x1": 536.77,
+                        "y1": 673.81
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 6,
+                    "bounding_box": {
+                        "x0": 445.48,
+                        "y0": 620.34,
+                        "x1": 514.99,
+                        "y1": 657.27
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 9,
+                    "bounding_box": {
+                        "x0": -16.0,
+                        "y0": 669.86,
+                        "x1": 74.49,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 4,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": -15.0,
+                        "y0": 749.69,
+                        "x1": 229.8,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 5,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": -248.61,
+                        "y0": 756.1,
+                        "x1": 218.55,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 6,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": -248.61,
+                        "y0": 764.05,
+                        "x1": 218.55,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 7,
+                    "item_count": 3,
+                    "bounding_box": {
+                        "x0": -237.19,
+                        "y0": 772.57,
+                        "x1": 207.13,
+                        "y1": 805.52
+                    }
+                }
+            ]
+        }
+    ]
+}

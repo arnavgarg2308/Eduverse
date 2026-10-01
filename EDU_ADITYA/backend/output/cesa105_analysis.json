@@ -1,0 +1,4152 @@
+{
+    "file_name": "406efc92-4cdf-4ceb-b649-9a897ce78d94_cesa105.pdf",
+    "page_count": 12,
+    "pages": [
+        {
+            "page_number": 1,
+            "text": "Chapter5.\t Talking Toys\nLet us read\nLet us read\nIt was a holiday. The local market was \nfull of people. The toy shop opened \nat 9 a.m. There were many toys \nlike wooden toys, soft \ntoys, board games, \nbats and \nReprint 2025-26\n",
+            "headings": [
+                {
+                    "text": "Chapter5.\t Talking Toys",
+                    "bounding_box": {
+                        "x0": 140.73,
+                        "y0": 91.17,
+                        "x1": 378.34,
+                        "y1": 122.57
+                    },
+                    "width": 237.62,
+                    "height": 31.39
+                }
+            ],
+            "topics": [
+                [
+                    "toys",
+                    4
+                ],
+                [
+                    "let",
+                    2
+                ],
+                [
+                    "read",
+                    2
+                ],
+                [
+                    "talking",
+                    1
+                ],
+                [
+                    "holiday",
+                    1
+                ],
+                [
+                    "local",
+                    1
+                ],
+                [
+                    "market",
+                    1
+                ],
+                [
+                    "full",
+                    1
+                ],
+                [
+                    "people",
+                    1
+                ],
+                [
+                    "toy",
+                    1
+                ]
+            ],
+            "tables": [
+                {
+                    "table_number": 1,
+                    "data": [
+                        [
+                            "",
+                            null
+                        ],
+                        [
+                            "5. Talking Toys\nChapter",
+                            null
+                        ],
+                        [
+                            "",
+                            ""
+                        ]
+                    ],
+                    "bounding_box": {
+                        "x0": 104.78,
+                        "y0": 88.32,
+                        "x1": 536.17,
+                        "y1": 130.32
+                    }
+                }
+            ],
+            "elements": [
+                {
+                    "type": "image",
+                    "image_number": 5,
+                    "bounding_box": {
+                        "x0": -7.48,
+                        "y0": -39.53,
+                        "x1": 607.48,
+                        "y1": 830.34
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 10,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": -18.0,
+                        "y0": -18.0,
+                        "x1": 618.0,
+                        "y1": 808.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 11,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": -18.0,
+                        "y0": -18.0,
+                        "x1": 618.0,
+                        "y1": 808.8
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 1,
+                    "bounding_box": {
+                        "x0": -13.81,
+                        "y0": -16.1,
+                        "x1": 597.0,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 4,
+                    "bounding_box": {
+                        "x0": -16.01,
+                        "y0": 51.06,
+                        "x1": 482.96,
+                        "y1": 132.16
+                    }
+                },
+                {
+                    "type": "table",
+                    "table_number": 1,
+                    "data": [
+                        [
+                            "",
+                            null
+                        ],
+                        [
+                            "5. Talking Toys\nChapter",
+                            null
+                        ],
+                        [
+                            "",
+                            ""
+                        ]
+                    ],
+                    "bounding_box": {
+                        "x0": 104.78,
+                        "y0": 88.32,
+                        "x1": 536.17,
+                        "y1": 130.32
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 2,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 105.03,
+                        "y0": 88.32,
+                        "x1": 536.39,
+                        "y1": 130.32
+                    }
+                },
+                {
+                    "type": "heading",
+                    "text": "Chapter5.\t Talking Toys",
+                    "bounding_box": {
+                        "x0": 140.73,
+                        "y0": 91.17,
+                        "x1": 378.34,
+                        "y1": 122.57
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 3,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 104.53,
+                        "y0": 95.99,
+                        "x1": 535.95,
+                        "y1": 122.65
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 1,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": 176.25,
+                        "y0": 122.22,
+                        "x1": 531.54,
+                        "y1": 142.1
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 3,
+                    "bounding_box": {
+                        "x0": 44.92,
+                        "y0": 134.64,
+                        "x1": 129.88,
+                        "y1": 219.6
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 9,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 44.92,
+                        "y0": 134.64,
+                        "x1": 129.88,
+                        "y1": 219.6
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 2,
+                    "bounding_box": {
+                        "x0": 282.27,
+                        "y0": 149.1,
+                        "x1": 322.78,
+                        "y1": 184.65
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 4,
+                    "item_count": 6,
+                    "bounding_box": {
+                        "x0": 310.76,
+                        "y0": 158.04,
+                        "x1": 418.02,
+                        "y1": 179.91
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 5,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 366.84,
+                        "y0": 158.04,
+                        "x1": 418.02,
+                        "y1": 179.91
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 6,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 330.01,
+                        "y0": 161.34,
+                        "x1": 418.02,
+                        "y1": 179.91
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 8,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": 402.68,
+                        "y0": 162.64,
+                        "x1": 414.11,
+                        "y1": 165.44
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 7,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 366.92,
+                        "y0": 163.73,
+                        "x1": 402.23,
+                        "y1": 176.49
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 12,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 56.58,
+                        "y0": 193.97,
+                        "x1": 527.72,
+                        "y1": 664.08
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 6,
+                    "bounding_box": {
+                        "x0": 57.24,
+                        "y0": 194.3,
+                        "x1": 526.89,
+                        "y1": 663.95
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "text": "It was a holiday. The local market was \nfull of people. The toy shop opened \nat 9 a.m. There were many toys \nlike wooden toys, soft \ntoys, board games, \nbats and",
+                    "bounding_box": {
+                        "x0": 62.98,
+                        "y0": 225.2,
+                        "x1": 367.62,
+                        "y1": 366.16
+                    }
+                }
+            ]
+        },
+        {
+            "page_number": 2,
+            "text": "45\nSantoor  │ Class 3\nballs and many others. All the toys in the toy \nshop were waiting to see who would buy them.\n“Look there,” shouted the toy kitten. They \nsaw two girls coming towards the shop. \nBut they passed by just looking at the \ntoys through the windows. \n“Oh, no!” exclaimed all the toys at once. \nAfter some time, a girl and a little boy stopped \nat the door of the toy shop. Their father \nstopped too.\nThe girl pointed at the board \ngames displayed in the \nshop. Finally, she \nchose the \ngame ‘Snakes \nand Ladders’. \nReprint 2025-26\n",
+            "headings": [
+                {
+                    "text": "“Oh, no!” exclaimed all the toys at once.",
+                    "bounding_box": {
+                        "x0": 89.97,
+                        "y0": 454.0,
+                        "x1": 406.77,
+                        "y1": 474.96
+                    },
+                    "width": 316.8,
+                    "height": 20.96
+                },
+                {
+                    "text": "After some time, a girl and a little boy stopped",
+                    "bounding_box": {
+                        "x0": 89.97,
+                        "y0": 485.2,
+                        "x1": 441.07,
+                        "y1": 506.16
+                    },
+                    "width": 351.1,
+                    "height": 20.96
+                }
+            ],
+            "topics": [
+                [
+                    "shop",
+                    4
+                ],
+                [
+                    "toys",
+                    3
+                ],
+                [
+                    "toy",
+                    3
+                ],
+                [
+                    "all",
+                    2
+                ],
+                [
+                    "they",
+                    2
+                ],
+                [
+                    "girl",
+                    2
+                ],
+                [
+                    "stopped",
+                    2
+                ],
+                [
+                    "santoor",
+                    1
+                ],
+                [
+                    "class",
+                    1
+                ],
+                [
+                    "balls",
+                    1
+                ]
+            ],
+            "tables": [],
+            "elements": [
+                {
+                    "type": "image",
+                    "image_number": 5,
+                    "bounding_box": {
+                        "x0": -7.48,
+                        "y0": -39.53,
+                        "x1": 607.48,
+                        "y1": 830.34
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 10,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": -18.0,
+                        "y0": -18.0,
+                        "x1": 618.0,
+                        "y1": 808.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 11,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": -18.0,
+                        "y0": -18.0,
+                        "x1": 618.0,
+                        "y1": 808.8
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "text": "balls and many others. All the toys in the toy \nshop were waiting to see who would buy them.",
+                    "bounding_box": {
+                        "x0": 62.98,
+                        "y0": 66.99,
+                        "x1": 428.1,
+                        "y1": 111.95
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 2,
+                    "bounding_box": {
+                        "x0": 47.98,
+                        "y0": 70.34,
+                        "x1": 543.04,
+                        "y1": 333.9
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 12,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 56.58,
+                        "y0": 193.97,
+                        "x1": 527.72,
+                        "y1": 664.08
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 6,
+                    "bounding_box": {
+                        "x0": 57.24,
+                        "y0": 194.3,
+                        "x1": 526.89,
+                        "y1": 663.95
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 3,
+                    "bounding_box": {
+                        "x0": 407.88,
+                        "y0": 301.68,
+                        "x1": 556.96,
+                        "y1": 444.94
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "text": "“Look there,” shouted the toy kitten. They \nsaw two girls coming towards the shop.",
+                    "bounding_box": {
+                        "x0": 62.98,
+                        "y0": 343.6,
+                        "x1": 434.14,
+                        "y1": 388.56
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "text": "But they passed by just looking at the \ntoys through the windows.",
+                    "bounding_box": {
+                        "x0": 62.98,
+                        "y0": 398.8,
+                        "x1": 412.54,
+                        "y1": 443.76
+                    }
+                },
+                {
+                    "type": "heading",
+                    "text": "“Oh, no!” exclaimed all the toys at once.",
+                    "bounding_box": {
+                        "x0": 89.97,
+                        "y0": 454.0,
+                        "x1": 406.77,
+                        "y1": 474.96
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 9,
+                    "item_count": 18,
+                    "bounding_box": {
+                        "x0": 201.72,
+                        "y0": 476.04,
+                        "x1": 537.02,
+                        "y1": 719.4
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 1,
+                    "bounding_box": {
+                        "x0": 206.92,
+                        "y0": 478.39,
+                        "x1": 563.52,
+                        "y1": 720.51
+                    }
+                },
+                {
+                    "type": "heading",
+                    "text": "After some time, a girl and a little boy stopped",
+                    "bounding_box": {
+                        "x0": 89.97,
+                        "y0": 485.2,
+                        "x1": 441.07,
+                        "y1": 506.16
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "text": "The girl pointed at the board \ngames displayed in the \nshop. Finally, she \nchose the \ngame ‘Snakes \nand Ladders’.",
+                    "bounding_box": {
+                        "x0": 62.98,
+                        "y0": 564.4,
+                        "x1": 318.77,
+                        "y1": 705.36
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 4,
+                    "bounding_box": {
+                        "x0": 525.51,
+                        "y0": 669.86,
+                        "x1": 616.0,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 5,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 3.0,
+                        "y0": 734.67,
+                        "x1": 313.32,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 6,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": -293.14,
+                        "y0": 742.8,
+                        "x1": 299.06,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 1,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 370.2,
+                        "y0": 749.69,
+                        "x1": 615.0,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 7,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": -293.14,
+                        "y0": 752.88,
+                        "x1": 299.06,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 2,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": 381.45,
+                        "y0": 756.1,
+                        "x1": 848.61,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 8,
+                    "item_count": 3,
+                    "bounding_box": {
+                        "x0": -278.66,
+                        "y0": 763.68,
+                        "x1": 284.58,
+                        "y1": 805.44
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 3,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": 381.45,
+                        "y0": 764.05,
+                        "x1": 848.61,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 4,
+                    "item_count": 3,
+                    "bounding_box": {
+                        "x0": 392.87,
+                        "y0": 772.57,
+                        "x1": 837.19,
+                        "y1": 805.52
+                    }
+                }
+            ]
+        },
+        {
+            "page_number": 3,
+            "text": "46\nSantoor  │ Class 3\n“Ohhhh”, sighed the toys together. \nNext, they saw a woman and her son coming \nin. There was excitement in the shop \namong the toys. \nA talking doll said, “It \nwould be so nice if they \npick me up.”\n“I would be happy if they chose me,” \nthought the toy elephant. \n“Namaste! How may I help you?” \nasked the toy shopkeeper. \n“Namaste! I want to buy a toy for \nmy son,” said the woman looking at \nthe toys in the racks. \n“Aayi! I want that Vande Bharat train,” \nsaid the little boy pointing to the toy train.\nWhat do you call your mother?\nReprint 2025-26\n",
+            "headings": [
+                {
+                    "text": "“Ohhhh”, sighed the toys together.",
+                    "bounding_box": {
+                        "x0": 134.4,
+                        "y0": 236.91,
+                        "x1": 409.6,
+                        "y1": 257.87
+                    },
+                    "width": 275.2,
+                    "height": 20.96
+                }
+            ],
+            "topics": [
+                [
+                    "toy",
+                    4
+                ],
+                [
+                    "toys",
+                    3
+                ],
+                [
+                    "they",
+                    3
+                ],
+                [
+                    "said",
+                    3
+                ],
+                [
+                    "woman",
+                    2
+                ],
+                [
+                    "son",
+                    2
+                ],
+                [
+                    "would",
+                    2
+                ],
+                [
+                    "namaste",
+                    2
+                ],
+                [
+                    "you",
+                    2
+                ],
+                [
+                    "want",
+                    2
+                ]
+            ],
+            "tables": [],
+            "elements": [
+                {
+                    "type": "image",
+                    "image_number": 6,
+                    "bounding_box": {
+                        "x0": -7.48,
+                        "y0": -39.53,
+                        "x1": 607.48,
+                        "y1": 830.34
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 7,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": -18.0,
+                        "y0": -18.0,
+                        "x1": 618.0,
+                        "y1": 808.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 8,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": -18.0,
+                        "y0": -18.0,
+                        "x1": 618.0,
+                        "y1": 808.8
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 1,
+                    "bounding_box": {
+                        "x0": 62.48,
+                        "y0": 61.4,
+                        "x1": 538.03,
+                        "y1": 227.94
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 9,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 56.58,
+                        "y0": 193.97,
+                        "x1": 527.72,
+                        "y1": 664.08
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 7,
+                    "bounding_box": {
+                        "x0": 57.24,
+                        "y0": 194.3,
+                        "x1": 526.89,
+                        "y1": 663.95
+                    }
+                },
+                {
+                    "type": "heading",
+                    "text": "“Ohhhh”, sighed the toys together.",
+                    "bounding_box": {
+                        "x0": 134.4,
+                        "y0": 236.91,
+                        "x1": 409.6,
+                        "y1": 257.87
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "text": "Next, they saw a woman and her son coming \nin. There was excitement in the shop \namong the toys.",
+                    "bounding_box": {
+                        "x0": 107.41,
+                        "y0": 268.11,
+                        "x1": 497.53,
+                        "y1": 337.07
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 3,
+                    "bounding_box": {
+                        "x0": 403.78,
+                        "y0": 301.3,
+                        "x1": 540.02,
+                        "y1": 382.25
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "text": "A talking doll said, “It \nwould be so nice if they \npick me up.”",
+                    "bounding_box": {
+                        "x0": 182.4,
+                        "y0": 347.31,
+                        "x1": 398.11,
+                        "y1": 416.27
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 5,
+                    "item_count": 27,
+                    "bounding_box": {
+                        "x0": 16.04,
+                        "y0": 352.06,
+                        "x1": 211.37,
+                        "y1": 621.08
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 2,
+                    "bounding_box": {
+                        "x0": 24.86,
+                        "y0": 352.76,
+                        "x1": 214.04,
+                        "y1": 638.73
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "text": "“I would be happy if they chose me,” \nthought the toy elephant.",
+                    "bounding_box": {
+                        "x0": 182.4,
+                        "y0": 426.51,
+                        "x1": 497.53,
+                        "y1": 471.47
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "text": "“Namaste! I want to buy a toy for \nmy son,” said the woman looking at \nthe toys in the racks.",
+                    "bounding_box": {
+                        "x0": 210.42,
+                        "y0": 536.91,
+                        "x1": 497.56,
+                        "y1": 605.87
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "text": "“Aayi! I want that Vande Bharat train,” \nsaid the little boy pointing to the toy train.",
+                    "bounding_box": {
+                        "x0": 107.42,
+                        "y0": 616.11,
+                        "x1": 497.55,
+                        "y1": 661.07
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 4,
+                    "bounding_box": {
+                        "x0": 386.86,
+                        "y0": 663.61,
+                        "x1": 448.63,
+                        "y1": 719.4
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 5,
+                    "bounding_box": {
+                        "x0": -16.0,
+                        "y0": 669.86,
+                        "x1": 74.49,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 6,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 153.16,
+                        "y0": 670.96,
+                        "x1": 442.61,
+                        "y1": 713.41
+                    }
+                },
+                {
+                    "type": "question",
+                    "text": "What do you call your mother?",
+                    "bounding_box": {
+                        "x0": 171.16,
+                        "y0": 680.25,
+                        "x1": 382.56,
+                        "y1": 698.59
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 1,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": -15.0,
+                        "y0": 749.69,
+                        "x1": 229.8,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 2,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": -248.61,
+                        "y0": 756.1,
+                        "x1": 218.55,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 3,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": -248.61,
+                        "y0": 764.05,
+                        "x1": 218.55,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 4,
+                    "item_count": 3,
+                    "bounding_box": {
+                        "x0": -237.19,
+                        "y0": 772.57,
+                        "x1": 207.13,
+                        "y1": 805.52
+                    }
+                }
+            ]
+        },
+        {
+            "page_number": 4,
+            "text": "47\nSantoor  │ Class 3\nAayi bought the Vande \nBharat toy train. The little \nboy was happy.\nThen two girls came in. \nThe toys looked at them eagerly. \n“Zooooooooooooooom! Friends! I \nthink they would like to fly me,” \nsaid the aeroplane confidently.\n“Trin … Trin …! I think they may like to \nplay with me,” thought the toy phone. \nOne girl bought marbles and the other bought \nthe toy aeroplane. \nAfter a while, a group of children came \ninto the toy shop. \n“Wow! I like this toy elephant,” \nsaid the girl with long hair.\n“I will take this spinning top,” \nsaid the boy with the red cap. \n“I \nlike \nthese \ncute \ndancing dolls,” said the boy in \nthe blue shirt. \n \nThe \nchildren \nbought \nthe toys. They left the shop \ncheerfully.  \nReprint 2025-26\n",
+            "headings": [
+                {
+                    "text": "Then two girls came in.",
+                    "bounding_box": {
+                        "x0": 134.39,
+                        "y0": 149.79,
+                        "x1": 321.91,
+                        "y1": 170.75
+                    },
+                    "width": 187.52,
+                    "height": 20.96
+                },
+                {
+                    "text": "The toys looked at them eagerly.",
+                    "bounding_box": {
+                        "x0": 134.39,
+                        "y0": 180.99,
+                        "x1": 392.31,
+                        "y1": 201.95
+                    },
+                    "width": 257.92,
+                    "height": 20.96
+                },
+                {
+                    "text": "“Zooooooooooooooom! Friends! I",
+                    "bounding_box": {
+                        "x0": 223.38,
+                        "y0": 212.19,
+                        "x1": 496.5,
+                        "y1": 233.15
+                    },
+                    "width": 273.12,
+                    "height": 20.96
+                }
+            ],
+            "topics": [
+                [
+                    "toy",
+                    5
+                ],
+                [
+                    "bought",
+                    4
+                ],
+                [
+                    "like",
+                    4
+                ],
+                [
+                    "said",
+                    4
+                ],
+                [
+                    "boy",
+                    3
+                ],
+                [
+                    "they",
+                    3
+                ],
+                [
+                    "came",
+                    2
+                ],
+                [
+                    "toys",
+                    2
+                ],
+                [
+                    "think",
+                    2
+                ],
+                [
+                    "aeroplane",
+                    2
+                ]
+            ],
+            "tables": [],
+            "elements": [
+                {
+                    "type": "image",
+                    "image_number": 9,
+                    "bounding_box": {
+                        "x0": -7.48,
+                        "y0": -39.53,
+                        "x1": 607.48,
+                        "y1": 830.34
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 8,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": -18.0,
+                        "y0": -18.0,
+                        "x1": 618.0,
+                        "y1": 808.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 9,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": -18.0,
+                        "y0": -18.0,
+                        "x1": 618.0,
+                        "y1": 808.8
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 1,
+                    "bounding_box": {
+                        "x0": 326.84,
+                        "y0": 65.98,
+                        "x1": 615.0,
+                        "y1": 153.98
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "text": "Aayi bought the Vande \nBharat toy train. The little \nboy was happy.",
+                    "bounding_box": {
+                        "x0": 107.4,
+                        "y0": 70.59,
+                        "x1": 331.98,
+                        "y1": 139.55
+                    }
+                },
+                {
+                    "type": "heading",
+                    "text": "Then two girls came in.",
+                    "bounding_box": {
+                        "x0": 134.39,
+                        "y0": 149.79,
+                        "x1": 321.91,
+                        "y1": 170.75
+                    }
+                },
+                {
+                    "type": "heading",
+                    "text": "The toys looked at them eagerly.",
+                    "bounding_box": {
+                        "x0": 134.39,
+                        "y0": 180.99,
+                        "x1": 392.31,
+                        "y1": 201.95
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 10,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 56.58,
+                        "y0": 193.97,
+                        "x1": 527.72,
+                        "y1": 664.08
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 10,
+                    "bounding_box": {
+                        "x0": 57.24,
+                        "y0": 194.3,
+                        "x1": 526.89,
+                        "y1": 663.95
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 2,
+                    "bounding_box": {
+                        "x0": 62.98,
+                        "y0": 207.36,
+                        "x1": 191.47,
+                        "y1": 283.28
+                    }
+                },
+                {
+                    "type": "heading",
+                    "text": "“Zooooooooooooooom! Friends! I",
+                    "bounding_box": {
+                        "x0": 223.38,
+                        "y0": 212.19,
+                        "x1": 496.5,
+                        "y1": 233.15
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 7,
+                    "item_count": 13,
+                    "bounding_box": {
+                        "x0": 439.96,
+                        "y0": 213.59,
+                        "x1": 547.02,
+                        "y1": 335.27
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 5,
+                    "item_count": 14,
+                    "bounding_box": {
+                        "x0": 84.97,
+                        "y0": 214.69,
+                        "x1": 197.0,
+                        "y1": 282.79
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 5,
+                    "bounding_box": {
+                        "x0": 449.33,
+                        "y0": 219.66,
+                        "x1": 542.75,
+                        "y1": 322.59
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "text": "“Trin … Trin …! I think they may like to \nplay with me,” thought the toy phone.",
+                    "bounding_box": {
+                        "x0": 107.41,
+                        "y0": 291.39,
+                        "x1": 444.52,
+                        "y1": 336.35
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 6,
+                    "bounding_box": {
+                        "x0": 456.83,
+                        "y0": 300.22,
+                        "x1": 540.37,
+                        "y1": 342.49
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 6,
+                    "item_count": 17,
+                    "bounding_box": {
+                        "x0": 345.05,
+                        "y0": 397.2,
+                        "x1": 544.68,
+                        "y1": 705.72
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "text": "After a while, a group of children came \ninto the toy shop.",
+                    "bounding_box": {
+                        "x0": 107.41,
+                        "y0": 401.79,
+                        "x1": 453.54,
+                        "y1": 446.75
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 3,
+                    "bounding_box": {
+                        "x0": 360.71,
+                        "y0": 411.54,
+                        "x1": 588.02,
+                        "y1": 673.13
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "text": "“Wow! I like this toy elephant,” \nsaid the girl with long hair.",
+                    "bounding_box": {
+                        "x0": 153.92,
+                        "y0": 456.99,
+                        "x1": 428.52,
+                        "y1": 501.95
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 7,
+                    "bounding_box": {
+                        "x0": 60.89,
+                        "y0": 461.79,
+                        "x1": 153.91,
+                        "y1": 564.29
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "text": "“I will take this spinning top,” \nsaid the boy with the red cap.",
+                    "bounding_box": {
+                        "x0": 153.92,
+                        "y0": 512.19,
+                        "x1": 425.54,
+                        "y1": 557.15
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "text": "“I \nlike \nthese \ncute \ndancing dolls,” said the boy in \nthe blue shirt.",
+                    "bounding_box": {
+                        "x0": 107.41,
+                        "y0": 567.39,
+                        "x1": 360.53,
+                        "y1": 636.35
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 4,
+                    "bounding_box": {
+                        "x0": 408.39,
+                        "y0": 574.64,
+                        "x1": 542.19,
+                        "y1": 703.21
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 8,
+                    "bounding_box": {
+                        "x0": 525.51,
+                        "y0": 669.86,
+                        "x1": 616.0,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 1,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 370.2,
+                        "y0": 749.69,
+                        "x1": 615.0,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 2,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": 381.45,
+                        "y0": 756.1,
+                        "x1": 848.61,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 3,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": 381.45,
+                        "y0": 764.05,
+                        "x1": 848.61,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 4,
+                    "item_count": 3,
+                    "bounding_box": {
+                        "x0": 392.87,
+                        "y0": 772.57,
+                        "x1": 837.19,
+                        "y1": 805.52
+                    }
+                }
+            ]
+        },
+        {
+            "page_number": 5,
+            "text": "48\nSantoor  │ Class 3\nNote to the teacher\nShow children the e-Jaadui Pitara developed by the NCERT. \nNew words\ndisplayed\t    excitement    eagerly\nPicture Glossary \nChennapatna Toys\nKondapalli dancing dolls\nVande Bharat Train\nDoll\nSoft toy elephant\nReprint 2025-26\n",
+            "headings": [],
+            "topics": [
+                [
+                    "santoor",
+                    1
+                ],
+                [
+                    "class",
+                    1
+                ],
+                [
+                    "note",
+                    1
+                ],
+                [
+                    "teacher",
+                    1
+                ],
+                [
+                    "show",
+                    1
+                ],
+                [
+                    "children",
+                    1
+                ],
+                [
+                    "jaadui",
+                    1
+                ],
+                [
+                    "pitara",
+                    1
+                ],
+                [
+                    "developed",
+                    1
+                ],
+                [
+                    "ncert",
+                    1
+                ]
+            ],
+            "tables": [],
+            "elements": [
+                {
+                    "type": "image",
+                    "image_number": 7,
+                    "bounding_box": {
+                        "x0": -7.48,
+                        "y0": -39.53,
+                        "x1": 607.48,
+                        "y1": 830.34
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 13,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": -18.0,
+                        "y0": -18.0,
+                        "x1": 618.0,
+                        "y1": 808.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 14,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": -18.0,
+                        "y0": -18.0,
+                        "x1": 618.0,
+                        "y1": 808.8
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 2,
+                    "bounding_box": {
+                        "x0": 400.57,
+                        "y0": 68.06,
+                        "x1": 537.02,
+                        "y1": 274.33
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 6,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 62.98,
+                        "y0": 85.75,
+                        "x1": 288.67,
+                        "y1": 85.75
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 7,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 62.98,
+                        "y0": 105.69,
+                        "x1": 288.67,
+                        "y1": 105.69
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 11,
+                    "item_count": 3,
+                    "bounding_box": {
+                        "x0": 387.75,
+                        "y0": 148.44,
+                        "x1": 405.51,
+                        "y1": 173.66
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 5,
+                    "bounding_box": {
+                        "x0": 42.98,
+                        "y0": 149.86,
+                        "x1": 229.33,
+                        "y1": 328.94
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 15,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 56.58,
+                        "y0": 193.97,
+                        "x1": 527.72,
+                        "y1": 664.08
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 8,
+                    "bounding_box": {
+                        "x0": 57.24,
+                        "y0": 194.3,
+                        "x1": 526.89,
+                        "y1": 663.95
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 8,
+                    "item_count": 3,
+                    "bounding_box": {
+                        "x0": 230.52,
+                        "y0": 270.28,
+                        "x1": 248.28,
+                        "y1": 295.5
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 4,
+                    "bounding_box": {
+                        "x0": 229.05,
+                        "y0": 320.36,
+                        "x1": 545.02,
+                        "y1": 420.76
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 1,
+                    "bounding_box": {
+                        "x0": 57.98,
+                        "y0": 334.07,
+                        "x1": 188.64,
+                        "y1": 648.0
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 10,
+                    "item_count": 3,
+                    "bounding_box": {
+                        "x0": 329.6,
+                        "y0": 414.44,
+                        "x1": 354.82,
+                        "y1": 432.2
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 3,
+                    "bounding_box": {
+                        "x0": 408.31,
+                        "y0": 488.95,
+                        "x1": 537.02,
+                        "y1": 639.0
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 9,
+                    "item_count": 3,
+                    "bounding_box": {
+                        "x0": 174.12,
+                        "y0": 490.78,
+                        "x1": 191.88,
+                        "y1": 516.0
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 12,
+                    "item_count": 3,
+                    "bounding_box": {
+                        "x0": 381.76,
+                        "y0": 579.96,
+                        "x1": 399.52,
+                        "y1": 605.18
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 5,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 65.48,
+                        "y0": 659.98,
+                        "x1": 461.48,
+                        "y1": 716.9
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 6,
+                    "bounding_box": {
+                        "x0": -16.0,
+                        "y0": 669.86,
+                        "x1": 74.49,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 1,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": -15.0,
+                        "y0": 749.69,
+                        "x1": 229.8,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 2,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": -248.61,
+                        "y0": 756.1,
+                        "x1": 218.55,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 3,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": -248.61,
+                        "y0": 764.05,
+                        "x1": 218.55,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 4,
+                    "item_count": 3,
+                    "bounding_box": {
+                        "x0": -237.19,
+                        "y0": 772.57,
+                        "x1": 207.13,
+                        "y1": 805.52
+                    }
+                }
+            ]
+        },
+        {
+            "page_number": 6,
+            "text": "49\nSantoor  │ Class 3\nLet us think \nLet us think \nA.\t Answer the following.\n1.\t Name the toys in the toy shop.\n\t\n\t\n\t\n\t\n2.\t What toy did the little boy request his mother to buy him?\n______________________________________________________________________\n______________________________________________________________________\nB.\t Think and answer.\n1.\t Talk in pairs. How do you feel when someone \nbuys or gives a toy to you? \n2.\t Have you seen the ‘Jaadui Pitara’? \nLet us learn\nLet us learn\nA.\t Read these words.\n\t\nhappy boy\t\npretty doll\t\nblue frock\t\nred cap\nThe words boy, doll, frock and cap are naming words. \nThe word happy tells us more about the naming \nword ‘boy’. \nThe words red, talking and blue tell us more about the \nnaming words beside them.\nReprint 2025-26\n",
+            "headings": [],
+            "topics": [
+                [
+                    "words",
+                    5
+                ],
+                [
+                    "let",
+                    4
+                ],
+                [
+                    "boy",
+                    4
+                ],
+                [
+                    "think",
+                    3
+                ],
+                [
+                    "toy",
+                    3
+                ],
+                [
+                    "you",
+                    3
+                ],
+                [
+                    "naming",
+                    3
+                ],
+                [
+                    "answer",
+                    2
+                ],
+                [
+                    "learn",
+                    2
+                ],
+                [
+                    "happy",
+                    2
+                ]
+            ],
+            "tables": [],
+            "elements": [
+                {
+                    "type": "image",
+                    "image_number": 6,
+                    "bounding_box": {
+                        "x0": -7.48,
+                        "y0": -39.53,
+                        "x1": 607.48,
+                        "y1": 830.34
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 24,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": -18.0,
+                        "y0": -18.0,
+                        "x1": 618.0,
+                        "y1": 808.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 25,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": -18.0,
+                        "y0": -18.0,
+                        "x1": 618.0,
+                        "y1": 808.8
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 2,
+                    "bounding_box": {
+                        "x0": 390.96,
+                        "y0": 67.48,
+                        "x1": 436.74,
+                        "y1": 108.83
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 10,
+                    "item_count": 6,
+                    "bounding_box": {
+                        "x0": 429.76,
+                        "y0": 81.23,
+                        "x1": 537.02,
+                        "y1": 103.11
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 11,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 485.84,
+                        "y0": 81.23,
+                        "x1": 537.02,
+                        "y1": 103.11
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 12,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 449.01,
+                        "y0": 84.54,
+                        "x1": 537.02,
+                        "y1": 103.11
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 14,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": 521.68,
+                        "y0": 85.84,
+                        "x1": 533.11,
+                        "y1": 88.64
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 13,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 485.92,
+                        "y0": 86.93,
+                        "x1": 521.23,
+                        "y1": 99.69
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 3,
+                    "bounding_box": {
+                        "x0": 391.32,
+                        "y0": 108.7,
+                        "x1": 537.79,
+                        "y1": 277.25
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 26,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 56.58,
+                        "y0": 193.97,
+                        "x1": 527.72,
+                        "y1": 664.08
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 16,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 116.98,
+                        "y0": 194.15,
+                        "x1": 227.28,
+                        "y1": 194.15
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 17,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 251.98,
+                        "y0": 194.15,
+                        "x1": 362.28,
+                        "y1": 194.15
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 7,
+                    "bounding_box": {
+                        "x0": 57.24,
+                        "y0": 194.3,
+                        "x1": 526.89,
+                        "y1": 663.95
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 18,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 116.98,
+                        "y0": 221.34,
+                        "x1": 227.28,
+                        "y1": 221.34
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 19,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 251.98,
+                        "y0": 221.34,
+                        "x1": 362.28,
+                        "y1": 221.34
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 20,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 116.98,
+                        "y0": 248.55,
+                        "x1": 227.28,
+                        "y1": 248.55
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 21,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 251.98,
+                        "y0": 248.55,
+                        "x1": 362.28,
+                        "y1": 248.55
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 22,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 116.98,
+                        "y0": 275.75,
+                        "x1": 227.28,
+                        "y1": 275.75
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 23,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 251.98,
+                        "y0": 275.75,
+                        "x1": 362.28,
+                        "y1": 275.75
+                    }
+                },
+                {
+                    "type": "question",
+                    "text": "2.\t What toy did the little boy request his mother to buy him?",
+                    "bounding_box": {
+                        "x0": 89.98,
+                        "y0": 285.71,
+                        "x1": 514.86,
+                        "y1": 304.05
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 4,
+                    "bounding_box": {
+                        "x0": 428.52,
+                        "y0": 403.0,
+                        "x1": 538.36,
+                        "y1": 490.27
+                    }
+                },
+                {
+                    "type": "question",
+                    "text": "buys or gives a toy to you?",
+                    "bounding_box": {
+                        "x0": 116.98,
+                        "y0": 428.91,
+                        "x1": 303.46,
+                        "y1": 447.25
+                    }
+                },
+                {
+                    "type": "question",
+                    "text": "2.\t Have you seen the ‘Jaadui Pitara’?",
+                    "bounding_box": {
+                        "x0": 89.98,
+                        "y0": 457.91,
+                        "x1": 356.94,
+                        "y1": 476.25
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 1,
+                    "bounding_box": {
+                        "x0": 396.67,
+                        "y0": 491.16,
+                        "x1": 437.85,
+                        "y1": 524.26
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 5,
+                    "item_count": 6,
+                    "bounding_box": {
+                        "x0": 429.76,
+                        "y0": 499.95,
+                        "x1": 537.02,
+                        "y1": 521.82
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 6,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 485.84,
+                        "y0": 499.95,
+                        "x1": 537.02,
+                        "y1": 521.82
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 7,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 449.01,
+                        "y0": 503.25,
+                        "x1": 537.02,
+                        "y1": 521.82
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 9,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": 521.68,
+                        "y0": 504.55,
+                        "x1": 533.11,
+                        "y1": 507.35
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 8,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 485.92,
+                        "y0": 505.64,
+                        "x1": 521.23,
+                        "y1": 518.4
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 15,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 88.33,
+                        "y0": 563.35,
+                        "x1": 497.62,
+                        "y1": 591.04
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 5,
+                    "bounding_box": {
+                        "x0": 525.51,
+                        "y0": 669.86,
+                        "x1": 616.0,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "text": "The words red, talking and blue tell us more about the \nnaming words beside them.",
+                    "bounding_box": {
+                        "x0": 88.33,
+                        "y0": 681.22,
+                        "x1": 463.47,
+                        "y1": 719.57
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 1,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 370.2,
+                        "y0": 749.69,
+                        "x1": 615.0,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 2,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": 381.45,
+                        "y0": 756.1,
+                        "x1": 848.61,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 3,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": 381.45,
+                        "y0": 764.05,
+                        "x1": 848.61,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 4,
+                    "item_count": 3,
+                    "bounding_box": {
+                        "x0": 392.87,
+                        "y0": 772.57,
+                        "x1": 837.19,
+                        "y1": 805.52
+                    }
+                }
+            ]
+        },
+        {
+            "page_number": 7,
+            "text": "50\nSantoor  │ Class 3\nAdd a word from the help box to the given naming words. \nYou may use the same word more than once. One has \nbeen done for you.\nHelp Box\n\t\nbrown, clean, cold, white, cotton, large\nyellow mango \n\t\nfood\n\t\nkurta\n\t\nwater\n\t\npaper\n\t\ntree\nNow try writing more such words.\n\t\n\t\n\t\nB.\t Look at these words.\n\t\ntoy\t\ntoys\t \t\n\t\nboy\t\nboys\t\nYou have learnt that we add ‘s’ for more than one \nthing. These are called plural words.\nWrite the plural of the given word by adding ‘s’.\ncat\t\n \ncup\t\n \ndoll\t\n \nshop\t  \ntrain\t  \nReprint 2025-26\n",
+            "headings": [],
+            "topics": [
+                [
+                    "words",
+                    4
+                ],
+                [
+                    "word",
+                    3
+                ],
+                [
+                    "you",
+                    3
+                ],
+                [
+                    "more",
+                    3
+                ],
+                [
+                    "add",
+                    2
+                ],
+                [
+                    "help",
+                    2
+                ],
+                [
+                    "box",
+                    2
+                ],
+                [
+                    "given",
+                    2
+                ],
+                [
+                    "than",
+                    2
+                ],
+                [
+                    "one",
+                    2
+                ]
+            ],
+            "tables": [],
+            "elements": [
+                {
+                    "type": "image",
+                    "image_number": 6,
+                    "bounding_box": {
+                        "x0": -7.48,
+                        "y0": -39.53,
+                        "x1": 607.48,
+                        "y1": 830.34
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 21,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": -18.0,
+                        "y0": -18.0,
+                        "x1": 618.0,
+                        "y1": 808.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 22,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": -18.0,
+                        "y0": -18.0,
+                        "x1": 618.0,
+                        "y1": 808.8
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "text": "Add a word from the help box to the given naming words. \nYou may use the same word more than once. One has \nbeen done for you.",
+                    "bounding_box": {
+                        "x0": 62.98,
+                        "y0": 66.53,
+                        "x1": 469.81,
+                        "y1": 126.52
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 1,
+                    "bounding_box": {
+                        "x0": 395.44,
+                        "y0": 159.64,
+                        "x1": 545.7,
+                        "y1": 339.96
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 5,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 90.97,
+                        "y0": 159.77,
+                        "x1": 384.23,
+                        "y1": 190.22
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 20,
+                    "item_count": 7,
+                    "bounding_box": {
+                        "x0": 485.14,
+                        "y0": 174.79,
+                        "x1": 540.72,
+                        "y1": 238.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 23,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 56.58,
+                        "y0": 193.97,
+                        "x1": 527.72,
+                        "y1": 664.08
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 7,
+                    "bounding_box": {
+                        "x0": 57.24,
+                        "y0": 194.3,
+                        "x1": 526.89,
+                        "y1": 663.95
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 6,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 89.98,
+                        "y0": 239.19,
+                        "x1": 177.82,
+                        "y1": 239.19
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 7,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 89.98,
+                        "y0": 268.19,
+                        "x1": 177.82,
+                        "y1": 268.19
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 8,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 89.98,
+                        "y0": 297.19,
+                        "x1": 177.82,
+                        "y1": 297.19
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 9,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 89.98,
+                        "y0": 326.19,
+                        "x1": 177.82,
+                        "y1": 326.19
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 10,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 89.98,
+                        "y0": 355.19,
+                        "x1": 177.82,
+                        "y1": 355.19
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 11,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 89.98,
+                        "y0": 411.19,
+                        "x1": 148.58,
+                        "y1": 411.19
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 12,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 170.98,
+                        "y0": 411.19,
+                        "x1": 229.58,
+                        "y1": 411.19
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 13,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 242.98,
+                        "y0": 411.19,
+                        "x1": 301.58,
+                        "y1": 411.19
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 14,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 314.98,
+                        "y0": 411.19,
+                        "x1": 373.58,
+                        "y1": 411.19
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "text": "You have learnt that we add ‘s’ for more than one \nthing. These are called plural words.",
+                    "bounding_box": {
+                        "x0": 89.98,
+                        "y0": 518.93,
+                        "x1": 469.79,
+                        "y1": 558.91
+                    }
+                },
+                {
+                    "type": "question",
+                    "text": "Write the plural of the given word by adding ‘s’.",
+                    "bounding_box": {
+                        "x0": 89.98,
+                        "y0": 563.94,
+                        "x1": 413.36,
+                        "y1": 583.91
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 3,
+                    "bounding_box": {
+                        "x0": 384.23,
+                        "y0": 594.89,
+                        "x1": 459.81,
+                        "y1": 661.76
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 2,
+                    "bounding_box": {
+                        "x0": 290.72,
+                        "y0": 596.45,
+                        "x1": 366.3,
+                        "y1": 663.32
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 15,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 148.98,
+                        "y0": 607.59,
+                        "x1": 236.82,
+                        "y1": 607.59
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 16,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 146.98,
+                        "y0": 635.15,
+                        "x1": 234.82,
+                        "y1": 635.15
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 4,
+                    "bounding_box": {
+                        "x0": 344.87,
+                        "y0": 650.24,
+                        "x1": 420.45,
+                        "y1": 717.11
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 17,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 148.98,
+                        "y0": 662.71,
+                        "x1": 236.82,
+                        "y1": 662.71
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 5,
+                    "bounding_box": {
+                        "x0": -16.0,
+                        "y0": 669.86,
+                        "x1": 74.49,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 18,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 148.98,
+                        "y0": 690.27,
+                        "x1": 236.82,
+                        "y1": 690.27
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 19,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 148.98,
+                        "y0": 717.83,
+                        "x1": 236.82,
+                        "y1": 717.83
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 1,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": -15.0,
+                        "y0": 749.69,
+                        "x1": 229.8,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 2,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": -248.61,
+                        "y0": 756.1,
+                        "x1": 218.55,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 3,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": -248.61,
+                        "y0": 764.05,
+                        "x1": 218.55,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 4,
+                    "item_count": 3,
+                    "bounding_box": {
+                        "x0": -237.19,
+                        "y0": 772.57,
+                        "x1": 207.13,
+                        "y1": 805.52
+                    }
+                }
+            ]
+        },
+        {
+            "page_number": 8,
+            "text": "51\nSantoor  │ Class 3\nFor some words we add –es to make a plural word.\nWrite the plural of the given word by adding ‘es’.\nbox\t\nboxes \t\nclass\t\nbus\t\npouch\t\nbrush\t\nmango\t\nA.\t Listen to your teacher. Your teacher will recite a \npoem about a top. Then, you repeat along with your \nteacher. \nMy Top\nRed and green,\nYellow and brown, \nMy top goes round and round.\nI play with it every day\nSeeing it go round and round,\nAlong with it, I jump around. \nLet us listen\nLet us listen\nReprint 2025-26\n",
+            "headings": [
+                {
+                    "text": "My Top",
+                    "bounding_box": {
+                        "x0": 226.23,
+                        "y0": 389.67,
+                        "x1": 295.71,
+                        "y1": 415.35
+                    },
+                    "width": 69.48,
+                    "height": 25.69
+                }
+            ],
+            "topics": [
+                [
+                    "round",
+                    4
+                ],
+                [
+                    "listen",
+                    3
+                ],
+                [
+                    "your",
+                    3
+                ],
+                [
+                    "teacher",
+                    3
+                ],
+                [
+                    "top",
+                    3
+                ],
+                [
+                    "class",
+                    2
+                ],
+                [
+                    "plural",
+                    2
+                ],
+                [
+                    "word",
+                    2
+                ],
+                [
+                    "along",
+                    2
+                ],
+                [
+                    "let",
+                    2
+                ]
+            ],
+            "tables": [],
+            "elements": [
+                {
+                    "type": "image",
+                    "image_number": 6,
+                    "bounding_box": {
+                        "x0": -7.48,
+                        "y0": -39.53,
+                        "x1": 607.48,
+                        "y1": 830.34
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 15,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": -18.0,
+                        "y0": -18.0,
+                        "x1": 618.0,
+                        "y1": 808.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 16,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": -18.0,
+                        "y0": -18.0,
+                        "x1": 618.0,
+                        "y1": 808.8
+                    }
+                },
+                {
+                    "type": "question",
+                    "text": "Write the plural of the given word by adding ‘es’.",
+                    "bounding_box": {
+                        "x0": 62.98,
+                        "y0": 95.53,
+                        "x1": 394.48,
+                        "y1": 115.5
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 3,
+                    "bounding_box": {
+                        "x0": 344.49,
+                        "y0": 119.4,
+                        "x1": 472.95,
+                        "y1": 262.01
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 5,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 169.98,
+                        "y0": 162.79,
+                        "x1": 257.82,
+                        "y1": 162.79
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 6,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 169.98,
+                        "y0": 186.39,
+                        "x1": 257.82,
+                        "y1": 186.39
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 17,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 56.58,
+                        "y0": 193.97,
+                        "x1": 527.72,
+                        "y1": 664.08
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 7,
+                    "bounding_box": {
+                        "x0": 57.24,
+                        "y0": 194.3,
+                        "x1": 526.89,
+                        "y1": 663.95
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 7,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 169.98,
+                        "y0": 209.99,
+                        "x1": 257.82,
+                        "y1": 209.99
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 8,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 169.98,
+                        "y0": 233.59,
+                        "x1": 257.82,
+                        "y1": 233.59
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 9,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 169.98,
+                        "y0": 257.19,
+                        "x1": 257.82,
+                        "y1": 257.19
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 4,
+                    "bounding_box": {
+                        "x0": 372.08,
+                        "y0": 274.32,
+                        "x1": 437.36,
+                        "y1": 308.86
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 10,
+                    "item_count": 6,
+                    "bounding_box": {
+                        "x0": 429.76,
+                        "y0": 282.12,
+                        "x1": 537.02,
+                        "y1": 304.0
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 11,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 485.84,
+                        "y0": 282.12,
+                        "x1": 537.02,
+                        "y1": 304.0
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 12,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 449.01,
+                        "y0": 285.43,
+                        "x1": 537.02,
+                        "y1": 304.0
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 14,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": 521.68,
+                        "y0": 286.73,
+                        "x1": 533.11,
+                        "y1": 289.52
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 13,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 485.92,
+                        "y0": 287.81,
+                        "x1": 521.23,
+                        "y1": 300.57
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 1,
+                    "bounding_box": {
+                        "x0": 71.88,
+                        "y0": 372.0,
+                        "x1": 281.07,
+                        "y1": 524.76
+                    }
+                },
+                {
+                    "type": "heading",
+                    "text": "My Top",
+                    "bounding_box": {
+                        "x0": 226.23,
+                        "y0": 389.67,
+                        "x1": 295.71,
+                        "y1": 415.35
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 2,
+                    "bounding_box": {
+                        "x0": 324.48,
+                        "y0": 412.74,
+                        "x1": 577.02,
+                        "y1": 699.4
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 5,
+                    "bounding_box": {
+                        "x0": 525.51,
+                        "y0": 669.86,
+                        "x1": 616.0,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 1,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 370.2,
+                        "y0": 749.69,
+                        "x1": 615.0,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 2,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": 381.45,
+                        "y0": 756.1,
+                        "x1": 848.61,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 3,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": 381.45,
+                        "y0": 764.05,
+                        "x1": 848.61,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 4,
+                    "item_count": 3,
+                    "bounding_box": {
+                        "x0": 392.87,
+                        "y0": 772.57,
+                        "x1": 837.19,
+                        "y1": 805.52
+                    }
+                }
+            ]
+        },
+        {
+            "page_number": 9,
+            "text": "52\nSantoor  │ Class 3\nB.\t Look at the box given. Circle the names of colours \nused in the poem.\nA.\t Look at the pictures. \nThese pictures tell us how a mother bird made a kite \nfor her baby bird.\n\t\nred\t\npink\t\ngreen\t\nblue\n\t\nyellow\t\nwhite\t\nbrown\t\npurple\nLet us write\nLet us write\nReprint 2025-26\n",
+            "headings": [],
+            "topics": [
+                [
+                    "look",
+                    2
+                ],
+                [
+                    "pictures",
+                    2
+                ],
+                [
+                    "bird",
+                    2
+                ],
+                [
+                    "let",
+                    2
+                ],
+                [
+                    "write",
+                    2
+                ],
+                [
+                    "santoor",
+                    1
+                ],
+                [
+                    "class",
+                    1
+                ],
+                [
+                    "box",
+                    1
+                ],
+                [
+                    "given",
+                    1
+                ],
+                [
+                    "circle",
+                    1
+                ]
+            ],
+            "tables": [
+                {
+                    "table_number": 1,
+                    "data": [
+                        [
+                            null,
+                            "red pink green blue\nyellow white brown purple"
+                        ],
+                        [
+                            "Let us writ\nA. Look at the pictures.\nThese pictures tell us how a mother bird made a kite\nfor her baby bird.",
+                            ""
+                        ]
+                    ],
+                    "bounding_box": {
+                        "x0": 56.58,
+                        "y0": 123.85,
+                        "x1": 536.63,
+                        "y1": 664.08
+                    }
+                }
+            ],
+            "elements": [
+                {
+                    "type": "image",
+                    "image_number": 9,
+                    "bounding_box": {
+                        "x0": -7.48,
+                        "y0": -39.53,
+                        "x1": 607.48,
+                        "y1": 830.34
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 17,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": -18.0,
+                        "y0": -18.0,
+                        "x1": 618.0,
+                        "y1": 808.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 18,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": -18.0,
+                        "y0": -18.0,
+                        "x1": 618.0,
+                        "y1": 808.8
+                    }
+                },
+                {
+                    "type": "table",
+                    "table_number": 1,
+                    "data": [
+                        [
+                            null,
+                            "red pink green blue\nyellow white brown purple"
+                        ],
+                        [
+                            "Let us writ\nA. Look at the pictures.\nThese pictures tell us how a mother bird made a kite\nfor her baby bird.",
+                            ""
+                        ]
+                    ],
+                    "bounding_box": {
+                        "x0": 56.58,
+                        "y0": 123.85,
+                        "x1": 536.63,
+                        "y1": 664.08
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 11,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 116.41,
+                        "y0": 123.85,
+                        "x1": 536.65,
+                        "y1": 225.34
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 19,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 56.58,
+                        "y0": 193.97,
+                        "x1": 527.72,
+                        "y1": 664.08
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 10,
+                    "bounding_box": {
+                        "x0": 57.24,
+                        "y0": 194.3,
+                        "x1": 526.89,
+                        "y1": 663.95
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 7,
+                    "bounding_box": {
+                        "x0": 402.37,
+                        "y0": 248.8,
+                        "x1": 435.82,
+                        "y1": 283.58
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 12,
+                    "item_count": 6,
+                    "bounding_box": {
+                        "x0": 429.76,
+                        "y0": 257.71,
+                        "x1": 537.02,
+                        "y1": 279.59
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 13,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 485.84,
+                        "y0": 257.71,
+                        "x1": 537.02,
+                        "y1": 279.59
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 14,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 449.01,
+                        "y0": 261.02,
+                        "x1": 537.02,
+                        "y1": 279.59
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 16,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": 521.68,
+                        "y0": 262.32,
+                        "x1": 533.11,
+                        "y1": 265.11
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 15,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 485.92,
+                        "y0": 263.4,
+                        "x1": 521.23,
+                        "y1": 276.16
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "text": "These pictures tell us how a mother bird made a kite \nfor her baby bird.",
+                    "bounding_box": {
+                        "x0": 89.98,
+                        "y0": 324.35,
+                        "x1": 463.48,
+                        "y1": 362.69
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 1,
+                    "bounding_box": {
+                        "x0": 62.88,
+                        "y0": 375.82,
+                        "x1": 208.4,
+                        "y1": 533.07
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 3,
+                    "bounding_box": {
+                        "x0": 227.28,
+                        "y0": 375.82,
+                        "x1": 372.73,
+                        "y1": 533.09
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 5,
+                    "bounding_box": {
+                        "x0": 391.78,
+                        "y0": 375.85,
+                        "x1": 537.04,
+                        "y1": 533.09
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 5,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 64.01,
+                        "y0": 376.91,
+                        "x1": 207.25,
+                        "y1": 532.03
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 7,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 228.4,
+                        "y0": 376.91,
+                        "x1": 371.64,
+                        "y1": 532.03
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 9,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 392.79,
+                        "y0": 376.91,
+                        "x1": 536.03,
+                        "y1": 532.03
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 4,
+                    "bounding_box": {
+                        "x0": 227.4,
+                        "y0": 562.13,
+                        "x1": 372.65,
+                        "y1": 719.39
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 2,
+                    "bounding_box": {
+                        "x0": 63.0,
+                        "y0": 562.17,
+                        "x1": 208.28,
+                        "y1": 719.43
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 6,
+                    "bounding_box": {
+                        "x0": 391.76,
+                        "y0": 562.18,
+                        "x1": 537.08,
+                        "y1": 719.45
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 6,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 64.01,
+                        "y0": 563.24,
+                        "x1": 207.25,
+                        "y1": 718.36
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 8,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 228.4,
+                        "y0": 563.24,
+                        "x1": 371.64,
+                        "y1": 718.36
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 10,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 392.79,
+                        "y0": 563.24,
+                        "x1": 536.03,
+                        "y1": 718.36
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 8,
+                    "bounding_box": {
+                        "x0": -16.0,
+                        "y0": 669.86,
+                        "x1": 74.49,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 1,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": -15.0,
+                        "y0": 749.69,
+                        "x1": 229.8,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 2,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": -248.61,
+                        "y0": 756.1,
+                        "x1": 218.55,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 3,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": -248.61,
+                        "y0": 764.05,
+                        "x1": 218.55,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 4,
+                    "item_count": 3,
+                    "bounding_box": {
+                        "x0": -237.19,
+                        "y0": 772.57,
+                        "x1": 207.13,
+                        "y1": 805.52
+                    }
+                }
+            ]
+        },
+        {
+            "page_number": 10,
+            "text": "53\nSantoor  │ Class 3\nUse the following clues to complete the given sentences.\nlittle chick – kite – onion peel – thread from spider web –\ngum from a tree – leaf blade from the palm tree \nMaking a Kite\nA baby bird wanted to fly a kite.\nThe mother bird brought \n from onions.\nThen, she \n.\nNext, the mother bird \n.\nFinally, \n.\nB.\t Draw a bird using the letter ‘B’ as shown in the \npicture. \nYou may follow the instructions: \n1.\t Write the capital letter ‘B’.\n2.\t Draw a sleeping v (>) as shown in the picture.\n3.\t Now draw a circle in the upper loop of B and put a \n‘ . ’ in it.\n4.\t Now draw a w in the lower loop of B.\n5.\t Next draw a tail as shown in the picture.\n6.\t Lastly, draw feet and a small branch for the bird to \nsit on.\n7.\t Now, colour the bird!\nReprint 2025-26\n",
+            "headings": [
+                {
+                    "text": "Making a Kite",
+                    "bounding_box": {
+                        "x0": 195.64,
+                        "y0": 165.21,
+                        "x1": 326.32,
+                        "y1": 190.9
+                    },
+                    "width": 130.68,
+                    "height": 25.69
+                }
+            ],
+            "topics": [
+                [
+                    "bird",
+                    6
+                ],
+                [
+                    "draw",
+                    6
+                ],
+                [
+                    "kite",
+                    3
+                ],
+                [
+                    "shown",
+                    3
+                ],
+                [
+                    "picture",
+                    3
+                ],
+                [
+                    "now",
+                    3
+                ],
+                [
+                    "tree",
+                    2
+                ],
+                [
+                    "mother",
+                    2
+                ],
+                [
+                    "next",
+                    2
+                ],
+                [
+                    "letter",
+                    2
+                ]
+            ],
+            "tables": [],
+            "elements": [
+                {
+                    "type": "image",
+                    "image_number": 3,
+                    "bounding_box": {
+                        "x0": -7.48,
+                        "y0": -39.53,
+                        "x1": 607.48,
+                        "y1": 830.34
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 10,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": -18.0,
+                        "y0": -18.0,
+                        "x1": 618.0,
+                        "y1": 808.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 11,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": -18.0,
+                        "y0": -18.0,
+                        "x1": 618.0,
+                        "y1": 808.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 5,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 73.55,
+                        "y0": 97.6,
+                        "x1": 492.05,
+                        "y1": 150.39
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "text": "little chick – kite – onion peel – thread from spider web –",
+                    "bounding_box": {
+                        "x0": 91.2,
+                        "y0": 101.94,
+                        "x1": 477.01,
+                        "y1": 120.28
+                    }
+                },
+                {
+                    "type": "heading",
+                    "text": "Making a Kite",
+                    "bounding_box": {
+                        "x0": 195.64,
+                        "y0": 165.21,
+                        "x1": 326.32,
+                        "y1": 190.9
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 12,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 56.58,
+                        "y0": 193.97,
+                        "x1": 527.72,
+                        "y1": 664.08
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 4,
+                    "bounding_box": {
+                        "x0": 57.24,
+                        "y0": 194.3,
+                        "x1": 526.89,
+                        "y1": 663.95
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 6,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 237.14,
+                        "y0": 247.53,
+                        "x1": 352.18,
+                        "y1": 247.53
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 1,
+                    "bounding_box": {
+                        "x0": 391.58,
+                        "y0": 252.5,
+                        "x1": 567.54,
+                        "y1": 452.0
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 7,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 134.66,
+                        "y0": 276.53,
+                        "x1": 298.1,
+                        "y1": 276.53
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 8,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 214.72,
+                        "y0": 305.53,
+                        "x1": 378.16,
+                        "y1": 305.53
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 9,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 118.41,
+                        "y0": 334.53,
+                        "x1": 281.85,
+                        "y1": 334.53
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "text": "B.\t Draw a bird using the letter ‘B’ as shown in the",
+                    "bounding_box": {
+                        "x0": 62.98,
+                        "y0": 421.27,
+                        "x1": 463.71,
+                        "y1": 441.25
+                    }
+                },
+                {
+                    "type": "question",
+                    "text": "1.\t Write the capital letter ‘B’.",
+                    "bounding_box": {
+                        "x0": 89.98,
+                        "y0": 501.27,
+                        "x1": 295.32,
+                        "y1": 521.25
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 2,
+                    "bounding_box": {
+                        "x0": 525.51,
+                        "y0": 669.86,
+                        "x1": 616.0,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 1,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 370.2,
+                        "y0": 749.69,
+                        "x1": 615.0,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 2,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": 381.45,
+                        "y0": 756.1,
+                        "x1": 848.61,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 3,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": 381.45,
+                        "y0": 764.05,
+                        "x1": 848.61,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 4,
+                    "item_count": 3,
+                    "bounding_box": {
+                        "x0": 392.87,
+                        "y0": 772.57,
+                        "x1": 837.19,
+                        "y1": 805.52
+                    }
+                }
+            ]
+        },
+        {
+            "page_number": 11,
+            "text": "54\nSantoor  │ Class 3\nC.\t Now, draw a picture like this one using any other \nletter of the alphabet.  \n1\n2\n3\n4\n5\n6\n7\nReprint 2025-26\n",
+            "headings": [],
+            "topics": [
+                [
+                    "santoor",
+                    1
+                ],
+                [
+                    "class",
+                    1
+                ],
+                [
+                    "now",
+                    1
+                ],
+                [
+                    "draw",
+                    1
+                ],
+                [
+                    "picture",
+                    1
+                ],
+                [
+                    "like",
+                    1
+                ],
+                [
+                    "one",
+                    1
+                ],
+                [
+                    "any",
+                    1
+                ],
+                [
+                    "other",
+                    1
+                ],
+                [
+                    "letter",
+                    1
+                ]
+            ],
+            "tables": [],
+            "elements": [
+                {
+                    "type": "image",
+                    "image_number": 9,
+                    "bounding_box": {
+                        "x0": -7.48,
+                        "y0": -39.53,
+                        "x1": 607.48,
+                        "y1": 830.34
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 13,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": -18.0,
+                        "y0": -18.0,
+                        "x1": 618.0,
+                        "y1": 808.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 14,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": -18.0,
+                        "y0": -18.0,
+                        "x1": 618.0,
+                        "y1": 808.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 6,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": 120.5,
+                        "y0": 71.4,
+                        "x1": 146.42,
+                        "y1": 97.32
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 7,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": 233.94,
+                        "y0": 71.4,
+                        "x1": 259.86,
+                        "y1": 97.32
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 8,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": 359.42,
+                        "y0": 71.4,
+                        "x1": 385.34,
+                        "y1": 97.32
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 9,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": 486.47,
+                        "y0": 71.4,
+                        "x1": 512.39,
+                        "y1": 97.32
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 1,
+                    "bounding_box": {
+                        "x0": 113.21,
+                        "y0": 111.0,
+                        "x1": 159.38,
+                        "y1": 197.05
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 2,
+                    "bounding_box": {
+                        "x0": 228.14,
+                        "y0": 111.0,
+                        "x1": 282.36,
+                        "y1": 197.25
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 3,
+                    "bounding_box": {
+                        "x0": 356.06,
+                        "y0": 111.0,
+                        "x1": 408.84,
+                        "y1": 196.85
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 4,
+                    "bounding_box": {
+                        "x0": 483.99,
+                        "y0": 111.0,
+                        "x1": 537.02,
+                        "y1": 197.25
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 15,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 56.58,
+                        "y0": 193.97,
+                        "x1": 527.72,
+                        "y1": 664.08
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 10,
+                    "bounding_box": {
+                        "x0": 57.24,
+                        "y0": 194.3,
+                        "x1": 526.89,
+                        "y1": 663.95
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 10,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": 146.37,
+                        "y0": 215.72,
+                        "x1": 172.29,
+                        "y1": 241.64
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 11,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": 313.94,
+                        "y0": 215.72,
+                        "x1": 339.86,
+                        "y1": 241.64
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 12,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": 479.39,
+                        "y0": 215.72,
+                        "x1": 505.31,
+                        "y1": 241.64
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 7,
+                    "bounding_box": {
+                        "x0": 437.47,
+                        "y0": 246.12,
+                        "x1": 537.02,
+                        "y1": 378.0
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 5,
+                    "bounding_box": {
+                        "x0": 107.21,
+                        "y0": 251.0,
+                        "x1": 199.06,
+                        "y1": 349.05
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 6,
+                    "bounding_box": {
+                        "x0": 268.34,
+                        "y0": 251.0,
+                        "x1": 369.47,
+                        "y1": 382.36
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 5,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 63.35,
+                        "y0": 450.5,
+                        "x1": 536.65,
+                        "y1": 719.03
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 8,
+                    "bounding_box": {
+                        "x0": -16.0,
+                        "y0": 669.86,
+                        "x1": 74.49,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 1,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": -15.0,
+                        "y0": 749.69,
+                        "x1": 229.8,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 2,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": -248.61,
+                        "y0": 756.1,
+                        "x1": 218.55,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 3,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": -248.61,
+                        "y0": 764.05,
+                        "x1": 218.55,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 4,
+                    "item_count": 3,
+                    "bounding_box": {
+                        "x0": -237.19,
+                        "y0": 772.57,
+                        "x1": 207.13,
+                        "y1": 805.52
+                    }
+                }
+            ]
+        },
+        {
+            "page_number": 12,
+            "text": "55\nSantoor  │ Class 3\n7.\tAttach a handle \nwith a piece of jute \nor cardboard on the \nback.\n8.\tYour puppet is \nready.\n4.\tDraw outlines \nof eyes, nose, \nmouth, etc.\n5.\tColour the parts \nof the face. \n6.\tUse woolen thread \nfor attaching hair. \n1.\tTake a jute sheet or \na cardboard sheet.\n2.\tDraw or trace a \nhuman face.\n3.\tCut the outline \nof the face.\n     \nLet’s make jute or cardboard puppets.\nMaterial required\nJute sheets or cardboard sheets, acrylic or watercolours, \npencil, woollen thread and glue.\nSteps\nLet us do\nLet us do\nReprint 2025-26\n",
+            "headings": [],
+            "topics": [
+                [
+                    "jute",
+                    4
+                ],
+                [
+                    "cardboard",
+                    4
+                ],
+                [
+                    "face",
+                    3
+                ],
+                [
+                    "let",
+                    3
+                ],
+                [
+                    "draw",
+                    2
+                ],
+                [
+                    "thread",
+                    2
+                ],
+                [
+                    "sheet",
+                    2
+                ],
+                [
+                    "sheets",
+                    2
+                ],
+                [
+                    "santoor",
+                    1
+                ],
+                [
+                    "class",
+                    1
+                ]
+            ],
+            "tables": [],
+            "elements": [
+                {
+                    "type": "image",
+                    "image_number": 12,
+                    "bounding_box": {
+                        "x0": -7.48,
+                        "y0": -39.53,
+                        "x1": 607.48,
+                        "y1": 830.34
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 11,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": -18.0,
+                        "y0": -18.0,
+                        "x1": 618.0,
+                        "y1": 808.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 12,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": -18.0,
+                        "y0": -18.0,
+                        "x1": 618.0,
+                        "y1": 808.8
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 1,
+                    "bounding_box": {
+                        "x0": 415.88,
+                        "y0": 71.4,
+                        "x1": 452.31,
+                        "y1": 108.57
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 5,
+                    "item_count": 6,
+                    "bounding_box": {
+                        "x0": 429.76,
+                        "y0": 81.57,
+                        "x1": 537.02,
+                        "y1": 103.45
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 6,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 485.84,
+                        "y0": 81.57,
+                        "x1": 537.02,
+                        "y1": 103.45
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 7,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 449.01,
+                        "y0": 84.88,
+                        "x1": 537.02,
+                        "y1": 103.45
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 9,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": 521.68,
+                        "y0": 86.18,
+                        "x1": 533.11,
+                        "y1": 88.97
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 8,
+                    "item_count": 8,
+                    "bounding_box": {
+                        "x0": 485.92,
+                        "y0": 87.26,
+                        "x1": 521.23,
+                        "y1": 100.02
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "text": "Jute sheets or cardboard sheets, acrylic or watercolours, \npencil, woollen thread and glue.",
+                    "bounding_box": {
+                        "x0": 62.98,
+                        "y0": 171.94,
+                        "x1": 448.25,
+                        "y1": 206.29
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 13,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 56.58,
+                        "y0": 193.97,
+                        "x1": 527.72,
+                        "y1": 664.08
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 13,
+                    "bounding_box": {
+                        "x0": 57.24,
+                        "y0": 194.3,
+                        "x1": 526.89,
+                        "y1": 663.95
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 3,
+                    "bounding_box": {
+                        "x0": 269.27,
+                        "y0": 248.16,
+                        "x1": 348.92,
+                        "y1": 317.27
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 2,
+                    "bounding_box": {
+                        "x0": 101.2,
+                        "y0": 250.84,
+                        "x1": 180.03,
+                        "y1": 319.24
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 4,
+                    "bounding_box": {
+                        "x0": 436.72,
+                        "y0": 253.0,
+                        "x1": 513.29,
+                        "y1": 312.57
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 7,
+                    "bounding_box": {
+                        "x0": 420.14,
+                        "y0": 375.03,
+                        "x1": 527.33,
+                        "y1": 477.22
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 6,
+                    "bounding_box": {
+                        "x0": 274.0,
+                        "y0": 387.33,
+                        "x1": 365.55,
+                        "y1": 458.55
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 5,
+                    "bounding_box": {
+                        "x0": 96.16,
+                        "y0": 388.92,
+                        "x1": 187.37,
+                        "y1": 459.88
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 8,
+                    "bounding_box": {
+                        "x0": 86.08,
+                        "y0": 517.64,
+                        "x1": 220.18,
+                        "y1": 627.98
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 9,
+                    "bounding_box": {
+                        "x0": 273.28,
+                        "y0": 519.08,
+                        "x1": 356.59,
+                        "y1": 606.55
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 10,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": 414.18,
+                        "y0": 526.88,
+                        "x1": 533.7,
+                        "y1": 646.4
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 10,
+                    "bounding_box": {
+                        "x0": 414.73,
+                        "y0": 527.45,
+                        "x1": 533.7,
+                        "y1": 652.35
+                    }
+                },
+                {
+                    "type": "image",
+                    "image_number": 11,
+                    "bounding_box": {
+                        "x0": 525.51,
+                        "y0": 669.86,
+                        "x1": 616.0,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 1,
+                    "item_count": 1,
+                    "bounding_box": {
+                        "x0": 370.2,
+                        "y0": 749.69,
+                        "x1": 615.0,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 2,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": 381.45,
+                        "y0": 756.1,
+                        "x1": 848.61,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 3,
+                    "item_count": 4,
+                    "bounding_box": {
+                        "x0": 381.45,
+                        "y0": 764.05,
+                        "x1": 848.61,
+                        "y1": 805.8
+                    }
+                },
+                {
+                    "type": "drawing",
+                    "drawing_number": 4,
+                    "item_count": 3,
+                    "bounding_box": {
+                        "x0": 392.87,
+                        "y0": 772.57,
+                        "x1": 837.19,
+                        "y1": 805.52
+                    }
+                }
+            ]
+        }
+    ]
+}
