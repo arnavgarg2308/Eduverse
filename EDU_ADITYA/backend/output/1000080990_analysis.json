@@ -1,0 +1,44 @@
+{
+    "file_name": "c15a2132-46d4-4733-9727-257cfabfec81_1000080990.pdf",
+    "page_count": 2,
+    "pages": [
+        {
+            "page_number": 1,
+            "text": "",
+            "headings": [],
+            "topics": [],
+            "tables": [],
+            "elements": [
+                {
+                    "type": "image",
+                    "image_number": 1,
+                    "bounding_box": {
+                        "x0": 0.0,
+                        "y0": 24.33,
+                        "x1": 595.0,
+                        "y1": 817.67
+                    }
+                }
+            ]
+        },
+        {
+            "page_number": 2,
+            "text": "",
+            "headings": [],
+            "topics": [],
+            "tables": [],
+            "elements": [
+                {
+                    "type": "image",
+                    "image_number": 1,
+                    "bounding_box": {
+                        "x0": 0.0,
+                        "y0": 24.33,
+                        "x1": 595.0,
+                        "y1": 817.67
+                    }
+                }
+            ]
+        }
+    ]
+}

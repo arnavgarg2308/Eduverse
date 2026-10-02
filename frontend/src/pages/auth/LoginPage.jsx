@@ -1,5 +1,6 @@
 import { useState } from 'react'
 import { Link, useNavigate } from 'react-router-dom'
+import api from '../../api/api'
 
 function LoginPage() {
   const navigate = useNavigate()
@@ -10,13 +11,25 @@ function LoginPage() {
   const [password, setPassword] = useState('')
   const [rememberMe, setRememberMe] = useState(false)
 
-  const handleLogin = (e) => {
-    e.preventDefault()
+  const [error, setError] = useState('')
 
-    if (role === 'teacher') {
-      navigate('/teacher/dashboard')
-    } else {
-      navigate('/student/dashboard')
+  const handleLogin = async (e) => {
+    e.preventDefault()
+    setError('')
+
+    try {
+      const response = await api.post('/api/auth/login', { email, password })
+      const { access_token, role: userRole } = response.data
+
+      localStorage.setItem('access_token', access_token)
+
+      if (userRole === 'teacher') {
+        navigate('/teacher/dashboard')
+      } else {
+        navigate('/student/dashboard')
+      }
+    } catch (err) {
+      setError(err.response?.data?.detail || 'Login failed. Please try again.')
     }
   }
 
@@ -332,6 +345,13 @@ function LoginPage() {
 
               </div>
 
+
+              {/* Error */}
+              {error && (
+                <div className="mt-4 rounded-xl border border-red-200 bg-red-50 p-3 text-sm text-red-600">
+                  {error}
+                </div>
+              )}
 
               {/* Login Button */}
               <button

@@ -27,8 +27,10 @@ class EduMorphEngine:
         self,
         content: str,
         topic: str,
-        education_level: str = "Grade 9",
-        number_of_questions: int = 3
+        education_level: str = "General",
+        number_of_questions: int = 3,
+        headings: list = None,
+        content_start: int = 0,
     ) -> dict:
 
         if not content or not content.strip():
@@ -50,7 +52,9 @@ class EduMorphEngine:
         story = self.story_generator.generate(
             text=content,
             topic=topic,
-            education_level=education_level
+            education_level=education_level,
+            headings=headings or [],
+            content_start=content_start,
         )
 
         difficulty = self.difficulty_predictor.predict(

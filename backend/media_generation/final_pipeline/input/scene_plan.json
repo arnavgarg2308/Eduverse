@@ -1,0 +1,63 @@
+{
+  "title": "Science",
+  "education_level": "Class 6",
+  "language": "en",
+  "scenes": [
+    {
+      "scene_number": 1,
+      "title": "Science",
+      "narration": "You are an expert teacher for Class 6 students",
+      "duration": 8,
+      "visual_type": "title_card",
+      "visual_description": "Show 'You are an expert teacher for Class 6 students' as a title_card with labels: expert, teacher, Class, students.",
+      "objects": [
+        "You",
+        "Class"
+      ],
+      "labels": [
+        "expert",
+        "teacher",
+        "Class",
+        "students"
+      ],
+      "animation": "fade_in",
+      "equations": [],
+      "keywords": [
+        "expert",
+        "teacher",
+        "Class",
+        "students"
+      ],
+      "language": "en"
+    },
+    {
+      "scene_number": 2,
+      "title": "Read the content below and write 4 to 10 short learning poin",
+      "narration": "Read the content below and write 4 to 10 short learning points separated by newlines",
+      "duration": 10,
+      "visual_type": "bullet_explanation",
+      "visual_description": "Show 'Read the content below and write 4 to 10 short learning poin' as a bullet_explanation with labels: Read, content, below, write, short.",
+      "objects": [
+        "Read"
+      ],
+      "labels": [
+        "Read",
+        "content",
+        "below",
+        "write",
+        "short"
+      ],
+      "animation": "bullet_appear",
+      "equations": [],
+      "keywords": [
+        "Read",
+        "content",
+        "below",
+        "write",
+        "short",
+        "learning"
+      ],
+      "language": "en"
+    }
+  ]
+}

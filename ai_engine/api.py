@@ -20,19 +20,20 @@ engine = EduMorphEngine()
 class EducationalRequest(BaseModel):
     content: str
     topic: str = "General"
-    education_level: str = "Grade 9"
+    education_level: str = "General"
     number_of_questions: int = 3
+    headings: list = []
+    content_start: int = 0
 
 class DocumentRequest(BaseModel):
     document: dict
     topic: str = "General"
-    education_level: str = "Grade 9"
+    education_level: str = "General"
     number_of_questions: int = 3
 
 #class RAGRequest(BaseModel):
   #  chunks: list[str]
    # question: str
-   # education_level: str = "Grade 9"
    # top_k: int = 3
 
 
@@ -97,6 +98,8 @@ def process_content(request: EducationalRequest):
             topic=request.topic,
             education_level=request.education_level,
             number_of_questions=request.number_of_questions,
+            headings=request.headings,
+            content_start=request.content_start,
         )
 
         return {

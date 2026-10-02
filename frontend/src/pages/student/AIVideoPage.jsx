@@ -23,47 +23,58 @@ function AIVideoPage() {
     setVideoUrl(null)
     setError('')
 
+    const token = localStorage.getItem('access_token')
+    const authHeaders = token ? { Authorization: `Bearer ${token}` } : {}
+
     try {
+      // STEP A: Upload PDF → extract text → AI analysis → save in MongoDB
       const formData = new FormData()
       formData.append('file', file)
 
-      const response = await fetch('http://127.0.0.1:8001/analyze', {
+      const uploadResponse = await fetch('http://127.0.0.1:8001/api/documents/upload', {
         method: 'POST',
+        headers: authHeaders,
         body: formData,
       })
 
-      if (!response.ok) {
-        const errorData = await response.json()
-
-        throw new Error(
-          errorData.detail || 'Failed to analyze and generate video'
-        )
+      if (!uploadResponse.ok) {
+        const err = await uploadResponse.json()
+        throw new Error(err.detail || 'PDF upload failed')
       }
 
-      const result = await response.json()
+      const uploadResult = await uploadResponse.json()
+      console.log('Upload result:', uploadResult)
 
-      console.log('EduMorph Analysis Result:', result)
+      const documentId = uploadResult.document_id
+      if (!documentId) throw new Error('No document_id returned from upload')
+
+      // STEP B: Generate video from the saved document
+      const videoResponse = await fetch(
+        `http://127.0.0.1:8001/api/videos/generate/${documentId}`,
+        {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json', ...authHeaders },
+        }
+      )
+
+      if (!videoResponse.ok) {
+        const err = await videoResponse.json()
+        throw new Error(err.detail || 'Video generation failed')
+      }
+
+      const result = await videoResponse.json()
+      console.log('Video generation result:', result)
 
       setAnalysisResult(result)
       setGenerated(true)
 
-      // Backend se new video URL lo
       if (result.video?.video_url) {
-        // IMPORTANT:
-        // Timestamp browser ko purani cached video use karne se rokega
-        const freshVideoUrl =
-          `${result.video.video_url}?v=${Date.now()}`
-
+        const freshVideoUrl = `${result.video.video_url}?v=${Date.now()}`
         console.log('Fresh Video URL:', freshVideoUrl)
-
         setVideoUrl(freshVideoUrl)
-
-        // Video element ko completely recreate karo
         setVideoKey(Date.now())
       } else {
-        throw new Error(
-          'Video generated but video URL was not received.'
-        )
+        throw new Error('Video generated but video URL was not received.')
       }
 
     } catch (err) {

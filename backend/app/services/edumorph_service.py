@@ -1,25 +1,27 @@
 import httpx
 
-EDUMORPH_URL = "http://localhost:8001/analyze"
+AI_ENGINE_URL = "http://127.0.0.1:8002/process"
 
 
-async def send_pdf_to_edumorph(
-    filename: str,
-    file_data: bytes
+async def send_text_to_edumorph(
+    text: str,
+    topic: str = "General",
+    education_level: str = "General",
+    number_of_questions: int = 3,
+    headings: list = None,
+    content_start: int = 0,
 ):
-    async with httpx.AsyncClient(timeout=120.0) as client:
-
+    async with httpx.AsyncClient(timeout=300.0) as client:
         response = await client.post(
-            EDUMORPH_URL,
-            files={
-                "file": (
-                    filename,
-                    file_data,
-                    "application/pdf"
-                )
+            AI_ENGINE_URL,
+            json={
+                "content": text,
+                "topic": topic,
+                "education_level": education_level,
+                "number_of_questions": number_of_questions,
+                "headings": headings or [],
+                "content_start": content_start,
             }
         )
-
         response.raise_for_status()
-
         return response.json()

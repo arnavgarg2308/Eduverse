@@ -92,25 +92,18 @@ def render_visual(scene):
 
     scene_number = scene["scene_number"]
 
-    title = scene.get(
-        "title",
-        f"Scene {scene_number}"
-    )
-
-    description = scene.get(
-        "visual_description",
-        scene.get("narration", "")
-    )
-
     print(f"\n[2/4] Rendering visual for Scene {scene_number}...")
 
+    import os, json as _json
     env = dict()
-
-    import os
     env.update(os.environ)
 
-    env["EDU_TITLE"] = title
-    env["EDU_DESCRIPTION"] = description
+    # Pass the entire scene as JSON so the renderer can use every field
+    env["EDU_SCENE_JSON"] = _json.dumps(scene, ensure_ascii=False)
+
+    # Legacy vars kept for safety
+    env["EDU_TITLE"] = scene.get("title", f"Scene {scene_number}")
+    env["EDU_DESCRIPTION"] = scene.get("visual_description", scene.get("narration", ""))
 
     output_dir = VIDEO_DIR / f"scene_{scene_number:03d}"
 

@@ -5,7 +5,7 @@ from fastapi import (
     UploadFile,
     File
 )
-from app.services.edumorph_service import send_pdf_to_edumorph
+from app.services.edumorph_service import send_text_to_edumorph
 from bson import ObjectId
 from datetime import datetime
 
@@ -21,7 +21,7 @@ from app.schemas.document import (
     DocumentUpdate
 )
 
-from app.services.pdf_service import extract_text_from_pdf
+from app.services.pdf_service import extract_text_from_pdf, analyze_pdf_metadata
 
 
 router = APIRouter(
@@ -49,19 +49,7 @@ async def upload_pdf(
 
     # Read PDF file
     file_data = await file.read()
-    try:
-      edumorph_analysis = await send_pdf_to_edumorph(
-        filename=file.filename,
-        file_data=file_data
-    )
 
-    except Exception as e:
-       raise HTTPException(
-        status_code=500,
-        detail=f"EduMorph analysis failed: {str(e)}"
-         )
-
-    # Check empty file
     if not file_data:
         raise HTTPException(
             status_code=400,
@@ -70,14 +58,43 @@ async def upload_pdf(
 
     # Extract text from PDF
     try:
-        extracted_text = extract_text_from_pdf(
-            file_data
+        extracted_text = extract_text_from_pdf(file_data)
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+
+    if not extracted_text.strip():
+        raise HTTPException(
+            status_code=400,
+            detail="No text could be extracted from the PDF"
         )
 
+    # Analyze PDF to detect subject, language, education level, chapters
+    pdf_meta = analyze_pdf_metadata(extracted_text)
+    detected_topic = pdf_meta["subject"].replace("_", " ").title()
+    detected_level = pdf_meta["education_level"] or "General"
+
+    print(f"\n[UPLOAD] filename       : {file.filename}")
+    print(f"[UPLOAD] text_length    : {len(extracted_text)}")
+    print(f"[UPLOAD] language       : {pdf_meta['language']}")
+    print(f"[UPLOAD] subject        : {pdf_meta['subject']}")
+    print(f"[UPLOAD] education_level: {detected_level}")
+    print(f"[UPLOAD] headings found : {len(pdf_meta['headings'])}")
+    if pdf_meta['headings']:
+        print(f"[UPLOAD] first headings : {pdf_meta['headings'][:5]}")
+
+    # Send extracted text to AI engine on port 8002
+    try:
+        edumorph_analysis = await send_text_to_edumorph(
+            extracted_text,
+            topic=detected_topic,
+            education_level=detected_level,
+            headings=pdf_meta["headings"],
+            content_start=pdf_meta["content_start"],
+        )
     except Exception as e:
         raise HTTPException(
             status_code=500,
-            detail=str(e)
+            detail=f"AI engine (8002) failed: {str(e)}"
         )
 
     # Store original PDF in GridFS
