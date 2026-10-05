@@ -140,7 +140,9 @@ _SUBJECT_KEYWORDS = {
     ],
     "geography": [
         "continent", "ocean", "climate", "latitude", "longitude",
-        "mountain", "river", "population", "map", "region",
+        "mountain", "river", "population",
+        # NOTE: "map" and "region" intentionally removed — too ambiguous
+        # (e.g. "geo-location mapping", "regional languages" would false-match)
         "भूगोल", "महाद्वीप", "जलवायु", "पर्वत", "नदी",
     ],
     "hindi_literature": [
@@ -152,6 +154,18 @@ _SUBJECT_KEYWORDS = {
         "algorithm", "program", "software", "hardware", "network",
         "database", "artificial intelligence", "machine learning",
         "कंप्यूटर", "प्रोग्राम", "सॉफ्टवेयर",
+    ],
+    # Tech/startup/project documents (hackathons, proposals, pitches)
+    # Use multi-word and highly specific phrases — avoid single generic tokens
+    # like "app", "ai", "cloud" that appear in any modern textbook.
+    "technology": [
+        "tech stack", "frontend:", "backend:", "rest api", "microservice",
+        "mobile-first", "mvp", "prototype", "scalable cloud",
+        "business model", "problem statement", "proposed solution",
+        "feasibility", "viability", "stakeholder",
+        "biosecurity", "livestock", "pig farm", "poultry farm",
+        "smart portal", "digital portal", "hackathon", "idea submission",
+        "iot sensor", "blockchain", "react", "node.js", "mongodb", "tensorflow",
     ],
     "civics": [
         "constitution", "democracy", "government", "parliament",
@@ -326,12 +340,13 @@ def _find_content_start(text: str) -> int:
     1. Spaced-letter CHAPTER pattern (NCERT-style) — use end of last TOC entry
     2. Plain 'Chapter N' heading
     3. Hindi chapter heading
-    4. Fallback: skip first 2000 chars if text is long
+    4. Fallback: skip first 2000 chars ONLY for long documents (>10000 chars).
+       For short documents (<= 10000 chars) skip at most 20% to avoid
+       cutting into actual content (e.g. a 4000-char pitch deck).
     """
     # Strategy 1: spaced-letter CHAPTER (NCERT)
     _, last_toc_end = _extract_spaced_chapter_headings(text)
     if last_toc_end > 0:
-        # Skip past the page number that follows the last TOC title
         tail = text[last_toc_end:last_toc_end + 50]
         extra = re.match(r'[\s\d\-–]+', tail)
         skip = extra.end() if extra else 0
@@ -344,10 +359,10 @@ def _find_content_start(text: str) -> int:
         if m:
             return m.start()
 
-    # Fallback
-    if len(text) > 4000:
+    # Fallback: cap the skip at 20% of text length for short docs
+    if len(text) > 10000:
         return 2000
-    return 0
+    return min(500, len(text) // 5)
 
 
 def analyze_pdf_metadata(text: str) -> dict:
@@ -373,7 +388,20 @@ def analyze_pdf_metadata(text: str) -> dict:
         if score > 0:
             subject_scores[subject] = score
 
-    detected_subject = max(subject_scores, key=subject_scores.get) if subject_scores else "general"
+    # Require at least 2 keyword hits to claim a subject; otherwise "general".
+    # This prevents a single generic word ("map", "river") from mislabelling
+    # a tech/startup document as "geography".
+    strong = {s: sc for s, sc in subject_scores.items() if sc >= 2}
+    if strong:
+        detected_subject = max(strong, key=strong.get)
+    elif subject_scores:
+        # Only one subject has any hits AND score == 1 — use it only if unique
+        if len(subject_scores) == 1:
+            detected_subject = next(iter(subject_scores))
+        else:
+            detected_subject = "general"
+    else:
+        detected_subject = "general"
 
     # Education level detection
     detected_level = None
@@ -399,21 +427,70 @@ def analyze_pdf_metadata(text: str) -> dict:
         content_text = text[content_start:]
         headings = []
         seen = set()
+
+        # ── Pass 1: ALL-CAPS lines (presentation/pitch-deck style) ──────
+        # e.g. "PROBLEM STATEMENT", "TECHNICAL APPROACH", "BUSINESS MODEL"
+        # Must be 6–60 chars, mostly uppercase alpha, not pure boilerplate.
         for line in content_text.split('\n'):
             line = line.strip()
-            if len(line) < 4 or len(line) > 80:
+            if len(line) < 6 or len(line) > 60:
                 continue
-            if re.match(r'^[\d\s\.\-\u2013\u0966-\u096F\(\)]+$', line):
-                continue
-            alpha_count = len(re.findall(r'[A-Za-z\u0900-\u097F]', line))
-            if alpha_count < 3:
+            alpha = re.findall(r'[A-Za-z]', line)
+            if len(alpha) < 4:
                 continue
             if _is_boilerplate_line(line):
                 continue
-            if re.search(r'\s+\d{1,3}\s*$', line) and len(line) < 60:
-                clean = re.sub(r'\s+\d{1,3}\s*$', '', line).strip()
-                if len(clean) > 4:
-                    line = clean
+            upper = sum(1 for c in alpha if c.isupper())
+            # ≥ 80% uppercase letters → treat as a section heading
+            if upper / len(alpha) >= 0.80:
+                key = line[:35].lower()
+                if key not in seen:
+                    seen.add(key)
+                    headings.append(line)
+
+        # ── Pass 2: Mixed-case heading indicators ────────────────────────
+        # e.g. "Proposed Solution", "Challenges Faced", "Business Model"
+        # Heuristic: 4–60 chars, starts with capital, ≥ 2 words, no
+        # sentence punctuation (no period/comma mid-line).
+        _HEADING_START_RE = re.compile(
+            r'^[A-Z\u0900-\u097F❖•][^\n]{3,58}$'
+        )
+        for line in content_text.split('\n'):
+            line = line.strip()
+            # Remove leading bullet/arrow chars
+            line = re.sub(r'^[❖•▶➤→\-–]+\s*', '', line).strip()
+            if len(line) < 6 or len(line) > 60:
+                continue
+            # Must start with capital or Hindi char
+            if not _HEADING_START_RE.match(line):
+                continue
+            alpha = re.findall(r'[A-Za-z\u0900-\u097F]', line)
+            if len(alpha) < 5:
+                continue
+            if _is_boilerplate_line(line):
+                continue
+            # Reject lines that look like sentence fragments or list items:
+            # - ends with a comma, has only 1 word, or contains a full stop mid-line
+            words = line.split()
+            if len(words) < 2:
+                continue
+            if line.endswith(',') or line.endswith(':'):
+                continue
+            # Must be _is_heading_line OR look like a title (Title Case / ALL CAPS)
+            # OR match common structural heading keywords
+            _STRUCTURAL_KW = re.compile(
+                r'\b(problem|solution|approach|model|impact|benefit|'
+                r'challenge|feasib|viabilit|prototype|overview|introduc|'
+                r'background|objective|scope|method|result|conclusion|'
+                r'summary|recommend|implement|architecture|design|system|'
+                r'feature|requirement|technical|business|financial|'
+                r'market|vision|mission|team|participant|title)\b',
+                re.IGNORECASE
+            )
+            is_title_case = sum(1 for w in words if w and w[0].isupper()) >= len(words) * 0.6
+            is_structural = bool(_STRUCTURAL_KW.search(line))
+            if not (is_title_case or is_structural or _is_heading_line(line)):
+                continue
             key = line[:35].lower()
             if key not in seen:
                 seen.add(key)

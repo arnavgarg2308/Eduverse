@@ -193,21 +193,10 @@ def merge_audio_video(
         / f"scene_{scene_number:03d}_final.mp4"
     )
 
-    # Get audio duration
-    result = subprocess.run(
-        [
-            "ffprobe",
-            "-v", "error",
-            "-show_entries", "format=duration",
-            "-of", "default=noprint_wrappers=1:nokey=1",
-            str(audio_file)
-        ],
-        capture_output=True,
-        text=True,
-        check=True
-    )
-
-    audio_duration = float(result.stdout.strip())
+    # Get audio duration using Python wave module (avoids ffprobe dependency)
+    import wave as _wave
+    with _wave.open(str(audio_file), 'rb') as _wf:
+        audio_duration = _wf.getnframes() / _wf.getframerate()
 
     print(f"Audio duration: {audio_duration:.2f} seconds")
 

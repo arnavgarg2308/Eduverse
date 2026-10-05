@@ -84,7 +84,7 @@ async def generate_video(
     # 3. CREATE SCENE PLAN
     # ==========================================
 
-    project_root = Path(__file__).resolve().parents[2]
+    project_root = Path(__file__).resolve().parents[3]
 
     scene_plan_path = (
         project_root

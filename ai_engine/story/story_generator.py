@@ -1,6 +1,13 @@
+from __future__ import annotations
+
 import re
 
-from ai_engine.core.model import EduMorphModel
+# EduMorphModel is only needed at runtime when generate() is called.
+# Importing it here as a string annotation avoids requiring torch/transformers
+# at import time (useful for testing with a mock model).
+from typing import TYPE_CHECKING
+if TYPE_CHECKING:
+    from ai_engine.core.model import EduMorphModel
 
 
 # ──────────────────────────────────────────────────────────────
@@ -229,6 +236,7 @@ def extract_quality_points(text: str, max_points: int = 12) -> list:
     Extract meaningful educational sentences from text.
     Works for both Hindi and English content.
     Deduplicates repeated PDF pages.
+    Rejects any sentence that looks like instruction/prompt text.
     """
     raw = re.split(r'[।.!?\n]+', text)
     points = []
@@ -237,6 +245,9 @@ def extract_quality_points(text: str, max_points: int = 12) -> list:
 
     for s in raw:
         s = re.sub(r'\s+', ' ', s).strip()
+        # Strip leading figure/activity numbers: "3 flowers..." → "flowers..."
+        # Patterns: "Fig 4", "1 Testing", "Activity 2", etc.
+        s = re.sub(r'^(Fig\.?\s*\d+\s*|Activity\s*\d+\s*|\d+\s+(?=[A-Z\u0900]))', '', s).strip()
         # Length filter
         if len(s) < 20 or len(s) > 400:
             continue
@@ -247,6 +258,9 @@ def extract_quality_points(text: str, max_points: int = 12) -> list:
         # For Hindi text: require at least 25% Hindi chars
         hindi_chars = len(re.findall(r'[\u0900-\u097F]', s))
         if language == "hi" and hindi_chars > 0 and hindi_chars / len(alpha) < 0.20:
+            continue
+        # Reject prompt/instruction leakage in extracted sentences too
+        if _is_prompt_leakage(s):
             continue
         # Deduplicate by first 35 chars
         key = s[:35].lower()
@@ -293,6 +307,51 @@ def _build_scene(index: int, title: str, narration: str, language: str) -> dict:
         "keywords": keywords,
         "language": language,
     }
+
+
+# ──────────────────────────────────────────────────────────────
+# PROMPT-LEAKAGE DETECTION
+# ──────────────────────────────────────────────────────────────
+
+# Phrases that indicate the model echoed the instruction prompt
+# rather than generating content from the document.
+_LEAKAGE_PHRASES = [
+    "you are an expert",
+    "you are a",
+    "read the content below",
+    "read the content",
+    "write 4 to 10",
+    "write a clear educational",
+    "write a summary",
+    "short learning points",
+    "your task is",
+    "output json",
+    "educational explanation",
+    "rules:",
+    "do not invent",
+    "do not copy",
+    "use the same language",
+    "detect the real topic",
+    "each point should",
+    "separated by newlines",
+    "summarize in 5",
+    "summarize in",
+    "content below",
+    "page numbers or metadata",
+    # Hindi equivalents
+    "आप एक विशेषज्ञ",
+    "नीचे दी गई सामग्री",
+    "शैक्षिक व्याख्या",
+]
+
+
+def _is_prompt_leakage(text: str) -> bool:
+    """
+    Return True if this text looks like the model echoed an
+    instruction prompt rather than generating educational content.
+    """
+    lower = text.lower().strip()
+    return any(phrase in lower for phrase in _LEAKAGE_PHRASES)
 
 
 # ──────────────────────────────────────────────────────────────
@@ -355,31 +414,42 @@ class StoryGenerator:
                     continue
                 scenes.append(_build_scene(i, title, narration, language))
 
-        # ── 3. If no heading-based scenes, use FLAN-T5 ──────
+        # ── 3. If no heading-based scenes, try FLAN-T5 then fallback ──
         if len(scenes) < 2:
-            content_for_ai = content_text[:6000]
-            prompt = f"""You are an expert teacher for {education_level} students.
+            content_for_ai = content_text[:3000]
+            # Keep the prompt short so FLAN-T5-small doesn't echo it
+            short_prompt = (
+                f"Summarize in 5 educational points:\n\n{content_for_ai}"
+            )
 
-Read the content below and write a clear educational explanation.
-Rules:
-- Detect the real topic from the content itself.
-- Use the same language as the content.
-- Do not invent facts not present in the content.
-- Write 4 to 10 short learning points separated by newlines.
-- Each point should be one complete educational idea from the content.
-- Do not copy page numbers or metadata.
+            ai_points = []
+            try:
+                explanation = self.model.generate(
+                    short_prompt, max_new_tokens=300
+                ).strip()
+                raw_points = re.split(r"[।.!?\n]+", explanation)
+                for p in raw_points:
+                    p = p.strip(" -•\t1234567890.")
+                    if len(p) < 20:
+                        continue
+                    # ── PROMPT-LEAKAGE GUARD ────────────────────────
+                    if _is_prompt_leakage(p):
+                        print(f"[STORY] REJECTED leaky output: {p[:60]}")
+                        continue
+                    ai_points.append(p)
+            except Exception as exc:
+                print(f"[STORY] FLAN-T5 error: {exc}")
 
-Content:
-{content_for_ai}
-
-Educational explanation:""".strip()
-
-            explanation = self.model.generate(prompt, max_new_tokens=500).strip()
-            raw_points = re.split(r"[।.!?\n]+", explanation)
-            points = [p.strip(" -•\t") for p in raw_points if len(p.strip()) >= 20]
-
-            # Fallback: extract quality sentences from content (not front-matter)
-            if len(points) < 2:
+            # If FLAN-T5 gave at least 2 clean points, use them;
+            # otherwise fall back 100% to direct content extraction
+            if len(ai_points) >= 2:
+                print(f"[STORY] FLAN-T5 gave {len(ai_points)} clean points")
+                points = ai_points
+            else:
+                print(
+                    f"[STORY] FLAN-T5 produced {len(ai_points)} usable points "
+                    "— using direct content extraction"
+                )
                 points = extract_quality_points(content_text, max_points=10)
 
             scenes = []
