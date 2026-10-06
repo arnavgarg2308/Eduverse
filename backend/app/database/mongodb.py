@@ -7,19 +7,23 @@ client = AsyncIOMotorClient(MONGODB_URL)
 
 database = client[DATABASE_NAME]
 
-# GridFS bucket for storing PDF, video and audio files
-gridfs_bucket = AsyncIOMotorGridFSBucket(database)
+
+class GridFSBucketProxy:
+    def __getattr__(self, name):
+        bucket = AsyncIOMotorGridFSBucket(database)
+        return getattr(bucket, name)
+
+
+gridfs_bucket = GridFSBucketProxy()
 
 
 async def connect_to_mongo():
-
     await client.admin.command("ping")
 
     print("MongoDB connected successfully")
 
 
 async def close_mongo_connection():
-
     client.close()
 
     print("MongoDB connection closed")
